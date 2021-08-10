@@ -21,14 +21,15 @@ Three years ago the company decided to add services for the design and developme
 
 ### Staff
 
-Wendy Opal - Director
-Terrence Stewart - Manager - Network IT Support
-Vinh Ngyen - Manager - Development
-Frank Marks - Manager - Multimedia Productions
-Sally Bach - Manager - Sales and Marketing
-Amy Corgen - Manager - Human Resources
-Max Boags - Manager - Accounts
-
+| Name             | Role      | Department              |
+|------------------|-----------|-------------------------|
+| Wendy Opal       | Director  |                         |
+| Terrence Stewart | Manager   | Network IT Support      |
+| Vinh Ngyen       | Manager   | Development             |
+| Frank Marks      | Manager   | Multimedia Productions  |
+| Sally Bach       | Manager   | Sales and Marketing     |
+| Amy Corgen       | Manager   | Human Resources         |
+| Max Boags        | Manager   | Accounts                |
 
 ## ROI_Scenario_add_info_1.pdf
 
@@ -184,7 +185,7 @@ ROI_Operating_system_rollout.docx
 
 ROI_Org_chart.pdf
 
-> Org_chart
+> Organization chart
 
 ROI_Policy_AD_EEO.pdf
 
