@@ -21,11 +21,14 @@ Three years ago the company decided to add services for the design and developme
 
 ### Staff
 
-(see: ROI_IT_Gov_policy)
 Wendy Opal - Director
-Amy Corgan - Manager, HR
-Terrence Stewart - Network Manager, IT Support
-Max Boags - Manager, Accounts
+Terrence Stewart - Manager - Network IT Support
+Vinh Ngyen - Manager - Development
+Frank Marks - Manager - Multimedia Productions
+Sally Bach - Manager - Sales and Marketing
+Amy Corgen - Manager - Human Resources
+Max Boags - Manager - Accounts
+
 
 ## ROI_Scenario_add_info_1.pdf
 

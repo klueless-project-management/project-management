@@ -19,44 +19,28 @@ Part1:
 |IT|ROI IT Gov policy|List of major stakeholders plus rules (Principles) on new IT projects|
 |IT|ROI IT Infr change survey results.pdf|Virtualisation is being implemented by many organisations and the IT Support Network Manager of Red Opal Innovations, Terrence Stewart, is interested in exploring the possibility of introducing virtualised servers at Red Opal Innovations.|
 |IT|ROI NW server register.pdf|List of all 5 servers, their purpose and services they offer, specifications, network diagram|
+|Operations|ROI Org chart.pdf|Organization chart|
 
 ### **Step 1.2 - Stakeholders**
 Identify the stakeholders involved in this project.  To do this:
 
-- Identify the role and name (if available) of the stakeholder
-- Identify if this is a key stakeholder by including the word “Key”
-- Identify if this is an internal or external stakeholder
-- Describe how this stakeholder is relevant to the project including the *type* of information you *expect* to source from them.
-
-
-
-
 |**Stakeholder Role / Name**|**Internal / External**|**Key**|**Relevance / Type of information**|
 | :- | :- | :- | :- |
-|Wendy Opal / Director|Internal|||
-|Amy Corgan / Manager, HR|Internal|||
-|Max Boags / Manager, Accounts|Internal|||
-|Vinh Ngyen / Manager Development|Internal|||
-|Frank Marks / Manager Multimedia|Internal|||
-|Sally Bach / Manager, Sales & Marketing|Internal|||
+|Wendy Opal / Director|Internal|Key|Senior management|
+|David Cruwys|External||Project Manager|
+|Amy Corgan / Manager, HR|Internal||Human resouces / staffing for the project, end-user|
+|Max Boags / Manager, Accounts|Internal||Financial/Purse strings, end-user|
+|Vinh Ngyen / Manager Development|Internal||End-user|
+|Frank Marks / Manager Multimedia|Internal||End-user|
+|Sally Bach / Manager, Sales & Marketing|Internal||End-user, plus knows what external customers are asking for|
 |Terrence Stewart / Manager Network/IT Support|Internal|Key|Project sponsor, network manager, IT support, IT Infrustructure expert|
 
-### **Step 1.3 – Critical questions for stakeholders**
-Prepare a list of critical questions to ask key stakeholders. To do this:
-
-- Identify the role and name (if available) of the stakeholder
-- Identify the information gathering technique you will use to ask these questions. 
-  Ensure you identify a range of information gathering techniques in your answer. 
-- List the critical questions you wish to ask. This will be a mixture of open and closed questions. Ensure that you have at least three (3) questions for each stakeholder. Ensure that there is at least one (1) unique question for each stakeholder
-
-Use the following table to document your answer. Add extra rows to the table as needed. 
-*(Approx. 200 words)*
+### Step 1.3 – Critical questions for stakeholders
 
 Stakeholder critical questions
 
 |**Stakeholder Role / Name**|**Information Gathering Technique**|**Critical Questions**|
 | :- | :- | :- |
-
 |Wendy Opal / Director|Interview|What is the main reason for this project?|
 |Wendy Opal / Director|Interview|What are the challenges with the old system?|
 |Wendy Opal / Director|Interview|What business metrics/KPI will be impacted by this project?|
@@ -77,40 +61,15 @@ Stakeholder critical questions
 |Frank Marks / Manager Multimedia Productions|Focus Group|How do you see the content creators being impacted by the virtualization infrastructure project|
 |Sally Bach / Manager Sales and Marketing|Focus Group|What benefits from this project do you see for your department|
 |Sally Bach / Manager Sales and Marketing|Focus Group|Do you see the sales or marketing being impacted by the virtualization infrastructure project|
-
-
-|Terrence Stewart / Manager IT|Existing staff don’t have full range of technical skills in the area of multimedia and content management systems.?|
-|Terrence Stewart / Manager IT|Internal network infrastructure is near capacity and needs re-designing to meet the increase in network traffic if new business is generated.|
-|Terrence Stewart / Manager IT|Can this be outsourced|
-|Terrence Stewart / Manager IT|How will this project increase website design and multimedia production clients by 20% in the next 12 months?|
-|Terrence Stewart / Manager IT|Would this this project help with identifying new lower cost products to attract small business owners, with the aim of signing 50 new clients in this demographic in the next 12 months.|
-|Terrence Stewart / Manager IT|How will this project help with our environmentally sustainable goals?|
-|Terrence Stewart / Manager IT|How does this project allow us to offer hosted solutions.|
-
+|Terrence Stewart / Manager IT|Interview|Existing staff don’t have full range of technical skills in the area of multimedia and content management systems.?|
+|Terrence Stewart / Manager IT|Interview|Internal network infrastructure is near capacity and needs re-designing to meet the increase in network traffic if new business is generated.|
+|Terrence Stewart / Manager IT|Interview|Can this be outsourced|
+|Terrence Stewart / Manager IT|Interview|Could this project help with the company goal: Increase website design and multimedia production clients by 20% in the next 12 months?|
+|Terrence Stewart / Manager IT|Interview|Could this project help with the company goal: Identify new lower cost products to attract small business owners, with the aim of signing 50 new clients in this demographic in the next 12 months.|
+|Terrence Stewart / Manager IT|Interview|Could this project help with the company goal: improve  environmentally sustainable goals?|
+|Terrence Stewart / Manager IT|Interview|Could this project help with the company goal: How does this project allow us to offer hosted solutions.|
 |Terrence Stewart / Manager IT|Interview|What internal team members do you currently have available?|
 |Terrence Stewart / Manager IT|Interview|Do you think you need extra staff?|
 |Terrence Stewart / Manager IT|Interview|Do your existing IT infrastructure team members need training?|
-|Terrence Stewart / Manager IT|Interview|If yes, what training are they likely to needed|
 |Terrence Stewart / Manager IT|Interview|Do your existing IT support team members need training?|
-|Terrence Stewart / Manager IT|Interview|Do new procedure guides need to be developed?|
 
-
-For example, an IT manager would have knowledge about existing vendor arrangements, the ability of the IT team to maintain or support a new IT system, etc.  Also, different stakeholders might want to achieve different business goals.
-
-Data Gathering Techniques
-
-Interviews, Focus Groups, Brain Storming,  Data Analysis, Prototypes, Questionnaires and Surveys
-Benchmarking
-Brainstorming
-Check sheets
-Checklists
-Focus groups
-Interviews
-Market research
-Questionnaires and surveys
-Statistical sampling 
-
-When coming up with interview questions, be sure to think about the following:
-What can I ask to better understand the problem the business is facing, and the problem domain?
-What can I ask to better understand the business goals/objectives they want to achieve?
-What are some questions that are relevant to the specific stakeholder I'm interviewing?
