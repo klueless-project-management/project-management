@@ -20,6 +20,8 @@ Part1:
 |IT|ROI IT Infr change survey results.pdf|Virtualisation is being implemented by many organisations and the IT Support Network Manager of Red Opal Innovations, Terrence Stewart, is interested in exploring the possibility of introducing virtualised servers at Red Opal Innovations.|
 |IT|ROI NW server register.pdf|List of all 5 servers, their purpose and services they offer, specifications, network diagram|
 |Operations|ROI Org chart.pdf|Organization chart|
+|Operations|ROI Strategic plan.pdf|IT Strategic Plan|
+
 
 ### **Step 1.2 - Stakeholders**
 Identify the stakeholders involved in this project.  To do this:

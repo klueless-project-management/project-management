@@ -30,6 +30,10 @@ Three years ago the company decided to add services for the design and developme
 | Sally Bach       | Manager   | Sales and Marketing     |
 | Amy Corgen       | Manager   | Human Resources         |
 | Max Boags        | Manager   | Accounts                |
+| B Luff           | Support   | IT                      |
+| S Manson         | Support   | IT                      |
+
+
 
 ## ROI_Scenario_add_info_1.pdf
 
