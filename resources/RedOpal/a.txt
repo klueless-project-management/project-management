@@ -1,59 +1,110 @@
-total 11672
-drwxr-xr-x  58 davidcruwys  staff   1.8K  9 Aug 15:49 .
-drwxr-xr-x   5 davidcruwys  staff   160B  2 Aug 14:42 ..
--rw-rw-r--   1 davidcruwys  staff    35K 26 Jul 18:21 ROI_Asset_register.xlsx
--rw-rw-r--   1 davidcruwys  staff    33K 26 Jul 18:21 ROI_Call_logs_current.xlsx
--rw-rw-r--   1 davidcruwys  staff    35K 26 Jul 18:21 ROI_Call_logs_prev.xlsx
--rw-rw-r--   1 davidcruwys  staff    56K 26 Jul 18:21 ROI_Copyright_statement.pdf
--rw-rw-r--@  1 davidcruwys  staff    60K 26 Jul 18:21 ROI_Data_Analysis_Report_template.dotx
--rw-rw-r--   1 davidcruwys  staff    62K 26 Jul 18:21 ROI_Data_backup_policy.pdf
--rw-rw-r--   1 davidcruwys  staff    32K 26 Jul 18:21 ROI_Elec_usage.xlsx
--rw-rw-r--@  1 davidcruwys  staff    60K 26 Jul 18:21 ROI_Email_template.docx
--rw-rw-r--   1 davidcruwys  staff    26K 26 Jul 18:21 ROI_Equip_loc_guidelines.docx
--rw-rw-r--   1 davidcruwys  staff    33K 26 Jul 18:21 ROI_Equip_maint_schedule.docx
--rw-rw-r--   1 davidcruwys  staff    33K 26 Jul 18:21 ROI_Fuel_usage.xlsx
--rw-rw-r--   1 davidcruwys  staff    45K 26 Jul 18:21 ROI_HW_upgrade_req.docx
--rw-rw-r--   1 davidcruwys  staff    61K 26 Jul 18:21 ROI_IT_Gov_policy.pdf
--rw-rw-r--   1 davidcruwys  staff   192K 26 Jul 18:21 ROI_IT_Infr_change_survey_results.pdf
--rw-rw-r--   1 davidcruwys  staff    27K 26 Jul 18:21 ROI_IT_Maint_log.docx
--rw-rw-r--   1 davidcruwys  staff    31K 26 Jul 18:21 ROI_IT_Maint_plan.docx
--rw-rw-r--   1 davidcruwys  staff   192K 26 Jul 18:21 ROI_IT_Maint_procedure.pdf
--rw-rw-r--   1 davidcruwys  staff   185K 26 Jul 18:21 ROI_IT_Procurement_policy.pdf
--rw-rw-r--   1 davidcruwys  staff    94K 26 Jul 18:21 ROI_IT_WHS_checklist.pdf
--rw-rw-r--   1 davidcruwys  staff    41K 26 Jul 18:21 ROI_Installation_comp.docx
--rw-rw-r--   1 davidcruwys  staff    40K 26 Jul 18:21 ROI_Installation_plan.docx
--rw-rw-r--   1 davidcruwys  staff   137K 26 Jul 18:21 ROI_Internal Product_Version Control_20210128.pdf
--rw-rw-r--   1 davidcruwys  staff    22K 26 Jul 18:21 ROI_Logo.jpg
--rw-rw-r--   1 davidcruwys  staff    84K 26 Jul 18:21 ROI_NW_server_register.pdf
--rw-rw-r--   1 davidcruwys  staff   346K 26 Jul 18:21 ROI_New_staff_IT_induction_kit.pdf
--rw-rw-r--   1 davidcruwys  staff    80K 26 Jul 18:21 ROI_Operating_system_rollout.docx
--rw-rw-r--   1 davidcruwys  staff    95K 26 Jul 18:21 ROI_Org_chart.pdf
--rw-rw-r--   1 davidcruwys  staff   137K 26 Jul 18:21 ROI_Policy_AD_EEO.pdf
--rw-rw-r--   1 davidcruwys  staff   133K 26 Jul 18:21 ROI_Policy_ES.pdf
--rw-rw-r--   1 davidcruwys  staff   130K 26 Jul 18:21 ROI_Policy_WHS.pdf
--rw-rw-r--   1 davidcruwys  staff   124K 26 Jul 18:21 ROI_Privacy_policy.pdf
--rw-rw-r--   1 davidcruwys  staff    95K 26 Jul 18:21 ROI_Procedure_Communication.pdf
--rw-rw-r--   1 davidcruwys  staff   110K 26 Jul 18:21 ROI_Procedure_RecordsManagement.pdf
--rw-rw-r--   1 davidcruwys  staff   107K 26 Jul 18:21 ROI_Procedure_start_up_shut_down.pdf
--rw-rw-r--   1 davidcruwys  staff   111K 26 Jul 18:21 ROI_Procedure_use_of_PPE.pdf
--rw-rw-r--   1 davidcruwys  staff   110K 26 Jul 18:21 ROI_Procedure_workstation_setup.pdf
--rw-rw-r--   1 davidcruwys  staff   106K 26 Jul 18:21 ROI_Process_recruitment.pdf
--rw-rw-r--   1 davidcruwys  staff    52K 26 Jul 18:21 ROI_Quotation_req.docx
--rw-rw-r--@  1 davidcruwys  staff   115K 26 Jul 18:21 ROI_Report_template.dotx
--rw-rw-r--   1 davidcruwys  staff   236K 26 Jul 18:21 ROI_SLA.pdf
--rw-rw-r--   1 davidcruwys  staff    59K 26 Jul 18:21 ROI_SOE.pdf
--rw-rw-r--   1 davidcruwys  staff    26K 26 Jul 18:21 ROI_Scenario.pdf
--rw-rw-r--@  1 davidcruwys  staff    50K 26 Jul 18:21 ROI_Scenario_add_info_1.pdf
--rw-rw-r--@  1 davidcruwys  staff    51K 26 Jul 18:21 ROI_Scenario_add_info_2.pdf
--rw-rw-r--@  1 davidcruwys  staff    58K 26 Jul 18:21 ROI_Scenario_add_info_3.pdf
--rw-rw-r--   1 davidcruwys  staff    60K 26 Jul 18:21 ROI_Software_test_report.docx
--rw-rw-r--   1 davidcruwys  staff    73K 26 Jul 18:21 ROI_Strategic_plan.pdf
--rw-rw-r--@  1 davidcruwys  staff   464K 26 Jul 18:21 ROI_Style_guide.pdf
--rw-rw-r--   1 davidcruwys  staff    54K 26 Jul 18:21 ROI_Task_planner.docx
--rw-rw-r--   1 davidcruwys  staff    67K 26 Jul 18:21 ROI_User_account_policy.pdf
--rw-rw-r--   1 davidcruwys  staff    98K 26 Jul 18:21 ROI_User_doc_plan.docx
--rw-rw-r--   1 davidcruwys  staff    79K 26 Jul 18:21 ROI_User_eval.docx
--rw-rw-r--   1 davidcruwys  staff    59K 26 Jul 18:21 ROI_WHS_policy_draft.pdf
--rw-rw-r--   1 davidcruwys  staff   843K 26 Jul 18:21 ROI_graphics.zip
--rw-r--r--   1 davidcruwys  staff     0B  9 Aug 15:49 a.txt
--rw-r--r--   1 davidcruwys  staff   4.4K  9 Aug 15:49 a.tzt
+
+| xlsx | Asset register                            | Asset_register.png                |
+| xlsx | Call logs current                         | Call_logs_current.png             |
+| xlsx | Call logs prev                            | Call_logs_prev.png                |
+| pdf  | Copyright statement                       | Copyright_statement.png           |
+| dotx | Data Analysis Report template             | Data_Analysis_Report_template.png |
+| pdf  | Data backup policy                        | Data_backup_policy.png            |
+| xlsx | Elec usage                                | Elec_usage.png                    |
+| docx | Email template                            | Email_template.png                |
+| docx | Equip loc guidelines                      | Equip_loc_guidelines.png          |
+| docx | Equip maint schedule                      | Equip_maint_schedule.png          |
+| xlsx | Fuel usage                                | Fuel_usage.png                    |
+| docx | HW upgrade req                            | HW_upgrade_req.png                |
+| pdf  | IT Gov policy                             | IT_Gov_policy.png                 |
+| pdf  | IT Infr change survey results             | IT_Infr_change_survey_results.png |
+| docx | IT Maint log                              | IT_Maint_log.png                  |
+| docx | IT Maint plan                             | IT_Maint_plan.png                 |
+| pdf  | IT Maint procedure                        | IT_Maint_procedure.png            |
+| pdf  | IT Procurement policy                     | IT_Procurement_policy.png         |
+| pdf  | IT WHS checklist                          | IT_WHS_checklist.png              |
+| docx | Installation comp                         | Installation_comp.png             |
+| docx | Installation plan                         | Installation_plan.png             |
+| pdf  | Internal Product Version Control 20210128 | Internal.png                      |
+| jpg  | Logo                                      | Logo.png                          |
+| pdf  | NW server register                        | NW_server_register.png            |
+| pdf  | New staff IT induction kit                | New_staff_IT_induction_kit.png    |
+| docx | Operating system rollout                  | Operating_system_rollout.png      |
+| pdf  | Org chart                                 | Org_chart.png                     |
+| pdf  | Policy AD EEO                             | Policy_AD_EEO.png                 |
+| pdf  | Policy ES                                 | Policy_ES.png                     |
+| pdf  | Policy WHS                                | Policy_WHS.png                    |
+| pdf  | Privacy policy                            | Privacy_policy.png                |
+| pdf  | Procedure Communication                   | Procedure_Communication.png       |
+| pdf  | Procedure RecordsManagement               | Procedure_RecordsManagement.png   |
+| pdf  | Procedure start up shut down              | Procedure_start_up_shut_down.png  |
+| pdf  | Procedure use of PPE                      | Procedure_use_of_PPE.png          |
+| pdf  | Procedure workstation setup               | Procedure_workstation_setup.png   |
+| pdf  | Process recruitment                       | Process_recruitment.png           |
+| docx | Quotation req                             | Quotation_req.png                 |
+| dotx | Report template                           | Report_template.png               |
+| pdf  | SLA                                       | SLA.png                           |
+| pdf  | SOE                                       | SOE.png                           |
+| pdf  | Scenario                                  | Scenario.png                      |
+| pdf  | Scenario add info 1                       | Scenario_add_info_1.png           |
+| pdf  | Scenario add info 2                       | Scenario_add_info_2.png           |
+| pdf  | Scenario add info 3                       | Scenario_add_info_3.png           |
+| docx | Software test report                      | Software_test_report.png          |
+| pdf  | Strategic plan                            | Strategic_plan.png                |
+| pdf  | Style guide                               | Style_guide.png                   |
+| docx | Task planner                              | Task_planner.png                  |
+| pdf  | User account policy                       | User_account_policy.png           |
+| docx | User doc plan                             | User_doc_plan.png                 |
+| docx | User eval                                 | User_eval.png                     |
+| pdf  | WHS policy draft                          | WHS_policy_draft.png              |
+| zip  | graphics                                  | graphics.png                      |
+
+
+sc Call_logs_current
+sc Call_logs_prev
+sc Copyright_statement
+sc Data_Analysis_Report_template
+sc Data_backup_policy
+sc Elec_usage
+sc Email_template
+sc Equip_loc_guidelines
+sc Equip_maint_schedule
+sc Fuel_usage
+sc HW_upgrade_req
+sc IT_Gov_policy
+sc IT_Infr_change_survey_results
+sc IT_Maint_log
+sc IT_Maint_plan
+sc IT_Maint_procedure
+sc IT_Procurement_policy
+sc IT_WHS_checklist
+sc Installation_comp
+sc Installation_plan
+sc Internal
+sc Logo
+sc NW_server_register
+sc New_staff_IT_induction_kit
+sc Operating_system_rollout
+sc Org_chart
+sc Policy_AD_EEO
+sc Policy_ES
+sc Policy_WHS
+sc Privacy_policy
+sc Procedure_Communication
+sc Procedure_RecordsManagement
+sc Procedure_start_up_shut_down
+sc Procedure_use_of_PPE
+sc Procedure_workstation_setup
+sc Process_recruitment
+sc Quotation_req
+sc Report_template
+sc SLA
+sc SOE
+sc Scenario
+sc Scenario_add_info_1
+sc Scenario_add_info_2
+sc Scenario_add_info_3
+sc Software_test_report
+sc Strategic_plan
+sc Style_guide
+sc Task_planner
+sc User_account_policy
+sc User_doc_plan
+sc User_eval
+sc WHS_policy_draft
+sc graphics

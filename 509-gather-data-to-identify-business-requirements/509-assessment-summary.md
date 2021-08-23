@@ -1,9 +1,7 @@
-rename this file to: ROI_Data_Analysis_Report_YourName.docx
-
+rename this file to: ROI_Data_Analysis_Report_YourName..docx
 # Summary of documents
 
-## ROI_Scenario.pdf
-
+## ROI_Scenario..pdf
 Red Opal Innovations (ROI) is an information technology company that commenced operations in 2004. The focus of the business at that time was IT and network consultancy services for small to medium sized businesses.
 
 Three years ago the company decided to add services for the design and development of websites, multimedia products and customised applications.
@@ -33,270 +31,656 @@ Three years ago the company decided to add services for the design and developme
 | B Luff           | Support   | IT                      |
 | S Manson         | Support   | IT                      |
 
+../resources/snapshots/
 
 
-## ROI_Scenario_add_info_1.pdf
+| Type | Name                               | Preview                           | Description             |
+|-------------------------------------------|-----------------------------------|-------------------------|
 
-During the first seven years of operation, the company experienced a steady growth of 5-10% per year. 
+#### List of desktop computers, costings and department location
 
-As new staff members were employed, and as the IT Support team at ROI is small, computers were added as needed on an ad hoc basis. 
+**ROI_Asset_register.xlsx**
 
-In the last few years, ROI has experienced a stronger growth of 20-30% per year and has become very profitable. As a consequence, the information technology infrastructure has become outdated and is not coping well with the growth of the organisation.
+![](../resources/snapshots/asset_register.png)
 
-This infrastructure consists of five separate physical servers, each with an assigned role(s). All servers connect directly to a gigabit network switch that connects to the local area network (LAN).
+#### Current support tickets
 
-The proxy/firewall server is connected directly to the edge router, which connects to the Internet Service Provider (ISP).
+**ROI_Call_logs_current.xlsx**
 
-ROI currently has a Telstra Bizessentials plan for broadband Internet.
+![](../resources/snapshots/call_logs_current.png)
 
-All servers are required to be documented in the Network Server Register, including a network diagram.
+#### History of support tickets
 
-## ROI_Scenario_add_info_2.pdf
+**ROI_Call_logs_prev.xlsx**
 
-Red Opal Innovations (ROI) is expanding and moving to a new location. To allow for the expansion, they need to replace the Domain Controller Server with a view to virtualising the server (this will mean that you need to ensure that it’s powerful enough).
+![](../resources/snapshots/call_logs_prev.png)
 
-ROI plans to use the new server to host the existing servers in a virtual environment.
+#### Copyright statement
 
-The new premises has NBN and FTTP (fibre to the premises) available.
+**ROI_Copyright_statement.pdf**
 
-ROI would like to have a mobile work environment – employees may be required to work at the client’s location, work in small teams within the office in different locations, or they may be working by themselves.
+![](../resources/snapshots/copyright_statement.png)
 
-ROI’s workstations are currently using a Windows 8.1 environment and use development software including Adobe Creative Cloud, which will remain unchanged.
+#### Data Analysis Report (template)
 
-The budget for this project is $150,000. This should cover the new server, the network infrastructure and workstations.
+**ROI_Data_Analysis_Report_template.dotx**
 
-ROI_Asset_register.xlsx
+![](../resources/snapshots/data_analysis_report_template.png)
 
-> List of desktop computers, costings and department location
+#### This policy outlines the safekeeping of files and user data, and includes tasks such as 
 
-ROI_Call_logs_current.xlsx
+**ROI_Data_backup_policy.pdf**
+backup and restore. Lots more information here
+![](../resources/snapshots/data_backup_policy.png)
 
-> Current support tickets
+#### Electricity bills on a 2 month basis
 
-ROI_Call_logs_prev.xlsx
+**ROI_Elec_usage.xlsx**
 
-> History of support tickets
+![](../resources/snapshots/elec_usage.png)
 
-ROI_Copyright_statement.pdf
+#### Email guidelines, Template for sending emails
 
-> Copyright statement
+**ROI_Email_template.docx**
 
-ROI_Data_Analysis_Report_template.dotx
+![](../resources/snapshots/email_template.png)
 
-> Data_Analysis_Report_template
+#### Equipment Location Guidelines (student to fill in)
 
-ROI_Data_backup_policy.pdf
+**ROI_Equip_loc_guidelines.docx**
 
-> This policy outlines the safekeeping of files and user data, and includes tasks such as backup and restore. Lots more information here
+![](../resources/snapshots/equip_loc_guidelines.png)
 
-ROI_Elec_usage.xlsx
+#### Equipment Maintenance Schedule (student to fill in)
 
-> Electricity bills on a 2 month basis
+**ROI_Equip_maint_schedule.docx**
 
-ROI_Email_template.docx
+![](../resources/snapshots/equip_maint_schedule.png)
 
-> Email guidelines, Template for sending emails
+#### Statistics on fuel usage per department (data)
 
-ROI_Equip_loc_guidelines.docx
+**ROI_Fuel_usage.xlsx**
 
-> Equip_loc_guidelines
+![](../resources/snapshots/fuel_usage.png)
 
-ROI_Equip_maint_schedule.docx
+#### Hardware/Software Upgrade Request (student to fill in)
 
-> Equip_maint_schedule
+**ROI_HW_upgrade_req.docx**
 
-ROI_Fuel_usage.xlsx
+![](../resources/snapshots/hw_upgrade_req.png)
 
-> Statistics on fuel usage per department
+#### The following Guiding Principles will be used by the ITGG to ensure that only quality IT 
 
-ROI_HW_upgrade_req.docx
+**ROI_IT_Gov_policy.pdf**
+systems are implemented.
+![](../resources/snapshots/it_gov_policy.png)
 
-> HW_upgrade_req
+#### Virtualisation is being implemented by many organisations and the IT Support Network 
 
-ROI_IT_Gov_policy.pdf
+**ROI_IT_Infr_change_survey_results.pdf**
+Manager of Red Opal Innovations, Terrence Stewart
+![](../resources/snapshots/it_infr_change_survey_results.png)
 
-> The following Guiding Principles will be used by the ITGG to ensure that only quality IT systems are implemented.
-> 1. All IT systems and changes should support ROI in its core business.
-> 2. All IT systems should promote operational efficiency.
-> 3. All IT systems, including information, must be secured.
-> 4. IT is managed as an investment.
-> 5. IT systems must align with ROI’s Strategic plan.
-> 6. When considering projects for approval, the full cost, including implementation,
-licensing, infrastructure, skilled staff and ongoing costs, must be documented in
-the life of the system.
-> 7. Projects will also be considered based on their Return on Investment. This may
-include financial and non-financial (qualitative) returns.
-> 8. Risks to IT systems must be considered, with appropriate mitigation strategies
-identified.
-> 9. Major system changes will usually be implemented using a pilot test before full
-scale implementation.
-> 10. Implementation or changes to IT systems must not adversely impact upon the
-productivity of business units, departments, or the organisation as a whole.
-> 11. All IT systems, processes, applications and data will have documented owners
-responsible for the implementation and maintenance.
+#### IT Maintenance Log (student to fill in)
 
-ROI_IT_Infr_change_survey_results.pdf
+**ROI_IT_Maint_log.docx**
 
-> Virtualisation is being implemented by many organisations and the IT Support Network Manager of Red Opal Innovations, Terrence Stewart, is interested in exploring the possibility of introducing virtualised servers at Red Opal Innovations.
+![](../resources/snapshots/it_maint_log.png)
 
-ROI_IT_Maint_log.docx
+#### IT Maintenance Plan (student to fill in)
 
-> IT_Maint_log
+**ROI_IT_Maint_plan.docx**
 
-ROI_IT_Maint_plan.docx
+![](../resources/snapshots/it_maint_plan.png)
 
-> IT_Maint_plan
+#### This document outlines the procedures for undertaking hardware and software maintenance 
 
-ROI_IT_Maint_procedure.pdf
+**ROI_IT_Maint_procedure.pdf**
+within ROI. All associated forms are available from the ROI Intranet.
+![](../resources/snapshots/it_maint_procedure.png)
 
-> This document outlines the procedures for undertaking hardware and software maintenance within ROI. All associated forms are available from the ROI Intranet.
+#### This policy document describes the process for researching, procuring and installing 
 
-ROI_IT_Procurement_policy.pdf
+**ROI_IT_Procurement_policy.pdf**
+hardware and software
+![](../resources/snapshots/it_procurement_policy.png)
 
-> This policy document describes the process for researching, procuring and installing hardware and software
+#### Information Technology Work Health Safety Compliance Checklist
 
-ROI_IT_WHS_checklist.pdf
+**ROI_IT_WHS_checklist.pdf**
 
-> IT_WHS_checklist
+![](../resources/snapshots/it_whs_checklist.png)
 
-ROI_Installation_comp.docx
+#### Installation Completion (student to fill in)
 
-> Installation_comp
+**ROI_Installation_comp.docx**
 
-ROI_Installation_plan.docx
+![](../resources/snapshots/installation_comp.png)
 
-> Installation_plan
+#### Installation Plan (student to fill in)
 
-ROI_Internal Product_Version Control_20210128.pdf
+**ROI_Installation_plan.docx**
 
-> Internal Product_Version Control_20210128
+![](../resources/snapshots/instalation_plan.png)
 
-ROI_Logo.jpg
+#### Internal Product_Version Control_20210128
 
-> Logo
+**ROI_InternalProductuct_Version.pdf**
 
-ROI_NW_server_register.pdf
+![](../resources/snapshots/internal_product_version.png)
 
-> List of all 5 servers, their purpose and services they offer
+#### Logo
 
-ROI_New_staff_IT_induction_kit.pdf
+**ROI_Logojpg                     **
 
-> New Staff IT Induction kit, IT support procedure, systems usage
+![](../resources/snapshots/logo.png)
 
-ROI_Operating_system_rollout.docx
+#### List of all 5 servers, their purpose and services they offer
 
-> The purpose of this document is to plan and document the pilot rollout of the latest version of the operating system used within Red Opal Innovations
+**ROI_NW_server_register.pdf**
 
-ROI_Org_chart.pdf
+![](../resources/snapshots/nw_server_register1.png)
 
-> Organization chart
+#### New Staff IT Induction kit, IT support procedure, systems usage
 
-ROI_Policy_AD_EEO.pdf
+**ROI_New_staff_IT_induction_kit.pdf**
 
-> Anti-discrimination and EEO Policy, This policy applies to all employees, contractors and potential employees.
+![](../resources/snapshots/new_staff_it_induction_kit.png)
 
-ROI_Policy_ES.pdf
+#### The purpose of this document is to plan and document the pilot rollout of the latest 
 
-> Environmental Sustainability Policy, Red Opal Innovations (ROI) recognises our responsibility to the environment to operate in an environmentally sustainable and socially responsible manner.
+**ROI_Operating_system_rollout.docx**
+version of the operating system used within Red Opal Innovations
+![](../resources/snapshots/operating_system_rollout.png)
 
-ROI_Policy_WHS.pdf
+#### Organization chart
 
-> Work Health and Safety Policy, Red Opal Innovations (ROI) believes that the provision of a safe working environment for everyone at our workplaces is an essential part of the effective operation of our organisation.
-> Information Technology Work Health Safety Compliance Checklist
+**ROI_Org_chart.pdf**
 
-ROI_Privacy_policy.pdf
+![](../resources/snapshots/org_chart.png)
 
-> Privacy_policy
+#### Anti-discrimination and EEO Policy, This policy applies to all employees, contractors and 
 
-ROI_Procedure_Communication.pdf
+**ROI_Policy_AD_EEO.pdf**
+potential employees.
+![](../resources/snapshots/policy_ad_eeo.png)
 
-> Procedure_Communication
+#### Environmental Sustainability Policy, Red Opal Innovations (ROI) recognises our 
 
-ROI_Procedure_RecordsManagement.pdf
+**ROI_Policy_ES.pdf**
+responsibility to the environment to operate in an environmentally sustainable and socially responsible manner.
+![](../resources/snapshots/policy_es.png)
 
-> Procedure_RecordsManagement
+#### Information Technology Work Health Safety Compliance Checklist
 
-ROI_Procedure_start_up_shut_down.pdf
+**ROI_Policy_WHS.pdf**
 
-> Procedure_start_up_shut_down
+![](../resources/snapshots/policy_whs.png)
 
-ROI_Procedure_use_of_PPE.pdf
+#### Privacy Policy
 
-> Procedure_use_of_PPE
+**ROI_Privacy_policy.pdf**
 
-ROI_Procedure_workstation_setup.pdf
+![](../resources/snapshots/privacy_policy.png)
 
-> Procedure_workstation_setup
+#### Procedure Communication - To provide appropriate protocols to staff to follow.
 
-ROI_Process_recruitment.pdf
+**ROI_Procedure_Communication.pdf**
 
-> Process_recruitment
+![](../resources/snapshots/procedure_communication.png)
 
-ROI_Quotation_req.docx
+#### Records and information management - Effective management of ROI information enables the 
 
-> Quotation_req
+**ROI_Procedure_RecordsManagement.pdf**
+organisation to demonstrate efficient and compliant work practices. 
+![](../resources/snapshots/procedure_recordsmanagement.png)
 
-ROI_Report_template.dotx
+#### Technology start up and shut down - This Procedure sets out the requirements for shutting 
 
-> Style guide for reports
+**ROI_Procedure_start_up_shut_down.pdf**
+down and restarting IT systems.
+![](../resources/snapshots/procedure_start_up_shut_down.png)
 
-ROI_SLA.pdf
+#### Use of Personal Protective Equipment (PPE)
 
-> SLA
+**ROI_Procedure_use_of_PPE.pdf**
 
-ROI_SOE.pdf
+![](../resources/snapshots/procedure_use_of_ppe.png)
 
-> SOE
+#### Workstation setup - Procedure sets out the how workstations (including desk, chair and 
 
-ROI_Scenario.pdf
+**ROI_Procedure_workstation_setup.pdf**
+peripherals) are to be set up to suit individual need and the type of work performed
+![](../resources/snapshots/procedure_workstation_setup.png)
 
-> Scenario
+#### Recruitment - This Process sets out the requirements for recruiting new staff members.
 
-ROI_Scenario_add_info_1.pdf
+**ROI_Process_recruitment.pdf**
 
-> Scenario_add_info_1
+![](../resources/snapshots/process_recruitment.png)
 
-ROI_Scenario_add_info_2.pdf
+#### Quotation Request (student to fill in)
 
-> Scenario_add_info_2
+**ROI_Quotation_req.docx**
 
-ROI_Scenario_add_info_3.pdf
+![](../resources/snapshots/quotation_req.png)
 
-> Scenario_add_info_3
+#### Style guide for reports (student to fill in)
 
-ROI_Software_test_report.docx
+**ROI_Report_template.dotx**
 
-> Templates for software testing (Test Cases, Test Process, Test result)
+![](../resources/snapshots/report_template.png)
 
-ROI_Strategic_plan.pdf
+#### SLA - Service Level Agreement IT Support
 
-> IT Strategic Plan
+**ROI_SLA.pdf**
 
-ROI_Style_guide.pdf
+![](../resources/snapshots/sla.png)
 
-> Branding guidelines, Web and print media guides for Logo, Typography, Colour, Images
+#### SOE
 
-ROI_Task_planner.docx
+**ROI_SOE.pdf**
 
-> Template for list of tasks, Template which can be used for planning tasks
+![](../resources/snapshots/soe.png)
 
-ROI_User_account_policy.pdf
+#### Scenario
 
-> User Account Policy, The purpose of this document is to outline the policies and procedures surrounding the creation, distribution and usage of computer user accounts within ROI.
+**ROI_Scenario.pdf**
 
-ROI_User_doc_plan.docx
+![](../resources/snapshots/scenario.png)
 
-> Documentation requirements, standards and designs
+#### Scenario_add_info_1
 
-ROI_User_eval.docx
+**ROI_Scenario_add_info_1.pdf**
 
-> User feedback on user manual
+![](../resources/snapshots/scenario_add_info_1.png)
 
-ROI_WHS_policy_draft.pdf
+#### Scenario_add_info_2
 
-> Work Health Safety Policy (Draft) - Provide everyone in the workplace with a safe and healthy working environment.
+**ROI_Scenario_add_info_2.pdf**
 
-ROI_graphics.zip
+![](../resources/snapshots/scenario_add_info_2.png)
 
-> Graphic assets
+#### Scenario_add_info_3
 
+**ROI_Scenario_add_info_3.pdf**
+
+![](../resources/snapshots/scenario_add_info_3.png)
+
+#### Templates for software testing (Test Cases, Test Process, Test result)
+
+**ROI_Software_test_report.docx**
+
+![](../resources/snapshots/software_test_report.png)
+
+#### IT Strategic Plan (main document)
+
+**ROI_Strategic_plan.pdf**
+
+![](../resources/snapshots/strategic_plan.png)
+
+#### Branding guidelines, Web and print media guides for Logo, Typography, Colour, Images
+
+**ROI_Style_guide.pdf**
+
+![](../resources/snapshots/style_guide.png)
+
+#### Template for list of tasks, Template which can be used for planning tasks
+
+**ROI_Task_planner.docx**
+
+![](../resources/snapshots/task_planner.png)
+
+#### User Account Policy, The purpose of this document is to outline the policies and 
+
+**ROI_User_account_policy.pdf**
+procedures surrounding the creation, distribution and usage of computer user accounts within ROI.
+![](../resources/snapshots/user_account_policy.png)
+
+#### Documentation requirements, standards and designs
+
+**ROI_User_doc_plan.docx**
+
+![](../resources/snapshots/user_doc_plan.png)
+
+#### User feedback on user manual
+
+**ROI_User_eval.docx**
+
+![](../resources/snapshots/user_eval.png)
+
+#### Work Health Safety Policy (Draft) - Provide everyone in the workplace with a safe and 
+
+**ROI_WHS_policy_draft.pdf**
+healthy working environment.
+![](../resources/snapshots/whs_policy_draft.png)
+
+#### Graphic assets
+
+**ROI_graphics.zip**
+
+![](../resources/snapshots/Graphics.png)
+
+#### List of desktop computers, costings and department location
+
+**ROI_Asset_register.xlsx**
+
+![](../resources/snapshots/asset_register.png)
+
+#### Current support tickets
+
+**ROI_Call_logs_current.xlsx**
+
+![](../resources/snapshots/call_logs_current.png)
+
+#### History of support tickets
+
+**ROI_Call_logs_prev.xlsx**
+
+![](../resources/snapshots/call_logs_prev.png)
+
+#### Copyright statement
+
+**ROI_Copyright_statement.pdf**
+
+![](../resources/snapshots/copyright_statement.png)
+
+#### Data Analysis Report (template)
+
+**ROI_Data_Analysis_Report_template.dotx**
+
+![](../resources/snapshots/data_analysis_report_template.png)
+
+#### This policy outlines the safekeeping of files and user data, and includes tasks such as 
+
+**ROI_Data_backup_policy.pdf**
+backup and restore. Lots more information here
+![](../resources/snapshots/data_backup_policy.png)
+
+#### Electricity bills on a 2 month basis
+
+**ROI_Elec_usage.xlsx**
+
+![](../resources/snapshots/elec_usage.png)
+
+#### Email guidelines, Template for sending emails
+
+**ROI_Email_template.docx**
+
+![](../resources/snapshots/email_template.png)
+
+#### Equipment Location Guidelines (student to fill in)
+
+**ROI_Equip_loc_guidelines.docx**
+
+![](../resources/snapshots/equip_loc_guidelines.png)
+
+#### Equipment Maintenance Schedule (student to fill in)
+
+**ROI_Equip_maint_schedule.docx**
+
+![](../resources/snapshots/equip_maint_schedule.png)
+
+#### Statistics on fuel usage per department (data)
+
+**ROI_Fuel_usage.xlsx**
+
+![](../resources/snapshots/fuel_usage.png)
+
+#### Hardware/Software Upgrade Request (student to fill in)
+
+**ROI_HW_upgrade_req.docx**
+
+![](../resources/snapshots/hw_upgrade_req.png)
+
+#### The following Guiding Principles will be used by the ITGG to ensure that only quality IT 
+
+**ROI_IT_Gov_policy.pdf**
+systems are implemented.
+![](../resources/snapshots/it_gov_policy.png)
+
+#### Virtualisation is being implemented by many organisations and the IT Support Network 
+
+**ROI_IT_Infr_change_survey_results.pdf**
+Manager of Red Opal Innovations, Terrence Stewart
+![](../resources/snapshots/it_infr_change_survey_results.png)
+
+#### IT Maintenance Log (student to fill in)
+
+**ROI_IT_Maint_log.docx**
+
+![](../resources/snapshots/it_maint_log.png)
+
+#### IT Maintenance Plan (student to fill in)
+
+**ROI_IT_Maint_plan.docx**
+
+![](../resources/snapshots/it_maint_plan.png)
+
+#### This document outlines the procedures for undertaking hardware and software maintenance 
+
+**ROI_IT_Maint_procedure.pdf**
+within ROI. All associated forms are available from the ROI Intranet.
+![](../resources/snapshots/it_maint_procedure.png)
+
+#### This policy document describes the process for researching, procuring and installing 
+
+**ROI_IT_Procurement_policy.pdf**
+hardware and software
+![](../resources/snapshots/it_procurement_policy.png)
+
+#### Information Technology Work Health Safety Compliance Checklist
+
+**ROI_IT_WHS_checklist.pdf**
+
+![](../resources/snapshots/it_whs_checklist.png)
+
+#### Installation Completion (student to fill in)
+
+**ROI_Installation_comp.docx**
+
+![](../resources/snapshots/installation_comp.png)
+
+#### Installation Plan (student to fill in)
+
+**ROI_Installation_plan.docx**
+
+![](../resources/snapshots/instalation_plan.png)
+
+#### Internal Product_Version Control_20210128
+
+**ROI_InternalProductuct_Version.pdf**
+
+![](../resources/snapshots/internal_product_version.png)
+
+#### Logo
+
+**ROI_Logojpg                     **
+
+![](../resources/snapshots/logo.png)
+
+#### List of all 5 servers, their purpose and services they offer
+
+**ROI_NW_server_register.pdf**
+
+![](../resources/snapshots/nw_server_register1.png)
+
+#### New Staff IT Induction kit, IT support procedure, systems usage
+
+**ROI_New_staff_IT_induction_kit.pdf**
+
+![](../resources/snapshots/new_staff_it_induction_kit.png)
+
+#### The purpose of this document is to plan and document the pilot rollout of the latest 
+
+**ROI_Operating_system_rollout.docx**
+version of the operating system used within Red Opal Innovations
+![](../resources/snapshots/operating_system_rollout.png)
+
+#### Organization chart
+
+**ROI_Org_chart.pdf**
+
+![](../resources/snapshots/org_chart.png)
+
+#### Anti-discrimination and EEO Policy, This policy applies to all employees, contractors and 
+
+**ROI_Policy_AD_EEO.pdf**
+potential employees.
+![](../resources/snapshots/policy_ad_eeo.png)
+
+#### Environmental Sustainability Policy, Red Opal Innovations (ROI) recognises our 
+
+**ROI_Policy_ES.pdf**
+responsibility to the environment to operate in an environmentally sustainable and socially responsible manner.
+![](../resources/snapshots/policy_es.png)
+
+#### Information Technology Work Health Safety Compliance Checklist
+
+**ROI_Policy_WHS.pdf**
+
+![](../resources/snapshots/policy_whs.png)
+
+#### Privacy Policy
+
+**ROI_Privacy_policy.pdf**
+
+![](../resources/snapshots/privacy_policy.png)
+
+#### Procedure Communication - To provide appropriate protocols to staff to follow.
+
+**ROI_Procedure_Communication.pdf**
+
+![](../resources/snapshots/procedure_communication.png)
+
+#### Records and information management - Effective management of ROI information enables the 
+
+**ROI_Procedure_RecordsManagement.pdf**
+organisation to demonstrate efficient and compliant work practices. 
+![](../resources/snapshots/procedure_recordsmanagement.png)
+
+#### Technology start up and shut down - This Procedure sets out the requirements for shutting 
+
+**ROI_Procedure_start_up_shut_down.pdf**
+down and restarting IT systems.
+![](../resources/snapshots/procedure_start_up_shut_down.png)
+
+#### Use of Personal Protective Equipment (PPE)
+
+**ROI_Procedure_use_of_PPE.pdf**
+
+![](../resources/snapshots/procedure_use_of_ppe.png)
+
+#### Workstation setup - This procedure sets out the how workstations (including desk, chair 
+
+**ROI_Procedure_workstation_setup.pdf**
+and peripherals) are to be set up to suit individual need and the type of work performed at thworkstation. |
+![](../resources/snapshots/procedure_workstation_setup.png)
+
+#### Recruitment - This Process sets out the requirements for recruiting new staff members.
+
+**ROI_Process_recruitment.pdf**
+
+![](../resources/snapshots/process_recruitment.png)
+
+#### Quotation Request (student to fill in)
+
+**ROI_Quotation_req.docx**
+
+![](../resources/snapshots/quotation_req.png)
+
+#### Style guide for reports (student to fill in)
+
+**ROI_Report_template.dotx**
+
+![](../resources/snapshots/report_template.png)
+
+#### SLA - Service Level Agreement IT Support
+
+**ROI_SLA.pdf**
+
+![](../resources/snapshots/sla.png)
+
+#### SOE
+
+**ROI_SOE.pdf**
+
+![](../resources/snapshots/soe.png)
+
+#### Scenario
+
+**ROI_Scenario.pdf**
+
+![](../resources/snapshots/scenario.png)
+
+#### Scenario_add_info_1
+
+**ROI_Scenario_add_info_1.pdf**
+
+![](../resources/snapshots/scenario_add_info_1.png)
+
+#### Scenario_add_info_2
+
+**ROI_Scenario_add_info_2.pdf**
+
+![](../resources/snapshots/scenario_add_info_2.png)
+
+#### Scenario_add_info_3
+
+**ROI_Scenario_add_info_3.pdf**
+
+![](../resources/snapshots/scenario_add_info_3.png)
+
+#### Templates for software testing (Test Cases, Test Process, Test result)
+
+**ROI_Software_test_report.docx**
+
+![](../resources/snapshots/software_test_report.png)
+
+#### IT Strategic Plan (main document)
+
+**ROI_Strategic_plan.pdf**
+
+![](../resources/snapshots/strategic_plan.png)
+
+#### Branding guidelines, Web and print media guides for Logo, Typography, Colour, Images
+
+**ROI_Style_guide.pdf**
+
+![](../resources/snapshots/style_guide.png)
+
+#### Template for list of tasks, Template which can be used for planning tasks
+
+**ROI_Task_planner.docx**
+
+![](../resources/snapshots/task_planner.png)
+
+#### User Account Policy, The purpose of this document is to outline the policies and 
+
+**ROI_User_account_policy.pdf**
+procedures surrounding the creation, distribution and usage of computer user accounts within ROI.
+![](../resources/snapshots/user_account_policy.png)
+
+#### Documentation requirements, standards and designs
+
+**ROI_User_doc_plan.docx**
+
+![](../resources/snapshots/user_doc_plan.png)
+
+#### User feedback on user manual
+
+**ROI_User_eval.docx**
+
+![](../resources/snapshots/user_eval.png)
+
+#### Work Health Safety Policy (Draft) - Provide everyone in the workplace with a safe and 
+
+**ROI_WHS_policy_draft.pdf**
+healthy working environment.
+![](../resources/snapshots/whs_policy_draft.png)
+
+#### Graphic assets
+
+**ROI_graphics.zip**
+
+![](../resources/snapshots/Graphics.png)

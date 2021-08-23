@@ -1,10 +1,18 @@
 rename this file to: ROI_Data_Analysis_Report_YourName.docx
 
-Part1:
+# Gather data to identify business requirements - Part 1
 
-# Identify and review key information resources
+**Student details**
 
-[Summarization resources](./509-assessment-summary.md)
+Student:  880616253 / David Cruwys
+
+**Student signature and Date**
+
+David Cruwys, 2nd Aug, 2020
+
+## Identify and review key information resources
+
+[Summarization of resources](./509-assessment-summary.md)
 
 ### Step 1.1 – Document Library
 
@@ -20,8 +28,8 @@ Part1:
 |IT|ROI IT Infr change survey results.pdf|Virtualisation is being implemented by many organisations and the IT Support Network Manager of Red Opal Innovations, Terrence Stewart, is interested in exploring the possibility of introducing virtualised servers at Red Opal Innovations.|
 |IT|ROI NW server register.pdf|List of all 5 servers, their purpose and services they offer, specifications, network diagram|
 |Operations|ROI Org chart.pdf|Organization chart|
-|Operations|ROI Strategic plan.pdf|IT Strategic Plan|
-
+|IT|ROI Strategic plan.pdf|IT Strategic Plan|
+|IT|ROI SLA.pdf|SLA - Service Level Agreement IT Support|
 
 ### **Step 1.2 - Stakeholders**
 Identify the stakeholders involved in this project.  To do this:

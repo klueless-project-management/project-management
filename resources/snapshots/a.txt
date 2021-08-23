@@ -1,0 +1,55 @@
+asset_register.png
+call_logs_current.png
+call_logs_prev.png
+copyright_statement.png
+data_analysis_report_template.png
+data_backup_policy.png
+elec_usage.png
+email_template.png
+equip_loc_guidelines.png
+equip_maint_schedule.png
+fuel_usage.png
+XXXXX graphics.png
+hw_upgrade_req.png
+instalation_plan.png
+xx installation_comp.png
+xxx internal_product_version.png
+it_gov_policy.png
+it_infr_change_survey_results.png
+it_maint_log.png
+it_maint_plan.png
+it_maint_procedure.png
+it_procurement_policy.png
+it_whs_checklist.png
+XXX logo.png
+new_staff_it_induction_kit.png
+nw_server_register1.png
+nw_server_register2.png
+operating_system_rollout.png
+org_chart.png
+policy_ad_eeo.png
+policy_es.png
+policy_whs.png
+privacy_policy.png
+procedure_communication.png
+procedure_recordsmanagement.png
+procedure_start_up_shut_down.png
+procedure_use_of_ppe.png
+procedure_workstation_setup.png
+process_recruitment.png
+quotation_req.png
+report_template.png
+scenario.png
+scenario_add_info_1.png
+scenario_add_info_2.png
+scenario_add_info_3.png
+sla.png
+soe.png
+software_test_report.png
+strategic_plan.png
+style_guide.png
+task_planner.png
+user_account_policy.png
+user_doc_plan.png
+user_eval.png
+whs_policy_draft.png

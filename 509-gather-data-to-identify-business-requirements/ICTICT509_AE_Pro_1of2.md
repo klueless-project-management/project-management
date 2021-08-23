@@ -137,6 +137,7 @@ Table  SEQ Table \\* ARABIC 4 Stakeholder critical questions
 
 
 ## **Part 2: Gather data**
+
 ### **Step 2.1 – Document Review**
 Review and analyse each document you identified in **Step 1.1**. This will include a range of documents including any reports or business information. To do this:
 
