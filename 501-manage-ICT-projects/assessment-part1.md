@@ -1,5 +1,3 @@
-rename this file to: ROI_Data_Analysis_Report_YourName.docx
-
 # Develop the project charter - Part 1
 
 **Student details**
@@ -66,7 +64,7 @@ If the project is not a success, the business will fail; without the system, the
 
 *Project deliverables*
 
-Phase1: Portal
+**Phase1**: Portal
 
 - Customer on-boarding
   - Sign-up / Sign-in
@@ -76,27 +74,34 @@ Phase1: Portal
 - Shopping cart maintains a list of products ordered
 - Staff can see customer orders
 
-Phase 2: Identify future functionality
+**Phase 2**: Identify future functionality
 
 **5. Scope**
 
 Project has two phases
 
-Phase 1: Shopping portal from Customer point of view
-Phase 2: Shopping portal from Staff and logistics point of view
+*Phase 1*: Shopping portal from Customer point of view
 
-- Items within scope
-  - Customer on-boarding
-  - Display product catalogue
-  - Customer can select a product to order
-  - Place the final order from shopping
-  - Refresh the product catalogue daily
-  - Privacy & security (meet legislative requirements)
-- Items outside of scope
-  - e-commerce / payment gateway.
-    - Can use the existing 30, 60 and 90 day accounts model that is already working for us
-  - Admin portal for maintaining product catalogue
-    - We can use the existing spreadsheets
+*Phase 2*: Shopping portal from Staff and logistics point of view
+
+Phase 1 is in scope, phase 2 is out of scope
+
+Items within scope
+
+- Customer on-boarding
+- Display product catalogue
+- Customer can select a product to order
+- Place the final order from shopping
+- Refresh the product catalogue daily
+- Privacy & security (meet legislative requirements)
+
+
+Items outside of scope
+
+- e-commerce / payment gateway.
+  - Can use the existing 30, 60 and 90 day accounts model that is already working for us
+- Admin portal for maintaining product catalogue
+  - We can use the existing spreadsheets
 
 **6. Project approval**
 
