@@ -113,6 +113,14 @@ Annette Wilson  | Purchasing Manager        | [A.Wilson]() |
 Phillip Parker  | Marketing Manager         | [P.Parker]() |
 Lillian Groves  | Distributions Manager     | [L.Groves]() |
 
+# End of Part 1
+
+**Assesment finishes here**
+
+This extra information below the line is research notes that were useful
+
+<hr>
+
 ## Summary of a what a Project Charter
 
 What is a Project Charter as researched by David
