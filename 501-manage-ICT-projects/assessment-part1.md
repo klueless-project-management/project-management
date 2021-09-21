@@ -1,153 +1,105 @@
-# Part 1 - Develop the project charter
-
-![](./im/../images/scenario.png)
-
-## Project brief/Specifications
-The portal will be:
-
-- designed in line with requirements that will be supplied by the key staff
-- web based
-- hosted internally at a primary site at head office, with a secondary site set up at the distribution centre, which is geographically separate from the head office
-- highly scalable, initially supporting up to 1000 transactions a week but able to scale up to at least 50,000 transactions per week
-- inclusive of the following key features:
-  - Product entry and maintenance
-  - Customer access
-  - Shopping cart
-  - E-commerce
-  - Reporting
-
-Security and privacy will be of utmost importance to the business. The system will store details of customers and those required for e-commerce purposes. The business must comply with all relevant standards and requirements under law in Australia with regards to the personal information and payment details.
-
-WizBiz has provided you with the following documentation:
-
-- **Interview responses with management (Interview responses.docx)**
-  > This document is missing
-
-- Survey results (Survey results.docx)
-
-![](./images/survey.png)
-
-- Preliminary retail outlet costs (WizBiz Preliminary Retail outlet costs.xslx).
-
-![](./images/costs.png)
-
-## Organisational standards
-
-ROI uses the following standards:
-
-- Business reports and documents must use the [*ROI report template*]
-
-![](./images/report-template.png)
-
 ## Part 1: Develop the project charter
-
-Scope, objectives and participants
-
-- Summary of problems or opportunities
-- Project scope, overview of the work that will be achieved
-  - Will deliverables be at once or in phases
-  - List what is in and out of scope for the project
-- Risks and Assumptions
-  - What risks could affect the project
-  - Document all assumptions
-  - Such as size of development team
-- Definition of Success
-  - Look at the objectives, opportunities and benefits
-  - Success criteria should be measurable
-- Project milestones
-  - High level summary of the major pieces of work
-    - Epics or Initiatives
-- Benefits
-  - Quantify, e.g. how many hours of employee time will be saved and convert to moneytary value over a year
-  - Unquantified, it's important to understand unquantified benefits as well
-- Solution Options
-  - Each with: Summary, Risk, Assumptions, Ongoing Costs, Rough order of magnitude estimate
-  - Highlight the recommend solution
-- Rough order of magnitude (ROM Estimate)
-  - Guess at all in effort
-  - +- 50% based on high level discovery
-  - 200 hours on a project means that you can see between 100 and 300 hours being needed for this project
-- ROI, Payback Period and Value Proposition
-  - ROI = difference between benefits amount and cost of project
-  - Payback Period = How long to pay for itself
-  - This creates the value Proposition
-- Project Team and Stakeholders
-  - Executive sponsor (champion)
-  - 1 stakeholder per functional area, e.g. HR, Finance, IT, Sales
-- Stakeholder sign-off
-  - Key stakeholders need to sign-off on project charter
-  - 
-
-Refer to Assessment Checklist 1 for the criteria for this part.
-
-Review and analyse the supplied documentation and other relevant sources to develop a project charter.
-
-Your report must use appropriate language and grammar, be presented in a logical sequence and address the following headings and information:
 
 **1. Project information**
 
-- Project name
+*Project name*
   - WizBiz Shopping Portal
 
-- Project description
+*Project description*
   - Design, develop and implement the WizBiz online shopping portal
 
-- Expected benefits
-  - TODO
-
+*Expected benefits*
+  - Automate customer product search and sales
+  - Automate customer on-boarding and product delivery for the business
+  
 **2. Project governance**
 
-Names and roles of the:
+*Project sponsor*
 
-- Project sponsor
-  - Sally Smit/Shane Jackson
+- Sally Smit/Shane Jackson
 
-- Project manager
-  - David Cruwys
+*Project manager*
 
-- Other key stakeholders
-  - Vinh Nguyen - ROI Development Manager
-  - Gayle Winters - General Manager
-  - Alison Garmen - IT Manager
-  - Joshua Aspley - Finance Manager
-  - Annette Wilson - Purchasing Manager
-  - Phillip Parker - Marketing Manager
-  - Lillian Groves - Distributions Manager
+- David Cruwys
 
-The high level scope of the project is to design, develop and implement the shopping portal. If the project is not a success, the business will fail; without the system, there is no business.
+*Other key stakeholders*
 
-You have been provided with a summary of the functional requirements below and access to all the key members of staff as necessary to complete the project. These key members of staff have been meeting for the past two months about the business idea and what role they might play in the business. They each have a good understanding of the business needs as relevant to their role. You have been provided with additional company information and a transcript of the initial interviews with each of the key stakeholders (WizBiz scenario.docx).
-
+- Vinh Nguyen - ROI Development Manager
+- Gayle Winters - General Manager
+- Alison Garmen - IT Manager
+- Joshua Aspley - Finance Manager
+- Annette Wilson - Purchasing Manager
+- Phillip Parker - Marketing Manager
+- Lillian Groves - Distributions Manager
 
 **3. Problem statement**
 
-The business problem or opportunity that this project relates to.
+Design, develop and implement the shopping portal.
+
+If the project is not a success, the business will fail; without the system, there is no business.
 
 **4. Goals/deliverables**
 
-- Goal/s
-- Objective/s
-- Project deliverables
+*Goal*
+
+- Implement a shopping portal for WizBiz
+
+*Objective*
+
+- Identify the shopping portal requirements from the point of view of
+  - Customer interaction
+  - Staff interaction and tools
+  - Business objectives
+- Implement customer facing shopping portal
+
+*Project deliverables*
+
+Phase1: Portal
+
+- Customer on-boarding
+  - Sign-up / Sign-in
+  - Approval / Banned
+- List of products in categories and segments
+- Customer can select a product to order
+- Shopping cart maintains a list of products ordered
+- Staff can see customer orders
+
+Phase 2: Identify future functionality
 
 **5. Scope**
 
+Project has two phases
+
+Phase 1: Shopping portal from Customer point of view
+Phase 2: Shopping portal from Staff and logistics point of view
+
 - Items within scope
+  - Customer on-boarding
+  - Display product catalogue
+  - Customer can select a product to order
+  - Place the final order from shopping
+  - Refresh the product catalogue daily
+  - Privacy & security (meet legislative requirements)
 - Items outside of scope
+  - e-commerce / payment gateway.
+    - Can use the existing 30, 60 and 90 day accounts model that is already working for us
+  - Admin portal for maintaining product catalogue
+    - We can use the existing spreadsheets
 
 **6. Project approval**
 
 Name            | Stakeholder / Role        | Signature|
 ----------------|---------------------------|-|
-Sally Smith     | Project Sponsor  (Owner)  | |
-Shane Jackson   | Project Sponsor  (Owner)  | |
-David Cruwys    | Project manager           | |
-Vinh Nguyen     | ROI Development Manager   | |
-Gayle Winters   | General Manager           | |
-Alison Garmen   | IT Manager                | |
-Joshua Aspley   | Finance Manager           | |
-Annette Wilson  | Purchasing Manager        | |
-Phillip Parker  | Marketing Manager         | |
-Lillian Groves  | Distributions Manager     | |
+Sally Smith     | Project Sponsor  (Owner)  | [S.Smith]() |
+Shane Jackson   | Project Sponsor  (Owner)  | [S.Jackson]() |
+David Cruwys    | Project manager           | [D.Cruwys]() |
+Vinh Nguyen     | ROI Development Manager   | [V.Nguyen]() |
+Gayle Winters   | General Manager           | [G.Winters]() |
+Alison Garmen   | IT Manager                | [A.Garmen]() |
+Joshua Aspley   | Finance Manager           | [J.Aspley]() |
+Annette Wilson  | Purchasing Manager        | [A.Wilson]() |
+Phillip Parker  | Marketing Manager         | [P.Parker]() |
+Lillian Groves  | Distributions Manager     | [L.Groves]() |
 
 ## Summary of a what a Project Charter
 

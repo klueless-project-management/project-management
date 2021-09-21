@@ -1,0 +1,12 @@
+  - Customers
+    - Allow customers to find products in categories and segments
+    - Store their selections in shopping cart
+    - Use e-commerce facility for payments
+  - Business
+    - Validate the authentication and authorization around new and existing customers
+    - Order packing slips
+    - Order confirmation / validation
+    - Reporting and sales and inventory
+  - Legislative
+    - The system will store customer details required for e-commerce purposes.
+    - It will provide security and privacy.
