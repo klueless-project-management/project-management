@@ -21,16 +21,24 @@ Review, research and analyse the supplied organisational documentation and other
 
 ## Prepare to gather data
 
-1. Plan at least four suitable information gathering activities that will help you to determine the project requirements, constraints and risks.
+### Plan four suitable information gathering activities
 
-  - Know
-  -
+Plan at least four suitable information gathering activities that will help you to determine the project requirements, constraints and risks.
 
-### Q&A Session with stack holders
+1. General Q&A with stack holders
+2. Identify and separate key requirements vs nice to have features
+3. Review all WizBiz documents
+4. Narrow down the list of useful documents
 
-![](./images_from_classroom/wkx-1.png)
-![](./images_from_classroom/wkx-2.png)
-![](./images_from_classroom/wkx-3.png)
+### Q&A Session with stack holders (1 - D)
+
+Collaborate with multiple stack holders and ask purposeful questions that understand the points of view from different people
+
+![Q and A](./images_from_classroom/wkx-1.png)
+![Q and A](./images_from_classroom/wkx-2.png)
+![Q and A](./images_from_classroom/wkx-3.png)
+
+Identify and separate key requirements vs nice to have features
 
 
 1. Include a bibliography of resources you use for research, including organisational documentation.
