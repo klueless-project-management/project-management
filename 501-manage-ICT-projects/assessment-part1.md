@@ -163,4 +163,9 @@ What is a Project Charter as researched by David
   - 1 stakeholder per functional area, e.g. HR, Finance, IT, Sales
 - Stakeholder sign-off
   - Key stakeholders need to sign-off on project charter
-  - 
+
+## Sample Templates
+
+![](./images/charter-2.jpeg)
+
+![](./images/charter-1.png)

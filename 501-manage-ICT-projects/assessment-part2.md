@@ -27,10 +27,10 @@ Plan at least four suitable information gathering activities that will help you 
 
 1. General Q&A with stack holders
 2. Identify needs vs wants
-3. Review all WizBiz documents
+3. List of all WizBiz documents
 4. Narrow down the list of useful documents
 
-### Q&A Session with stack holders
+### General Q&A Session with stack holders
 
 Collaborate with multiple stack holders and ask purposeful questions that understand the points of view from different people
 
@@ -62,7 +62,7 @@ Staff features
 
 In keeping with the primary goal of scaling up customer orders, Phase 1 of the project should deliver the following capabilities.
 
-Customer features
+Customer needs
 
 - Customer on-boarding
   - Sign-up / Sign-in
@@ -72,7 +72,7 @@ Customer features
 - Add/remove product from shopping cart
 - Place order
 
-Staff features
+Staff needs
 
 - Refresh the product catalogue daily
 - Can see list of orders
@@ -108,13 +108,44 @@ Wants can be delivered in future phases
 - Order delivery confirmations
 - Order tracking
 
-Already have manual procedures in place with the logistics and warehouse departments
 
-- e-commerce / payment gateway.
-  - Can use the existing 30, 60 and 90 day accounts model that is already working for us
-- Admin portal for maintaining product catalogue
-  - We can use the existing spreadsheets
+### List of all WizBiz documents
+
+|**Document Title** |**Notes**|
+| :- | :- |
+| WizBiz Strategic Plan.pdf | Description, goals and mission statement for company |
+| WizBiz scenario.docx | Project brief plus kickoff information for key stakeholders |
+| WizBiz Preliminary Retail outlet costs.xlsx |  |
+| WizBiz Disaster Recovery Plan.docx | Guidelines, and sign-off sheets in case of Disaster |
+| Survey results.docx | Survey on WizBiz website portal from point of view of major stakeholders |
+
+### Narrow down the list of useful documents
+
+#### Survey on WizBiz
+
+Survey on WizBiz website portal from point of view of major stakeholders will be useful to identity requirements
+
+![](./images/survey.png)
+
+#### Costs
+
+Preliminary Retail outlet costs can be used to calculate ROI for the Web Portal
+
+![](./images/costs.png)
+
+#### Stakeholders and Brief
+
+![](./images/stackholders.png)
 
 
 # Include a bibliography of resources you use for research, including organisational documentation.
+
+* Organization documents have been used to infer informdation for the project. See: **List of all WizBiz documents**
+* Stake holder interviews have conducted and documented. See: **Q&A Session with stack holders**
+* Phone interviews with potential users including
+  * Accounts department
+  * Logistics department
+  * Sales department
+  * Existing customers
+
 
