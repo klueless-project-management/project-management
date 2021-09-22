@@ -62,6 +62,8 @@ Staff features
 
 In keeping with the primary goal of scaling up customer orders, Phase 1 of the project should deliver the following capabilities.
 
+Customer features
+
 - Customer on-boarding
   - Sign-up / Sign-in
   - Privacy & security - Meet the legislative requirements
@@ -69,8 +71,11 @@ In keeping with the primary goal of scaling up customer orders, Phase 1 of the p
 - Basic search capability
 - Add/remove product from shopping cart
 - Place order
+
+Staff features
+
 - Refresh the product catalogue daily
-- Staff can see orders
+- Can see list of orders
 
 #### Wants
 
