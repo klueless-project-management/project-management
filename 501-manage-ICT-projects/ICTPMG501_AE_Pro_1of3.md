@@ -39,7 +39,7 @@ STUDENT NAME: David Cruwys
 | :- | :- |
 |**Assessment overview**|The objective of this assessment is to assess your knowledge and performance required to gather data for business requirements and initiate a project.|
 |**Assessment Event number**|1 of 4|
-|**Instructions for this  assessment**|<p>This is a project based assessment and will be assessing you on your knowledge and performance of the unit.</p><p>This assessment is in six parts:</p><p>1. Develop the project charter</p><p>2. Prepare to gather data</p><p>3. Interview key stakeholder</p><p>4. Develop the business case.</p><p>5. Prepare the project plan</p><p>6. Obtain approval for project plan.</p><p>The assessment also contains:</p><p>- Assessment Checklists 1-4</p><p>- Observation Checklists 1-2</p><p>- Assessment Feedback.</p><p>**Check the Assessment instructions and the Observation Checklists to ensure that you’ve covered all the required tasks.**</p>|
+|**Instructions for this  assessment**|<p>This is a project based assessment and will be assessing you on your knowledge and performance of the unit.</p><p>This assessment is in six parts:</p><p>1. [Develop the project charter](assessment-part1.md)</p><p>2. Prepare to gather data</p><p>3. Interview key stakeholder</p><p>4. Develop the business case.</p><p>5. Prepare the project plan</p><p>6. Obtain approval for project plan.</p><p>The assessment also contains:</p><p>- Assessment Checklists 1-4</p><p>- Observation Checklists 1-2</p><p>- Assessment Feedback.</p><p>**Check the Assessment instructions and the Observation Checklists to ensure that you’ve covered all the required tasks.**</p>|
 |**Submission instructions** |<p>On completion of this assessment, you are required to upload it or hand it to your assessor for marking.</p><p>Ensure you have written your name at the bottom of each page of this assessment.</p><p>Submit the following documents for each part:</p><p>- Part 1: Develop the project charter</p><p>&emsp;- Project charter</p><p>- Part 2: Prepare to gather data</p><p>&emsp;- Data gathering plan</p><p>- Part 3: Interview key stakeholder</p><p>&emsp;- You will be observed by your assessor</p><p>- Part 4: Develop the business case</p><p>&emsp;- Business case</p><p>- Part 5: Prepare the project plan</p><p>&emsp;- Project plan</p><p>- Part 6: Obtain approval for project plan</p><p>&emsp;- You will be observed by your assessor.</p><p>It is important that you keep a copy of all electronic and hardcopy assessments submitted to TAFE and complete the assessment declaration when submitting the assessment.</p>|
 |**What do I need to do to achieve a satisfactory result?**|To achieve a satisfactory result for this assessment all questions must be answered correctly and all items in the Assessment and Observation Checklists must be marked Satisfactory.|
 |**Assessment conditions**|<p>Assessment conditions will be safe and replicate the workplace. Noise levels, production flow, interruptions and time variances must be typical of those experienced in the ICT, project management and software development field of work.</p><p>Assessment may be undertaken in normal classroom conditions, which is assumed to be noisy and similar to workplace conditions, or within the workplace. This may include phones ringing, people talking and other interruptions.</p>|
@@ -156,9 +156,9 @@ You do not have much experience as a project manager, so you will need to perfor
 Review, research and analyse the supplied organisational documentation and other sources of relevant information.
 
 Create an information gathering plan in a word-processed document that includes the following:
-1.
-1. 1. Plan at least four suitable information gathering activities that will help you to determine the project requirements, constraints and risks.
-1. 1. Include a bibliography of resources you use for research, including organisational documentation.
+
+1. Plan at least four suitable information gathering activities that will help you to determine the project requirements, constraints and risks.
+2. Include a bibliography of resources you use for research, including organisational documentation.
 
 
 ## **Part 3: Interview key stakeholder**
@@ -315,9 +315,9 @@ Table  SEQ Table \\* ARABIC 3: Assessment Checklist 2
 
 
 ## **Assessment Checklist 2**
+
 The following checklist will be used by your assessor to mark your performance against the assessment criteria of Part 2. Use this checklist to understand what skills and/or knowledge you need to demonstrate in your submission/presentation. All the criteria described in the Assessment Checklist must be met. The assessor may ask questions while the submission/presentation is taking place or if appropriate directly after the task/activity has been submitted/completed.
 
-Table  SEQ Table \\* ARABIC 2: Assessment Checklist 1
 
 |**TASK/STEP #**|**Instructions**|**S**|**U/S**|**Assessor Comments**|
 | :- | :- | :- | :- | :- |
