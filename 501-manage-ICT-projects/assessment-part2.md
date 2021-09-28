@@ -8,17 +8,6 @@ Student:  880616253 / David Cruwys
 
 David Cruwys, 22nd Sep, 2021
 
-### Assessment Criteria
-
-Refer to Assessment Checklist 2 for the criteria for this part.
-
-1. Plan suitable information gathering activities to determine project requirements, constraints and risks|||*Assessors are to record their observations in sufficient detail to demonstrate their judgement of the student’s performance against the criteria.
-2. Researches, reviews and analyses information
-
-You do not have much experience as a project manager, so you will need to perform some research and plan your activities.
-
-Review, research and analyse the supplied organisational documentation and other sources of relevant information.
-
 ## Prepare to gather data
 
 ### Plan four suitable information gathering activities
@@ -28,7 +17,7 @@ Plan at least four suitable information gathering activities that will help you 
 1. General Q&A with stack holders
 2. Identify needs vs wants
 3. List of all WizBiz documents
-4. Narrow down the list of useful documents
+4. Review and identify useful documents
 
 ### General Q&A Session with stack holders
 
@@ -114,12 +103,12 @@ Wants can be delivered in future phases
 |**Document Title** |**Notes**|
 | :- | :- |
 | WizBiz Strategic Plan.pdf | Description, goals and mission statement for company |
-| WizBiz scenario.docx | Project brief plus kickoff information for key stakeholders |
+| WizBiz scenario.docx | Project brief plus kickoff information from key stakeholders |
 | WizBiz Preliminary Retail outlet costs.xlsx |  |
 | WizBiz Disaster Recovery Plan.docx | Guidelines, and sign-off sheets in case of Disaster |
 | Survey results.docx | Survey on WizBiz website portal from point of view of major stakeholders |
 
-### Narrow down the list of useful documents
+### Review and identify useful documents
 
 #### Survey on WizBiz
 
@@ -133,7 +122,9 @@ Preliminary Retail outlet costs can be used to calculate ROI for the Web Portal
 
 ![](./images/costs.png)
 
-#### Stakeholders and Brief
+#### Stakeholders and brief
+
+This document contains the project brief plus kickoff information from key stakeholders.
 
 ![](./images/stackholders.png)
 
