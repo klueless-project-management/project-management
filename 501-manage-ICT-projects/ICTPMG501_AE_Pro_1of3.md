@@ -257,7 +257,9 @@ Include a bibliography of resources you use for research, including organisation
 ## **Part 5: Prepare the project plan**
 Refer to Assessment Checklist 4 for the criteria for this part.
 
-The project sponsor has given approval for the project to go ahead, based on your business case. You can now prepare a project plan based on the information you have already prepared and the requirement specifications.
+The project sponsor has given approval for the project to go ahead, based on your business case.
+You can now prepare a project plan based on the information you have already prepared 
+and the requirement specifications.
 
 Your plan must:
 
@@ -265,9 +267,11 @@ Your plan must:
 - use correct spelling and grammar
 - be presented in a logical sequence.
 
-**Note: The project plan may be several documents so you will need to compile the documents as necessary. Include the documents in both the format/s they were created in and as a PDF.**
-1.
-1. 1. The phases of the project, based on the systems development life cycle (SDLC) and the identified risks.
+**Note: The project plan may be several documents so you will need to compile the documents as necessary. 
+        Include the documents in both the format/s they were created in and as a PDF.**
+
+
+1. The phases of the project, based on the systems development life cycle (SDLC) and the identified risks.
 1. Work breakdown of tasks, with estimated times and costs for each item (summary and detail tasks).
 1. Stakeholder roles, responsibilities and reporting structure.
 1. Developer team roles, responsibilities and skills required. Note that this will be part of what will be used to monitor the team members’ performance in the project.

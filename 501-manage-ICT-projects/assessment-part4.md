@@ -8,10 +8,6 @@ Student:  880616253 / David Cruwys
 
 David Cruwys, 22nd Sep, 2021
 
-### Assessment Criteria
-
-xxxxxxxxxxxxxxxxxxxx
-
 ## Develop the business case
 
 
@@ -238,7 +234,7 @@ ROI: 100% for first year
 
 Write a suitable conclusion.
 
-###. Bibliography
+### Bibliography
 
 Include a bibliography of resources you use for research, including organisational documentation.
 
@@ -247,12 +243,4 @@ Include a bibliography of resources you use for research, including organisation
 - [Costs](./images/costs.png)
 - [Stakeholders](./images/stackholders.png)
 - [Reporting Template](./images/report-template.png)
-
-<hr>
-
-![Scenario](./images/scenario.png)
-![Survey](./images/survey.png)
-![Costs](./images/costs.png)
-![Stakeholders](./images/stackholders.png)
-![Reporting Template](./images/report-template.png)
 
