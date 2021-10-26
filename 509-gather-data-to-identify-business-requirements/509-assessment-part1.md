@@ -30,6 +30,8 @@ David Cruwys, 2nd Aug, 2021
 |Operations|ROI Org chart.pdf|Organization chart|
 |IT|ROI Strategic plan.pdf|IT Strategic Plan|
 |IT|ROI SLA.pdf|SLA - Service Level Agreement IT Support|
+|Accounts|ROI_Asset_register.xlsx|List of computers and other assets|
+|IT|ROI_NW_server_register.pdf|Servers, Network Diagram, Ports|
 
 ### **Step 1.2 - Stakeholders**
 Identify the stakeholders involved in this project.  To do this:
@@ -44,6 +46,8 @@ Identify the stakeholders involved in this project.  To do this:
 |Frank Marks / Manager Multimedia|Internal||End-user|
 |Sally Bach / Manager, Sales & Marketing|Internal||End-user, plus knows what external customers are asking for|
 |Terrence Stewart / Manager Network/IT Support|Internal|Key|Project sponsor, network manager, IT support, IT Infrustructure expert|
+|Customers|External||Customers|
+|Staff|External||End-user working in house and remotely|
 
 ### Step 1.3 – Critical questions for stakeholders
 

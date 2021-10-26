@@ -16,143 +16,97 @@ David Cruwys, 2nd Aug, 2020
 
 ### Step 2.1 – Document Review
 
-Review and analyse each document you identified in **Step 1.1**. This will include a range of documents including any reports or business information. To do this:
+Analyse the document and then describe the business information contained in this document that is relevant to the project. Point form is sufficient. 
 
-- List the applicable information repository
-- List the document title 
-- Analyse the document and then describe the business information contained in this document that is relevant to the project. Point form is sufficient. 
-
-Use the following table to document your answer. Add extra rows to the table as needed. 
-*(Approx. 200 words)*
-
-Document review
-
-|**Repository**|**Document Title** |**Information**|
+|**Repository**|**Document Title** |**Information** |
 | :- | :- | :- |
-||||
-||||
-||||
-||||
-||||
+|Operations|ROI Scenario .pdf|Overview of Red Opal Innovations (ROI), historical and department information|
+|IT|ROI Scenario add info 1 .pdf|Historical information; Description of IT infrastructure problem; Information about the infrastructure setup (server, LAN, proxy, firewall and ISP + Plan)|
+|IT|ROI Scenario add info 2.pdf|Project requirements and scope|
+|IT|ROI Data Analysis Report template.dotx|Template for filling out the complete data analysis report about the company and project, see [509 - data analysis report](./509-data-analysis-report.md)|
+|Sales / Marketing|ROI Style guide.pdf|Branding guidelines, Web and print media guides for Logo, Typography, Colour, Images|
+|Sales / Marketing|ROI Email template.docx|Email guidelines, Template for sending emails|
+|IT|ROI IT Gov policy|List of major stakeholders plus rules (Principles) on new IT projects|
+|IT|ROI IT Infr change survey results.pdf|Virtualisation is being implemented by many organisations and the IT Support Network Manager of Red Opal Innovations, Terrence Stewart, is interested in exploring the possibility of introducing virtualised servers at Red Opal Innovations.|
+|IT|ROI NW server register.pdf|List of all 5 servers, their purpose and services they offer, specifications, network diagram|
+|Operations|ROI Org chart.pdf|Organization chart|
+|IT|ROI Strategic plan.pdf|IT Strategic Plan|
+|IT|ROI SLA.pdf|SLA - Service Level Agreement IT Support|
+|Accounts|ROI_Asset_register.xlsx|List of computers and other assets|
+|IT|ROI_NW_server_register.pdf|Servers, Network Diagram, Ports|
+
 
 
 ### Step 2.2 –  Interview – Role play
-This part of the assessment will be completed in class as a role play.  Your Assessor will guide you through the role play process.  Please refer to following **Observation checklist 1** to help prepare yourself for this task.
 
-Before attempting this task, you must have already completed Part 1 Step 1.3 of this assessment item. You will need to bring a copy of your stakeholder critical questions to this interview.
-
-#### Scenario – Interview with ROI stakeholder
-*You will be conducting an interview with the ROI stakeholder Wendy Opal, Director Red Opal Innovations. The goal of this meeting is to gather information relating to the project from the primary stakeholder.* 
-
-*You have already provided Wendy with a list of questions which you wish to ask. Wendy has reviewed these questions and is ready to provide you with answers.* 
-
-*Make sure that you use your prepared list of questions. Be prepared to ask additional questions to clarify or expand on the information provided by Wendy.*
-
-*Ensure that you document your information gathering results as you progress through the interview.*
-
-In this interview your assessor will organise for a suitable person, such as another teacher, student or industry representative, to play the role of Wendy Opal, Director Red Opal Innovations. 
-
-This role play will take approximately 10 to 15 minutes.
-
-**
-
-**Observation Checklist 1**
-
-The Observation Checklist will be used by your assessor to mark your performance in the role play scenario in Part 2 Step 2.2 of this assessment. Use this checklist to understand what skills you need to demonstrate in the role play. The Checklist lists the assessment criteria used to determine whether you have successfully completed this assessment event. All the criteria must be met. Your demonstration will be used as part of the overall evidence requirements of the unit. The assessor may ask questions while the role play is taking place or if appropriate directly after the activity has been completed.
-
-Table  SEQ Table \\* ARABIC 6 Observation Checklist 1
-
-|**STEP #**|**Instructions**|**S**|**U/S**|**Assessor Comments**|
-| :- | :- | :- | :- | :- |
-|**2.2.1**|Articulates research and resource requirements clearly and directs discussions to elicit the views and opinions of others by using effective listening and open questioning techniques.|||<p>Q1 *Enter Question to Support Observation.*</p><p>*Comments/responses*</p><p></p><p>Q2 *Enter Question to Support Observation.*</p><p>*Comments/responses*</p><p></p>|
-|**2.2.2**|Uses a range of verbal responses and makes comparisons that show an understanding of topics and concepts.|||<p>Q1 *Enter Question to Support Observation.*</p><p>*Comments/responses*</p><p></p><p>Q2 *Enter Question to Support Observation.*</p><p>*Comments/responses*</p><p></p>|
-|**2.2.3**|Recognises and responds to both explicit and implicit protocols within familiar work contexts and appreciates the importance of identifying and responding to protocols in new situations.|||<p>Q1 *Enter Question to Support Observation.*</p><p>*Comments/responses*</p><p></p><p>Q2 *Enter Question to Support Observation.*</p><p>*Comments/responses*</p><p></p>|
-|**2.2.4**|Uses a mix of intuitive and formal processes to identify key information and issues, evaluate alternative strategies, anticipate consequences and consider implementation issues |||<p>Q1 *Enter Question to Support Observation.*</p><p>*Comments/responses*</p><p></p><p>Q2 *Enter Question to Support Observation.*</p><p>*Comments/responses*</p><p></p>|
-|**2.2.5**|Effectively undertakes role play despite noise, interruptions and distractions.|||<p>Q1 *Enter Question to Support Observation.*</p><p>*Comments/responses*</p><p></p><p>Q2 *Enter Question to Support Observation.*</p><p>*Comments/responses*</p><p></p>|
-
+Done in class
 
 
 ### Step 2.3 - Confirm interview results
-You need to confirm with the primary stakeholder, Wendy Opal Director Red Opal Innovations that you understand the business critical factors relating to the current and future directions of the organisation as it relates to the project.
 
-To do this draft the body of an email, to Wendy summarising the information you gathered in the interview. Point form is sufficient.
-
-In your email you need to include a request for a reply from Wendy confirming the information gathered is correct. Ensure that you write this email in an appropriate business manner and use the **ROI Email template**.
-
-Use the following table to document your answer. Add extra rows to the table as needed. 
-` `*(Approx. 150 words)*
-
-||
-| :- |
+Done in class
 
 ### Step 2.4 –  Meeting – Role play
-This part of the assessment will be completed in class as a role play.  Your Assessor will guide you through the role play process.  Please refer to following **Observation checklist 2** to help prepare yourself for this task.
 
-Before attempting this task, you must have already completed Part 1 Step 1.3 of this assessment item. You will need to bring a copy of your stakeholder critical questions to this interview.
-
-#### Scenario – Meeting with ROI stakeholder
-*You will be participating in a meeting with the ROI key project stakeholders. The goal of this meeting is to gather information relating to the project from the stakeholders.* 
-
-*You have already provided the stakeholders with a list of questions which you wish to ask. These have been received and reviewed by all the stakeholders.* 
-
-*Make sure that you use your prepared list of questions. Be prepared to ask additional questions to clarify or expand on the information provided by the stakeholders.* 
-
-*Ensure that you document your information gathering results as you progress through the meeting.*
-
-In this meeting your assessor will organise for suitable persons, such as another teacher, student or industry representative, to play the role of the ROI project stakeholders. 
-
-This role play will take approximately 10 to 15 minutes.
-
-**
-
-**Observation Checklist 2**
-
-The Observation Checklist will be used by your assessor to mark your performance in the role play scenario in Part 2 Step 2.4 of this assessment. Use this checklist to understand what skills you need to demonstrate in the role play. The Checklist lists the assessment criteria used to determine whether you have successfully completed this assessment event. All the criteria must be met. Your demonstration will be used as part of the overall evidence requirements of the unit. The assessor may ask questions while the role play is taking place or if appropriate directly after the activity has been completed.
-
-Table  SEQ Table \\* ARABIC 7 Observation Checklist 2
-
-|**STEP #**|**Instructions**|**S**|**U/S**|**Assessor Comments**|
-| :- | :- | :- | :- | :- |
-|**2.4.1**|Articulates research and resource requirements clearly and directs discussions to elicit the views and opinions of others by using effective listening and open questioning techniques.|||<p>Q1 *Enter Question to Support Observation.*</p><p>*Comments/responses*</p><p></p><p>Q2 *Enter Question to Support Observation.*</p><p>*Comments/responses*</p><p></p>|
-|**2.4.2**|Uses a range of verbal responses and makes comparisons that show an understanding of topics and concepts.|||<p>Q1 *Enter Question to Support Observation.*</p><p>*Comments/responses*</p><p></p><p>Q2 *Enter Question to Support Observation.*</p><p>*Comments/responses*</p><p></p>|
-|**2.4.3**|Recognises and responds to both explicit and implicit protocols within familiar work contexts and appreciates the importance of identifying and responding to protocols in new situations.|||<p>Q1 *Enter Question to Support Observation.*</p><p>*Comments/responses*</p><p></p><p>Q2 *Enter Question to Support Observation.*</p><p>*Comments/responses*</p><p></p>|
-|**2.4.4**|Uses a mix of intuitive and formal processes to identify key information and issues, evaluate alternative strategies, anticipate consequences and consider implementation issues |||<p>Q1 *Enter Question to Support Observation.*</p><p>*Comments/responses*</p><p></p><p>Q2 *Enter Question to Support Observation.*</p><p>*Comments/responses*</p><p></p>|
-|**2.4.5**|Effectively undertakes role play despite noise, interruptions and distractions.|||<p>Q1 *Enter Question to Support Observation.*</p><p>*Comments/responses*</p><p></p><p>Q2 *Enter Question to Support Observation.*</p><p>*Comments/responses*</p><p></p>|
-
-
+Done in class
 
 ### Step 2.5 - Confirm meeting results
+
 You need to confirm with the ROI key stakeholders that you understand the business critical factors relating to the current and future directions of the organisation as it relates to the project.
 
 To do this draft the body of an email, to all the major stakeholder summarising the information you gathered in the meeting. Point form is sufficient. 
 
 In your email you need to include a request for a reply from the stakeholders confirming the information gathered is correct. Ensure that you write this email in an appropriate business manner and use the **ROI Email template**.
 
-Use the following table to document your answer. Add extra rows to the table as needed. 
-` `*(Approx. 150 words)*
+**From**: david.cruwys@redopalinnovations.com
+**Sent**: 27/Oct/2021
+**To**: wendy.opal@redopalinnovations.com
+**Subject**: Server Infrastructure Upgrade
 
-||
-| :- |
+Dear Wendy Opal,
+
+This email outlines the general requirements for expanding your existing server infrastructure to new virtualization technologies
+
+**Budget**: $150, 000
+
+Your current infrastructure is an internal network architecture using 5 servers.
+
+With the move to the new location, we are going to provide an expansion path that replaces Domain Controller Server with new virtualizing technologies that are scalable with your planned business growth
+
+The new virtualization servers will host the existing servers and have easy expansion capability.
+In-house and external connections will be 10 times faster then existing setup using FTTP (fibre to the premises).
+Mobile work environments will be available over a secure VPN. This will allow remote staff to access the network whilst maintaining high security.
+
+Kind regards,
+Signature block: 
+David Cruwys
+0400 001122
+
+
+![](./images/email-footer.png)
 
 ### Step 2.6 –  Current system  
-Using the information you have gather so far examine the system's current hardware, software and communication functionality. To do this:
 
-- Identify all hardware in the current system
-- Identify all software in the current system
-- Identify all networking (data communications) functionality in the current system
-- Include a diagram of the current network. 
-
-Use the following table to document your answer. *(Approx. 200 words)*
 
 |**Hardware** |
 | :- |
-||
+| 3 x Dell PowerEdge R210 II |
+| 2 x HPE ProLiant DL380 Gen9 E5-2660v4 |
 |**Software**|
-||
+| MS Server 2008r2 |
+| MS Server 2012 |
+| MS Exchange |
+| SAP |
+| HRMS |
+| |
 |**Networking**|
-||
+| ROI-AD **IP**: *10.0.1.4* - Domain Controller, Print Server|
+| ROI-EX **IP**: *10.0.1.5* - Email, Finance Server, HR |
+| ROI-FS **IP**: *10.0.1.10* - File Server |
+| ROI-BK **IP**: *10.0.1.8* - Backup Server |
+| ROI-FW **IP**: *10.0.1.6* - Proxy, Firewall |
 |**Current network diagram**|
-||
+| ![](./images/network.png) |
 
 
 ### Step 2.7 –  Research  
@@ -169,55 +123,57 @@ Use the following table to document your answer. *(Approx. 200 words)*
 
 
 
-1) Conduct research into new current industry accepted host servers. Include two (2) different servers in your results, describing the general features and capabilities suited to the project. Explain how the general features and capabilities each server will meet the business requirement.
+1) Include two (2) different servers in your results, describing the general features and capabilities suited to the project. Explain how the general features and capabilities each server will meet the business requirement.
 
 Include your all your research information sources in the References box below using APA referencing style. Include at least two (2) references for each chosen server.
 
 Use the following table to document your answer. *(Approx. 200 words)*
 
-|**Server 1 – Make and model 1**|
+| Server Options |
 | :- |
-||
-|**Server 2 – Make and model 2**|
-||
+| **Lenovo - ThinkSystem SR665 7252 16GB** |
+| The ThinkSystem SR665 delivers the next era of solution performance for software-defined workloads, Big Data, VDI, and Databases to match modern data centers’ demands for ever-expanding capability and performance. Maximize server utilization and decrease network bottlenecks with 128 processor cores from two AMD EPYC™ CPUs, class-leading memory speed and 128 PCIe 4.0 lanes.| 
+| **Dell - PowerEdge R250** |
+| The PowerEdge R250, powered by the Intel® Xeon® E-2300 processors, is a rack server with an ideal balance of adaptability and affordability designed to address your evolving compute demands. Supports up to 32GB DIMMS at 3200 MT/s DIMM speed, up to 128GB Address substantial throughput improvements with PCIe Gen 4 support Ideal for file/print, mail/messaging, point of sale, web hosting and collaboration Offers enhanced thermal efficiency Provides improved security and faster boot time with UEFI Secure Bootd |
 
-**References**
-
-||
-| :- |
-
-
-
-1) Conduct research into a current industry accepted virtualisation software. Include two (2) different types of virtualisation software in your results, describing the general features and capabilities suited to the project. Explain how the general features and capabilities of each types of virtualisation software will meet the business requirement.
-
-Include your all your research information sources in the References box below using APA referencing style. Include at least two (2) references for each chosen virtualisation software.
 
 Use the following table to document your answer. *(Approx. 200 words)*
 
-|**Virtualisation Software 1 – Brand Title and Edition**|
-| :- |
-||
-|**Virtualisation Software 2 – Brand Title and Edition**|
-||
+**Virtualization Software**
 
-**References**
+**Microsoft Hyper-V** is available as part of Microsoft server 2020
 
-||
-| :- |
+Hyper-V is allows you to run multiple virtual machines on top of Microsoft Server. Each machine has its own isolated space, which means we can run more than one virtual machine on the same hardware at the same time
 
+- Establish or expand a private cloud environment on demand
+- More effective hardware use. We can consolidate our servers and workloads onto fewer, more powerful physical computers to use less power and physical space.
+- Provide virtual desktop infrastructure (VDI) so that staff have a consistent desktop experience, this will provide business agility, data security and simplify regulatory compliance and manage desktop operating systems and applications.
+- Being a Microsoft product, this solution integrates well with existing Microsoft software such as Office, Exchange etc.
+
+** VMWare - vSphere 7 **
+
+Power our computing environment for modern applications using any combination of virtual machines, containers and Kubernetes with VMware vSphere.
+
+As with Hyper-V, we would get
+
+- Establish or expand a private cloud environment on demand
+- More effective hardware use. We can consolidate our servers and workloads onto fewer, more powerful physical computers to use less power and physical space.
+
+If we need to host any new server applications, this becomes really simple as we have the flexibility to configure servers built from docker style containers
+
+Cons: Because it is not Microsoft, we will have more work to virtualize our existing Microsoft Infrastructure
 
 
 ### Step 2.8 –  Analyse finanical information  
-1) Using a financial function calculate the payback period, in years, for a new $30,000 server. This payback period is to be based on savings of $10,000 per annum. 
+
+@Nicolas: I don't understand how to do this? I remember you talking about it, but I cannot find the reverence information?
+
+1) Using a financial function calculate the payback period, in years, for a new \$30,000 server.
+2) This payback period is to be based on savings of $10,000 per annum. 
 
 Make sure you provide your formulae, data substitution in the formulae, along with your final calculated result.
 
 Explain what this payback period result means to the company.
-
-Use the following table to document your answer. *(Approx. 50 words)*
-
-||
-| :- |
 
 
 1) Using a financial function calculate the future value for a 5 year term deposit of $30,000. Assume an interest rate of 3% compounded annually. 
@@ -227,7 +183,4 @@ Make sure you provide your formulae, data substitution in the formulae, along wi
 Explain which would be a better investment for the company, a new server costing $30,000 or this term deposit.
 
 Use the following table to document your answer. *(Approx. 50 words)*
-
-||
-| :- |
 
