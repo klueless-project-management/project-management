@@ -117,11 +117,9 @@ David Cruwys
 
 *Hosting the existing servers in a virtual environment will require virtualisation software. Terrence has also asked you to research possible virtualisation software that would be suitable for this business requirement.*
 
-*Terrence would also like to know how long it will take for the company to recoup the cost of a $30,000 new server. It is estimated that the saving from implementing the new server will be an average of $10,000 per year.* 
+*Terrence would also like to know how long it will take for the company to recoup the cost of a \$30,000 new server. It is estimated that the saving from implementing the new server will be an average of $10,000 per year.* 
 
-*ROI Management would like to compare investing the $30,000 in a new server with investing the $30,000 in a term deposit. This term deposit would be for 5 years with an interest rates of 3% compound.*
-
-
+*ROI Management would like to compare investing the \$30,000 in a new server with investing the $30,000 in a term deposit. This term deposit would be for 5 years with an interest rates of 3% compound.*
 
 1) Include two (2) different servers in your results, describing the general features and capabilities suited to the project. Explain how the general features and capabilities each server will meet the business requirement.
 
@@ -131,11 +129,10 @@ Use the following table to document your answer. *(Approx. 200 words)*
 
 | Server Options |
 | :- |
-| **Lenovo - ThinkSystem SR665 7252 16GB** |
-| The ThinkSystem SR665 delivers the next era of solution performance for software-defined workloads, Big Data, VDI, and Databases to match modern data centers’ demands for ever-expanding capability and performance. Maximize server utilization and decrease network bottlenecks with 128 processor cores from two AMD EPYC™ CPUs, class-leading memory speed and 128 PCIe 4.0 lanes.| 
-| **Dell - PowerEdge R250** |
+| **Lenovo - ThinkSystem SR665 - $6,879.41** |
+| The ThinkSystem SR665 - 7252 - 16GB delivers the next era of solution performance for software-defined workloads, Big Data, VDI, and Databases to match modern data centers’ demands for ever-expanding capability and performance. Maximize server utilization and decrease network bottlenecks with 128 processor cores from two AMD EPYC™ CPUs, class-leading memory speed and 128 PCIe 4.0 lanes.| 
+| **Dell - PowerEdge R250 - $10,646.50** |
 | The PowerEdge R250, powered by the Intel® Xeon® E-2300 processors, is a rack server with an ideal balance of adaptability and affordability designed to address your evolving compute demands. Supports up to 32GB DIMMS at 3200 MT/s DIMM speed, up to 128GB Address substantial throughput improvements with PCIe Gen 4 support Ideal for file/print, mail/messaging, point of sale, web hosting and collaboration Offers enhanced thermal efficiency Provides improved security and faster boot time with UEFI Secure Bootd |
-
 
 Use the following table to document your answer. *(Approx. 200 words)*
 
