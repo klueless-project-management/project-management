@@ -37,7 +37,9 @@ Go-Air management board has decided to carry out a major review of the business 
  - My advice from an ICT perspective
 
 ### **Questions**
-1. As a senior ICT manager outline what would be your first step in this scenario? (Hint: Think about gaining better understanding of the existing strategic plan and current business practices). 50-75 words
+1. As a senior ICT manager outline what would be your first step in this scenario?
+
+> Hint: Think about gaining better understanding of the existing strategic plan and current business practices). 50-75 words
 
 - Review documents and question staff on what propelled the company to become a top budget airline from year 2007 to 2013
 - Review the 2014/2018 strategic plan, look at it's assumptions, it's deliverables and KPI's
@@ -46,8 +48,9 @@ Go-Air management board has decided to carry out a major review of the business 
 
 2. In the current strategic plan review, you have determined that there needs to be a significant investment in ICT systems. The introduction of a customer loyalty program is one area that would have impact on ICT systems and consequently the Go-Air business. 
    
-  
-  ICT can stream line Go-Air in the following areas
+> The introduction of a customer loyalty program is one area that would have impact on ICT systems and consequently the Go-Air business.
+>
+> ICT can stream line Go-Air in the following areas?
   
   **Customer loyalty**
   
@@ -64,7 +67,7 @@ Go-Air management board has decided to carry out a major review of the business 
   - Customer Support and FAQ systems can answer repeat questions quickly
   - Customers should be able to see the status of flights, availability and baggage through automated systems
 
-3. Based on your answer in question 2 above, describe your advice to the Go-Air management regarding changes to ICT systems to accommodate a customer loyalty program? 50-75 words
+3. Based on your answer in question 2 above, describe your advice to the Go-Air management regarding changes to ICT systems to accommodate a customer loyalty program?
 
 - Add an LMS (Loyalty Management System)
   - Implement a Loyalty Program
@@ -81,13 +84,28 @@ Go-Air management board has decided to carry out a major review of the business 
 
 4. Outline your justification to Go-Air management for an increase in ICT related costs associated with the introduction of a customer loyalty program?
 
+> Hint: Think of ICT related cost as an investment and include some intangible benefits in your answer
+
+  **Costs**
+
+  - There is a purchase and on-going running cost for the LMS platforms
+  - There are one-off integration costs
+
+  **Revenue**
+
+  There will be increased revenue streams as well as cost reductions in existing areas of the business.
+
   - Loyalty Program
     - Increase revenue via repeat customers because of lower prices or benefits that they receive.
     - Lock these customers away from competitors
   - FAQ and Support tools will build up the company a knowledge base so that staff (new and old) will be more efficient
+    - Reduction in customer service costs
   - Dashboards will reduce customer service enquires and empower our customers.
+    - Reduction in customer service costs
  
 5. Based on the information provided in the Go-Air scenario, describe what other advice you have for the Go-Air management for the 2019-2023 Strategic Plan regarding ICT systems?
+
+  > Please provide at least two ICT related examples in your answer.
 
   - LMS (Loyalty Management System)
     - Easy to lock in our existing customers to using Go-Air vs a competitor
@@ -100,8 +118,9 @@ Go-Air management board has decided to carry out a major review of the business 
       - Automating seat allocations
       - Locating baggage
 
-6. Implementing a customer loyalty program will mean significant changes to current ICT systems. Outline an action plan to implement this change. 
+6. Implementing a customer loyalty program will mean significant changes to current ICT systems.
 
+> Outline an action plan to implement this change. 
 
 - Choose off the shelf LMS or build our own
 - Any LMS system we got with will need integrations with our existing CMS (Customer Management System)
@@ -111,7 +130,8 @@ Go-Air management board has decided to carry out a major review of the business 
   - We will need a person who's responsibility is to liaise with partners
   - Integrations with partner systems will be bespoke and have various development costs associated
 
-- **KPI**: Related to the LMS implementation should include:
+> Develop KPI's to measure the success of the LMS
+ 
   - Repeat customer purchases
   - Increase in click through rates for new targeted promotion 
   - Increased revenue
@@ -120,5 +140,9 @@ Go-Air management board has decided to carry out a major review of the business 
 
 7 . Implementing the customer loyalty program will involve some difficulties for both ICT systems and Go-Air business as a whole.
 
-- Promblem1: How easy will it be to create bespoke integrations with our CMS and Logistics platforms. Plus integration with partners
-- Promblem2: New roles and responsibilities will need to be created in the marketing department related to loyalty programs and partnership relationships.
+> (Hint: Think from the perspective of the significance of ICT in today’s business environment)
+
+- Problem 1:
+  - How easy will it be to create bespoke integrations with our CMS and Logistics platforms. Plus integration with partners
+- Problem 2
+  - New roles and responsibilities will need to be created in the marketing department related to loyalty programs and partnership relationships.
