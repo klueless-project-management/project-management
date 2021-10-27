@@ -67,6 +67,7 @@ The instructions and the criteria in the tasks and activities below will be used
 The following scenario information on Red Opal Innovations (ROI) and Tough Trailers relate to this assessment.
 
 ### [**Red Opal Innovations](https://share.tafensw.edu.au/share/file/73f2bb48-c457-4fe9-96cf-618ee5f5f2bc/1/ROI_Scenario.pdf)**(ROI)**
+
 To gain a background knowledge of [Red Opal Innovations](https://share.tafensw.edu.au/share/file/73f2bb48-c457-4fe9-96cf-618ee5f5f2bc/1/ROI_Scenario.pdf) (ROI) please read Red Opal Innovations scenario (ROI\_Scenario.pdf). As you are new to Red Opal Innovations, you should also look at the ROI organisation chart (ROI\_Org\_chart.pdf) so you know who to liaise with on this project.
 
 ### **Tough Trailers strategic plan**
@@ -114,6 +115,7 @@ Hint: To enhance readability of this report you are encouraged to:
 - Make sure that you use correct spelling, grammar, relevant terminology and plain English
 - Include your own headings and sub-heading as needed.
 - Adopt a point-wise approach to presenting your information where appropriate. Make sure you include an introductory statement before any set of points
+
 ## **Part 2: Evaluate current strategic plan**
 You will be required to carry out the following five steps to complete this part of the assessment.
 ### **Step 2.1 – Background information**
