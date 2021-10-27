@@ -193,7 +193,7 @@ hardware and software
 version of the operating system used within Red Opal Innovations
 ![](../resources/snapshots/operating_system_rollout.png)
 
-#### Organization chart
+#### Organisation chart
 
 **ROI_Org_chart.pdf**
 
@@ -517,7 +517,7 @@ hardware and software
 version of the operating system used within Red Opal Innovations
 ![](../resources/snapshots/operating_system_rollout.png)
 
-#### Organization chart
+#### Organisation chart
 
 **ROI_Org_chart.pdf**
 

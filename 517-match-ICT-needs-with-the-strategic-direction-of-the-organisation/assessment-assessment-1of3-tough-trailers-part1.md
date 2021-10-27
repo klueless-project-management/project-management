@@ -44,8 +44,6 @@ Extra
 | :- | :- | :- | :- |
 | 1.1 | Create | 1 Oct, 2021 | Create Skelton for Report |
 | 1.2 | Review | 6 Oct, 2021 | Add in TOC |
-| 1.3 | Update | 20 Oct, 2021 | Add new server vender product details |
-
 
 ## Document Sign-off
 
@@ -53,7 +51,7 @@ Extra
 |**Stakeholder** |**Role**|**Sign off**|
 | :- | :- | :- | :- |
 |Wendy Opal | Director | <input type="checkbox" disabled  /> |
-|David Cruwys| Project Manager |  <input type="checkbox" checked /> |
+|David Cruwys| Project Manager |  <input type="checkbox" disabled /> |
 |Terrence Stewart | ROI Development Manager | <input type="checkbox" disabled  /> |
 
 

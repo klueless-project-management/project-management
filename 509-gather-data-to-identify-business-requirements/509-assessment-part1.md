@@ -12,7 +12,7 @@ David Cruwys, 2nd Aug, 2021
 
 ## Identify and review key information resources
 
-[Summarization of resources](./509-assessment-summary.md)
+[Summarisation of resources](./509-assessment-summary.md)
 
 ### Step 1.1 – Document Library
 
@@ -27,7 +27,7 @@ David Cruwys, 2nd Aug, 2021
 |IT|ROI IT Gov policy|List of major stakeholders plus rules (Principles) on new IT projects|
 |IT|ROI IT Infr change survey results.pdf|Virtualisation is being implemented by many organisations and the IT Support Network Manager of Red Opal Innovations, Terrence Stewart, is interested in exploring the possibility of introducing virtualised servers at Red Opal Innovations.|
 |IT|ROI NW server register.pdf|List of all 5 servers, their purpose and services they offer, specifications, network diagram|
-|Operations|ROI Org chart.pdf|Organization chart|
+|Operations|ROI Org chart.pdf|Organisation chart|
 |IT|ROI Strategic plan.pdf|IT Strategic Plan|
 |IT|ROI SLA.pdf|SLA - Service Level Agreement IT Support|
 |Accounts|ROI_Asset_register.xlsx|List of computers and other assets|
@@ -70,11 +70,11 @@ Stakeholder critical questions
 |Max Boags / Manager, Accounts|Questionnaire|What is available budget for contractors|
 |Max Boags / Manager, Accounts|Questionnaire|What is available budget for external service providers|
 |Vinh Ngyen / Manager Development|Focus Group|What benefits from this project do you see for your department|
-|Vinh Ngyen / Manager Development|Focus Group|How do you see the developers being impacted by the virtualization infrastructure project|
+|Vinh Ngyen / Manager Development|Focus Group|How do you see the developers being impacted by the virtualisation infrastructure project|
 |Frank Marks / Manager Multimedia Productions|Focus Group|What benefits from this project do you see for your department|
-|Frank Marks / Manager Multimedia Productions|Focus Group|How do you see the content creators being impacted by the virtualization infrastructure project|
+|Frank Marks / Manager Multimedia Productions|Focus Group|How do you see the content creators being impacted by the virtualisation infrastructure project|
 |Sally Bach / Manager Sales and Marketing|Focus Group|What benefits from this project do you see for your department|
-|Sally Bach / Manager Sales and Marketing|Focus Group|Do you see the sales or marketing being impacted by the virtualization infrastructure project|
+|Sally Bach / Manager Sales and Marketing|Focus Group|Do you see the sales or marketing being impacted by the virtualisation infrastructure project|
 |Terrence Stewart / Manager IT|Interview|Existing staff don’t have full range of technical skills in the area of multimedia and content management systems.?|
 |Terrence Stewart / Manager IT|Interview|Internal network infrastructure is near capacity and needs re-designing to meet the increase in network traffic if new business is generated.|
 |Terrence Stewart / Manager IT|Interview|Can this be outsourced|

@@ -131,7 +131,7 @@ This document contains the project brief plus kickoff information from key stake
 
 # Include a bibliography of resources you use for research, including organisational documentation.
 
-* Organization documents have been used to infer informdation for the project. See: **List of all WizBiz documents**
+* Organisation documents have been used to infer informdation for the project. See: **List of all WizBiz documents**
 * Stake holder interviews have conducted and documented. See: **Q&A Session with stack holders**
 * Phone interviews with potential users including
   * Accounts department

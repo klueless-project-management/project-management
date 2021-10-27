@@ -12,7 +12,7 @@ David Cruwys, 2nd Aug, 2020
 
 ## Gather data
 
-[Summarization of resources](./509-assessment-summary.md)
+[Summarisation of resources](./509-assessment-summary.md)
 
 ### Step 2.1 – Document Review
 
@@ -29,7 +29,7 @@ Analyse the document and then describe the business information contained in thi
 |IT|ROI IT Gov policy|List of major stakeholders plus rules (Principles) on new IT projects|
 |IT|ROI IT Infr change survey results.pdf|Virtualisation is being implemented by many organisations and the IT Support Network Manager of Red Opal Innovations, Terrence Stewart, is interested in exploring the possibility of introducing virtualised servers at Red Opal Innovations.|
 |IT|ROI NW server register.pdf|List of all 5 servers, their purpose and services they offer, specifications, network diagram|
-|Operations|ROI Org chart.pdf|Organization chart|
+|Operations|ROI Org chart.pdf|Organisation chart|
 |IT|ROI Strategic plan.pdf|IT Strategic Plan|
 |IT|ROI SLA.pdf|SLA - Service Level Agreement IT Support|
 |Accounts|ROI_Asset_register.xlsx|List of computers and other assets|
@@ -59,13 +59,13 @@ Done in class
 
 Dear Wendy Opal,
 
-This email outlines the general requirements for expanding your existing server infrastructure to new virtualization technologies
+This email outlines the general requirements for expanding your existing server infrastructure to new virtualisation technologies
 
 Your current infrastructure is an internal network architecture using 5 servers.
 
 With the move to the new location, we are going to provide an expansion path that replaces Domain Controller Server with new virtualizing technologies that are scalable with your planned business growth
 
-The new virtualization servers will host the existing servers and have easy expansion capability.
+The new virtualisation servers will host the existing servers and have easy expansion capability.
 In-house and external connections will be 10 times faster then existing setup using FTTP (fibre to the premises).
 Mobile work environments will be available over a secure VPN allowing remote staff to access the network whilst maintaining high security.
 
@@ -126,13 +126,13 @@ Use the following table to document your answer. *(Approx. 200 words)*
 | Server Options |
 | :- |
 | **Lenovo - ThinkSystem SR665 - $6,879.41** |
-| The ThinkSystem SR665 - 7252 - 16GB delivers the next era of solution performance for software-defined workloads, Big Data, VDI, and Databases to match modern data centers’ demands for ever-expanding capability and performance. Maximize server utilization and decrease network bottlenecks with 128 processor cores from two AMD EPYC™ CPUs, class-leading memory speed and 128 PCIe 4.0 lanes.| 
+| The [ThinkSystem SR665](https://www.lenovo.com/au/en/data-center/servers/racks/ThinkSystem-SR665/p/7D2VA034AU) - 7252 - 16GB delivers the next era of solution performance for software-defined workloads, Big Data, VDI, and Databases to match modern data centers’ demands for ever-expanding capability and performance. Maximize server utilisation and decrease network bottlenecks with 128 processor cores from two AMD EPYC™ CPUs, class-leading memory speed and 128 PCIe 4.0 lanes.| 
 | **Dell - PowerEdge R250 - $10,646.50** |
-| The PowerEdge R250, powered by the Intel® Xeon® E-2300 processors, is a rack server with an ideal balance of adaptability and affordability designed to address your evolving compute demands. Supports up to 32GB DIMMS at 3200 MT/s DIMM speed, up to 128GB Address substantial throughput improvements with PCIe Gen 4 support Ideal for file/print, mail/messaging, point of sale, web hosting and collaboration Offers enhanced thermal efficiency Provides improved security and faster boot time with UEFI Secure Bootd |
+| The [PowerEdge R250](https://www.dell.com/en-au/work/shop/cty/pdp/spd/poweredge-r250/asper250_vi_vp), powered by the Intel® Xeon® E-2300 processors, is a rack server with an ideal balance of adaptability and affordability designed to address your evolving compute demands. Supports up to 32GB DIMMS at 3200 MT/s DIMM speed, up to 128GB Address substantial throughput improvements with PCIe Gen 4 support Ideal for file/print, mail/messaging, point of sale, web hosting and collaboration Offers enhanced thermal efficiency Provides improved security and faster boot time with UEFI Secure Bootd |
 
 Use the following table to document your answer. *(Approx. 200 words)*
 
-**Virtualization Software**
+**Virtualisation Software**
 
 **Microsoft Hyper-V** is available as part of Microsoft server 2020
 

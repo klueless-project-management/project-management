@@ -18,7 +18,7 @@ Phases
 
 Project Charter
 
-- A Document (or series of documents developed during the initialization phase)
+- A Document (or series of documents developed during the initialisation phase)
 - Outlines the purposed of the project, including things like
   - Problem statement
   - Objectives
