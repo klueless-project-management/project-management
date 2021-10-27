@@ -18,7 +18,7 @@ While you have access to various business documents, your primary role is to con
 
 Please note the ROI Development Team is also working on another project with Tough Trailers that relates to website development for the client. At this stage you are not part of the website development project team.  However, you have been advised to ensure that any probable impact of website development on the business is included in your work.
 
-You need to review the all the following documents relating to Tough Trailers: 
+#### Document Repository
 
 - [Tough Trailers Scenario](./documents/Tough%20Trailers%20Scenario.pdf)
 - [Tough Trailers Strategic Plan](./documents/Tough%20Trailers%20Strategic%20Plan.pdf)
@@ -31,17 +31,12 @@ Extra
 - [ROI_Report_template](./documents/ROI_Report_template.dotx)
 - [ROI_Scenario](./documents/ROI_Scenario.pdf)
 
-#### Summary
-
-**Part 1: Prepare Report Skeleton** 
+## Part 1: Prepare Report Skeleton 
 
 
 ## Cover Page
 
 ![](./images/heading.png)
-
-#### PURPOSE GOES HERE
-
 
 **Document Change History**
 
