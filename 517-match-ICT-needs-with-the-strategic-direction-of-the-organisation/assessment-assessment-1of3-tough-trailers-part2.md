@@ -128,6 +128,65 @@ The main ares of concern are:
 
 ### Current Strategic Plan
 
+> Make sure you review each of the seven stages of the strategic plan and the Action Plans Table.
+
+Tough Trailers has a vision to "provide customised trailer solutions to customers where quality and looks go together"
+
+Their mission is to provide an end-to-end solution for customers with bespoke trailer requirements that includes design, manufacture and the highest quality and back that up with exceptional customer and after sales service.
+
+**SWOT Summary**
+
+- Tough trailers has a strong core business with great products, workforce and partners.
+- They are challenged in the areas of communication, training, processes, and sales/customer information systems.
+- The opportunity is base on their efficient manufacturing practices and market growth, but could scale via franchising or dealerships and needs some sort of customer retention initiative, such as loyalty programs.
+- The main problem is new competition, communication systems, legislative policies and currency movements.
+
+**Near Term Goals**
+
+- Customer retention and aquisition based on Service, Satisfaction and Retention principle
+- Operational efficiency based on improved production turn-around and staff training on production, technology and legislation.
+- Financial goal is based on maintaining 30% increase in growth over the next two years
+
+**Long Term Goals**
+
+- Double sales over next 5 years, grow revenue (retained profits) by 15% per year in 5 years.
+- Open a new channel for sales via website and increase online sales to 50% (half) of total sales in 5 years
+- Explore and evaluate franchising and dealership ideas
+- Explore diversification options
+- Production & manufacturing capacity keeps up with market demand
+
+**Plan of Action Summary**
+
+Customer oriented
+
+- Professional and friendly environment
+- Knowledgeable Designers, Estimates and Sales Consultants
+- Communication systems covering post-sales marketing and feedback plus support.
+- Automated marketing systems.
+- Ongoing training, workshops and seminars
+
+Operations
+
+- Increase manufacturing and production efficiency
+- Efficient staff on-boarding and training via HR and procedures.
+- Move to modular component development manufacturing
+- ICT infrastructure and applications to serve both business and customers efficiently
+- Business website, information portal, eCommerce and design facilities.
+- Ongoing training and development programs for all six sections to ensure compliance, industry standards, legislative requirements and technology advancements are covered
+
+Financial
+
+- Implement new revenue growth strategies.
+- Create a balance between profit increase and reinvestment for product R&D / business growth.
+
+### Long-Term
+
+- Increase in business through online sales using the business website
+- Franchising and dealership options being considered, discussed and finalised
+- Probable contract with a financial institution for preferred loan provider
+- One-window sales and maintenance operations to be introduced and implemented
+- Developing an efficient workforce through proper recruitment and induction procedures with ongoing training, incentives for employee retention
+
 ### Current Business Requirement
 
 ### Current ICT System
@@ -146,11 +205,6 @@ The main ares of concern are:
 
 <hr/>
 
-### **Step 2.2 - Current Strategic Plan**
-
-Thoroughly review the document **Strategic Plan – Tough Trailers.** Make sure you review each of the seven stages of the strategic plan and the Action Plans Table.
-
-Using this information write a summary** of the current strategic plan for Tough Trailers under the heading **Current Strategic Plan** in your report.  *(Approximately 500 words)* 
 ### **Step 2.3 – Research task - Understanding current business requirements**
 This step requires you to complete online research and is not based on the supplied scenario.  Include links to any websites that you use.
 
