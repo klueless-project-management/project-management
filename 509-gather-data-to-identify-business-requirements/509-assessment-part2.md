@@ -52,12 +52,6 @@ Done in class
 
 ### Step 2.5 - Confirm meeting results
 
-You need to confirm with the ROI key stakeholders that you understand the business critical factors relating to the current and future directions of the organisation as it relates to the project.
-
-To do this draft the body of an email, to all the major stakeholder summarising the information you gathered in the meeting. Point form is sufficient. 
-
-In your email you need to include a request for a reply from the stakeholders confirming the information gathered is correct. Ensure that you write this email in an appropriate business manner and use the **ROI Email template**.
-
 **From**: david.cruwys@redopalinnovations.com
 **Sent**: 27/Oct/2021
 **To**: wendy.opal@redopalinnovations.com
@@ -67,20 +61,22 @@ Dear Wendy Opal,
 
 This email outlines the general requirements for expanding your existing server infrastructure to new virtualization technologies
 
-**Budget**: $150, 000
-
 Your current infrastructure is an internal network architecture using 5 servers.
 
 With the move to the new location, we are going to provide an expansion path that replaces Domain Controller Server with new virtualizing technologies that are scalable with your planned business growth
 
 The new virtualization servers will host the existing servers and have easy expansion capability.
 In-house and external connections will be 10 times faster then existing setup using FTTP (fibre to the premises).
-Mobile work environments will be available over a secure VPN. This will allow remote staff to access the network whilst maintaining high security.
+Mobile work environments will be available over a secure VPN allowing remote staff to access the network whilst maintaining high security.
+
+Budget: **$150,000**
+
+Please reply with confirmation that this information is correct. 
+
 
 Kind regards,
-Signature block: 
-David Cruwys
-0400 001122
+*David Cruwys*
+*0400 001122*
 
 
 ![](./images/email-footer.png)
