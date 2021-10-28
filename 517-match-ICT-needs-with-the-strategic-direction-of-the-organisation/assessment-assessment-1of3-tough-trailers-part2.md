@@ -53,15 +53,15 @@ Extra
 
 |**Stakeholder** |**Role**|**Sign off**|
 | :- | :- | :- |
-|Bob Sedgewick | Managing Director | [] |
-|David Cruwys| ROI Project Manager |  [x] |
-|Terrence Stewart | ROI Development Manager | [] |
-|James Mansour | Chief Finance Officer | [] |
-|Jenny Smith | Office Manager | [] |
-|Wolfgang Wiss | Head of Manufacturing | [] |
-|Ellen Chu | HR Manager | [] |
-|Ellen Chu | IT Manager | [] |
-|Angelo Cassati | Sales & Mktg Manager | [] |
+|Bob Sedgewick | Managing Director | &#9744; |
+|David Cruwys| ROI Project Manager |  &#9745; |
+|Terrence Stewart | ROI Development Manager | &#9744; |
+|James Mansour | Chief Finance Officer | &#9744; |
+|Jenny Smith | Office Manager | &#9744; |
+|Wolfgang Wiss | Head of Manufacturing | &#9744; |
+|Ellen Chu | HR Manager | &#9744; |
+|Ellen Chu | IT Manager | &#9744; |
+|Angelo Cassati | Sales & Mktg Manager | &#9744; |
 
 
 ## Table of Contents
