@@ -241,7 +241,7 @@ Other references:
 
 
 |**Key Stakeholders** |**Focus**| **Requirement** |
-| :- | :- | :- | :- |
+| :- | :- | :- |
 | Board of Directors | Internal | Business and Profit Growth |
 | ROI Consultants | External | Deliver on expectations |
 | Finance | Internal | Budget and funding for any strategic initiative |

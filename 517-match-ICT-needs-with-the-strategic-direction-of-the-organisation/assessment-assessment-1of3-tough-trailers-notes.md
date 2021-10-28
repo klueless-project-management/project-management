@@ -198,3 +198,14 @@ An additional requirement (outside of the core strategies) will be these three a
 | Suppliers | External | Automation for communication and product delivery |
 
 
+- Production capacity
+- In-line 3D printing facility
+- Training and development
+- New technologies
+- Improved communication with sales staff for faster quote procedures
+- Modular components development<
+- With the website development, sales boost is expected.
+- Current production capacity is just enough – how will the increased sales be translated into actual manufacturing with no delays.
+- In-line 3D printing facility can significantly reduce design prototype development time.
+- Moving into modular components development can reduce quote times for sales staff and they can themselves demonstrate various design options using the integrated manufacturing – sales section of the website. 
+- Employees need training and competence to new technologies and capacity building
