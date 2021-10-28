@@ -45,6 +45,9 @@ Extra
 | 1.1 | Create | 1 Oct, 2021 | Create Skelton for Report |
 | 1.2 | Review | 6 Oct, 2021 | Add in TOC |
 | 1.3 | Update | 27 Oct, 2021 | Add to background information |
+| 1.4 | Update | 28 Oct, 2021 | Add Current Strategic Plan |
+| 1.5 | Update | 29 Oct, 2021 | Add Current Business Requirement |
+
 
 ## Document Sign-off
 
@@ -191,8 +194,6 @@ Financial
 - Probable contract with a financial institution for preferred loan provider
 - One-window sales and maintenance operations to be introduced and implemented
 - Developing an efficient workforce through proper recruitment and induction procedures with ongoing training, incentives for employee retention
-
-### Current Business Requirement
 
 ### Current Business Requirement
 
