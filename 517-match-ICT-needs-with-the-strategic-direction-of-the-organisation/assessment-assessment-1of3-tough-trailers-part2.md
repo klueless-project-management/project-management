@@ -206,18 +206,20 @@ We have two core strategies that we are focused on to achieve these goals:
 
 1. Modernise our IT systems
    - Create online sales and marketing systems (via website)
-   - Systems automation for training and legislative requirements
+   - Staff training, development and compliance.
    - Product/catalogue management system
    - Virtual tools for designers and bespoke customizations.
    - eCommerce portal to self direct to customers
    - VR Goggles in showrooms to view trailer concepts.
+   - Sales and communication tools (faster quote, better followup)
 2. Modular Component Manufacturing
+   - Increase production capacity
    - Upgrade the existing process of prefab manufacturing to modular manufacturing
    - Support a range of trailer bases, industry specific components and generalized accessories
      - This is to lesson the cumbersome individual customizations that we currently do.
      - [Reference: Examples](https://www.modularcomponents.com.au/)
    - Volume produce modular components, and/or
-   - 3D printed components for just in time turn around or component R&D
+   - In-line 3D facility to print components for just in time turn around and/or component prototypes
    - Integrate IT in this process
      - Brochures / Catalogues
      - Inventory Management
@@ -240,10 +242,10 @@ Other references:
 **What is modular type?** *Modular design, or modularity in design, is a design principle that subdivides a system into smaller parts called modules (such as modular process skids), which can be independently created, modified, replaced, or exchanged with other modules or between different systems.*
 
 
-|**Key Stakeholders** |**Focus**| **Requirement** |
+|**Key Stakeholders** |**Category**| **Requirement** |
 | :- | :- | :- |
-| Board of Directors | Internal | Business and Profit Growth |
-| ROI Consultants | External | Deliver on expectations |
+| Board of Directors | Internal | Business and profit growth |
+| ROI Consultants | External | Deliver on Tough Trailers expectations |
 | Finance | Internal | Budget and funding for any strategic initiative |
 | HR | Internal | Streamline systems for recruiting and onboarding staff across different departments |
 | Operations | Internal | Increase systems efficiency and have no bombshells |
@@ -253,31 +255,6 @@ Other references:
 | Customers | External | Quick delivery, simple and bespoke trailers |
 | Distributors | External | Automation for sales, marketing and customer enquiries |
 | Suppliers | External | Automation for communication and product delivery |
-
-
-The following Table 2 Business Requirements template provides you with a template for you to use to complete the current business requirements for the Tough Trailers Scenario. Make sure you include this in your report.  
-#### **Tips for completing the Business Requirements** 
-In determining Tough Trailer’s business requirements: 
-
-- Use the provided example to guide you in determining requirements of each identified stakeholder 
-- Use the Tough Trailers Organisation chart to provide a good starting point for stakeholder identification and their respective requirements analysis
-- The customers are a major stakeholder in Tough Trailers business.  Make sure you analyse their requirements
-- Consider ROI as a stakeholder. 
-
-Table  SEQ Table \\* ARABIC 2 Business Requirements template 
-
-|**Current business requirements – Tough Trailers**|
-| - |
-|**Key Stakeholders**|**Category**|**Requirements**|**Interpretation**|
-|Manufacturing|Internal |<p>- Production capacity</p><p>- In-line 3D printing facility</p><p>- Training and development</p><p>- New technologies</p><p>- Improved communication with sales staff for faster quote procedures</p><p>- Modular components development</p>|<p>- With the website development, sales boost is expected.</p><p>- Current production capacity is just enough – how will the increased sales be translated into actual manufacturing with no delays.</p><p>- In-line 3D printing facility can significantly reduce design prototype development time.</p><p>- Moving into modular components development can reduce quote times for sales staff and they can themselves demonstrate various design options using the integrated manufacturing – sales section of the website. </p><p>- Employees need training and competence to new technologies and capacity building</p>|
-|||||
-|||||
-|||||
-|||||
-|||||
-|||||
-
-
 
 ### Current ICT System
 
@@ -291,54 +268,3 @@ Table  SEQ Table \\* ARABIC 2 Business Requirements template
 
 
 ## Conclusion
-
-
-<hr/>
-
-### **Step 2.3 – Research task - Understanding current business requirements**
-This step requires you to complete online research and is not based on the supplied scenario.  Include links to any websites that you use.
-
-Briefly describe the importance of understanding the current business requirements and why it is important to understand ICT’s role in the current business requirements.
-
-*Hint: to get what you want, you need to accurately define it – and a good business requirements analysis helps you achieve this objective.* 
-
-Use the following table for your answer. *(Approximately 300 words)*
-
-||
-| :- |
-### **Step 2.4 – Current Business Requirements** 
-Using the information obtained from Steps 1 and 2, write a summary** of the current business requirements for Tough Trailers under the heading **Current Business Requirements** in your report.  
-
-You will be required to:
-
-- Identify Key Stakeholders (business stakeholders as well as the project stakeholders). In this case stakeholders are not individuals but major groups that are internal and external to the business e.g. Manufacturing, Customers, ROI etc.
-- Categorise stakeholders as Internal or External
-- Capture stakeholder requirements (each stakeholder may have a different set of requirements)
-- Interpret and record requirements
-
-The following Table 2 Business Requirements template provides you with a template for you to use to complete the current business requirements for the Tough Trailers Scenario. Make sure you include this in your report.  
-#### **Tips for completing the Business Requirements** 
-In determining Tough Trailer’s business requirements: 
-
-- Use the provided example to guide you in determining requirements of each identified stakeholder 
-- Use the Tough Trailers Organisation chart to provide a good starting point for stakeholder identification and their respective requirements analysis
-- The customers are a major stakeholder in Tough Trailers business.  Make sure you analyse their requirements
-- Consider ROI as a stakeholder. 
-
-Table  SEQ Table \\* ARABIC 2 Business Requirements template 
-
-|**Current business requirements – Tough Trailers**|
-| - |
-|**Key Stakeholders**|**Category**|**Requirements**|**Interpretation**|
-|Manufacturing|Internal |<p>- Production capacity</p><p>- In-line 3D printing facility</p><p>- Training and development</p><p>- New technologies</p><p>- Improved communication with sales staff for faster quote procedures</p><p>- Modular components development</p>|<p>- With the website development, sales boost is expected.</p><p>- Current production capacity is just enough – how will the increased sales be translated into actual manufacturing with no delays.</p><p>- In-line 3D printing facility can significantly reduce design prototype development time.</p><p>- Moving into modular components development can reduce quote times for sales staff and they can themselves demonstrate various design options using the integrated manufacturing – sales section of the website. </p><p>- Employees need training and competence to new technologies and capacity building</p>|
-|||||
-|||||
-|||||
-|||||
-|||||
-|||||
-
-### **Step 2.5 – Current ICT Systems**
-Thoroughly review the document **Existing ICT Resources – Tough Trailers**.
-
-
