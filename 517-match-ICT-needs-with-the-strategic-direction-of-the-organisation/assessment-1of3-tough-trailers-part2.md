@@ -258,6 +258,10 @@ Other references:
 
 ### Current ICT System
 
+Thoroughly review the document **Existing ICT Resources – Tough Trailers**.
+
+Using this information, and the information in the Tough Trailers Scenario, write a summary** of the current Tough trailer’s ICT systems and business practices under the heading **Current ICT Systems** in your report. *(Approximately 150 words)* 
+
 ### Appraisal of current gap analysis technique
 
 ### SWOT Analysi
