@@ -50,9 +50,14 @@ Extra
 
 |**Stakeholder** |**Role**|**Sign off**|
 | :- | :- | :- | :- |
-|Wendy Opal | Director | <input type="checkbox" disabled  /> |
-|David Cruwys| Project Manager |  <input type="checkbox" checked /> |
+|Bob Sedgewick | Managing Director | <input type="checkbox" disabled  /> |
+|David Cruwys| ROI Project Manager |  <input type="checkbox" disabled /> |
 |Terrence Stewart | ROI Development Manager | <input type="checkbox" disabled  /> |
+|James Mansour | Chief Finance Officer | <input type="checkbox" disabled  /> |
+|Jenny Smith | Office Manager | <input type="checkbox" disabled  /> |
+|Wolfgang Wiss | Head of Manufacturing | <input type="checkbox" disabled  /> |
+|Ellen Chu | IT Manager | <input type="checkbox" disabled  /> |
+|Angelo Cassati | Sales & Mktg Manager | <input type="checkbox" disabled  /> |
 
 
 ## Table of Contents
@@ -188,6 +193,89 @@ Financial
 - Developing an efficient workforce through proper recruitment and induction procedures with ongoing training, incentives for employee retention
 
 ### Current Business Requirement
+
+### Current Business Requirement
+
+The existing Tough Trailers business has a head office is in Newcastle with showrooms in Sydney, Melbourne and Brisbane and turnover \$10M.
+
+Our broad goal is to grow our 1500 customer base, double our sales over 5 years and grow revenue (retained profits) by 15% per year in 5 years.
+
+We have two core strategies that we are focused on to achieve these goals:
+
+1. Modernise our IT systems
+   - Create online sales and marketing systems (via website)
+   - Systems automation for training and legislative requirements
+   - Product/catalogue management system
+   - Virtual tools for designers and bespoke customizations.
+   - eCommerce portal to self direct to customers
+   - VR Goggles in showrooms to view trailer concepts.
+2. Modular Component Manufacturing
+   - Upgrade the existing process of prefab manufacturing to modular manufacturing
+   - Support a range of trailer bases, industry specific components and generalized accessories
+     - This is to lesson the cumbersome individual customizations that we currently do.
+     - [Reference: Examples](https://www.modularcomponents.com.au/)
+   - Volume produce modular components, and/or
+   - 3D printed components for just in time turn around or component R&D
+   - Integrate IT in this process
+     - Brochures / Catalogues
+     - Inventory Management
+     - CAD Design Tools
+     - DIY Online Design Tools
+     - Custom Colour Schemes and Visualizations
+
+An additional requirement (outside of the core strategies) will be these three areas of concern:
+
+1. How can we grow the business? "Franchising and Dealerships" plus other options to be explored
+4. How do we maintaining production / manufacturing capacity? Can we meet market demands using explore prefab, modular and/or 3D print production lines.
+5. What is the best product fit for the ever changing market? Explore diversification options and new types of trailer markets such as Grey Travel and Digital Nomads.
+
+Other references:
+
+- [Popup Factories](https://modular.org/HtmlPage.aspx?name=MA-pop-up-factories)
+- [Modular Food Lines](https://www.foodengineeringmag.com/articles/98983-modularity-brings-flexibility-in-automating-production-lines)
+- [5 Industries using 3D printing](https://markforged.com/resources/blog/five-industries-utilizing-3d-printing)
+
+**What is modular type?** *Modular design, or modularity in design, is a design principle that subdivides a system into smaller parts called modules (such as modular process skids), which can be independently created, modified, replaced, or exchanged with other modules or between different systems.*
+
+
+|**Key Stakeholders** |**Focus**| **Requirement** |
+| :- | :- | :- | :- |
+| Board of Directors | Internal | Business and Profit Growth |
+| ROI Consultants | External | Deliver on expectations |
+| Finance | Internal | Budget and funding for any strategic initiative |
+| HR | Internal | Streamline systems for recruiting and onboarding staff across different departments |
+| Operations | Internal | Increase systems efficiency and have no bombshells |
+| Manufacturing | Internal | How can manufacturing automation be applied using ICT, how do we improve turn around |
+| IT | Internal | Systems need to be scalable and resilient |
+| Sales & Marketing | Internal | Easy management of products, promotions and customers |
+| Customers | External | Quick delivery, simple and bespoke trailers |
+| Distributors | External | Automation for sales, marketing and customer enquiries |
+| Suppliers | External | Automation for communication and product delivery |
+
+
+The following Table 2 Business Requirements template provides you with a template for you to use to complete the current business requirements for the Tough Trailers Scenario. Make sure you include this in your report.  
+#### **Tips for completing the Business Requirements** 
+In determining Tough Trailer’s business requirements: 
+
+- Use the provided example to guide you in determining requirements of each identified stakeholder 
+- Use the Tough Trailers Organisation chart to provide a good starting point for stakeholder identification and their respective requirements analysis
+- The customers are a major stakeholder in Tough Trailers business.  Make sure you analyse their requirements
+- Consider ROI as a stakeholder. 
+
+Table  SEQ Table \\* ARABIC 2 Business Requirements template 
+
+|**Current business requirements – Tough Trailers**|
+| - |
+|**Key Stakeholders**|**Category**|**Requirements**|**Interpretation**|
+|Manufacturing|Internal |<p>- Production capacity</p><p>- In-line 3D printing facility</p><p>- Training and development</p><p>- New technologies</p><p>- Improved communication with sales staff for faster quote procedures</p><p>- Modular components development</p>|<p>- With the website development, sales boost is expected.</p><p>- Current production capacity is just enough – how will the increased sales be translated into actual manufacturing with no delays.</p><p>- In-line 3D printing facility can significantly reduce design prototype development time.</p><p>- Moving into modular components development can reduce quote times for sales staff and they can themselves demonstrate various design options using the integrated manufacturing – sales section of the website. </p><p>- Employees need training and competence to new technologies and capacity building</p>|
+|||||
+|||||
+|||||
+|||||
+|||||
+|||||
+
+
 
 ### Current ICT System
 

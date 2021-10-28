@@ -50,9 +50,14 @@ Extra
 
 |**Stakeholder** |**Role**|**Sign off**|
 | :- | :- | :- | :- |
-|Wendy Opal | Director | <input type="checkbox" disabled  /> |
-|David Cruwys| Project Manager |  <input type="checkbox" disabled /> |
+|Bob Sedgewick | Managing Director | <input type="checkbox" disabled  /> |
+|David Cruwys| ROI Project Manager |  <input type="checkbox" disabled /> |
 |Terrence Stewart | ROI Development Manager | <input type="checkbox" disabled  /> |
+|James Mansour | Chief Finance Officer | <input type="checkbox" disabled  /> |
+|Jenny Smith | Office Manager | <input type="checkbox" disabled  /> |
+|Wolfgang Wiss | Head of Manufacturing | <input type="checkbox" disabled  /> |
+|Ellen Chu | IT Manager | <input type="checkbox" disabled  /> |
+|Angelo Cassati | Sales & Mktg Manager | <input type="checkbox" disabled  /> |
 
 
 ## Table of Contents

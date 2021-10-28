@@ -146,3 +146,55 @@ STATUS: Ongoing
 - Developing an efficient workforce through proper recruitment and induction procedures with ongoing training, incentives for employee retention
 
 STATUS: Ongoing and future prospects in consideration
+
+
+### Current Business Requirement
+
+The existing Tough Trailers business has a head office is in Newcastle with showrooms in Sydney, Melbourne and Brisbane and turnover \$10M.
+
+Our broad goal is to grow our 1500 customer base, double our sales over 5 years and grow revenue (retained profits) by 15% per year in 5 years.
+
+We have two core strategies that we are focused on to achieve these goals:
+
+1. Modernise our IT systems
+   - Create online sales and marketing systems (via website)
+   - Systems automation for training and legislative requirements
+   - Product/catalogue management system
+   - Virtual tools for designers and bespoke customizations.
+   - eCommerce portal to self direct to customers
+   - VR Goggles in showrooms to view trailer concepts.
+2. Modular Component Manufacturing
+   - Upgrade the existing process of prefab manufacturing to modular manufacturing
+   - Support a range of trailer bases, industry specific components and generalized accessories
+     - This is to lesson the cumbersome individual customizations that we currently do.
+   - Volume produce modular components, and/or
+   - 3D printed components for just in time turn around or component R&D
+   - Integrate IT in this process
+     - Brochures / Catalogues
+     - Inventory Management
+     - CAD Design Tools
+     - DIY Online Design Tools
+     - Custom Colour Schemes and Visualizations
+
+An additional requirement (outside of the core strategies) will be these three areas of concern:
+
+1. How can we grow the business? "Franchising and Dealerships" plus other options to be explored
+4. How do we maintaining production / manufacturing capacity? Can we meet market demands using explore prefab, modular and/or 3D print production lines.
+5. What is the best product fit for the ever changing market? Explore diversification options and new types of trailer markets such as Grey Travel and Digital Nomads.
+
+
+|**Key Stakeholders** |**Focus**| **Requirement** |
+| :- | :- | :- | :- |
+| Board of Directors | Internal | Business and Profit Growth |
+| ROI Consultants | External | Deliver on expectations |
+| Finance | Internal | Budget and funding for any strategic initiative |
+| HR | Internal | Streamline systems for recruiting and onboarding staff across different departments |
+| Operations | Internal | Increase systems efficiency and have no bombshells |
+| Manufacturing | Internal | How can manufacturing automation be applied using ICT, how do we improve turn around |
+| IT | Internal | Systems need to be scalable and resilient |
+| Sales & Marketing | Internal | Easy management of products, promotions and customers |
+| Customers | External | Quick delivery, simple and bespoke trailers |
+| Distributors | External | Automation for sales, marketing and customer enquiries |
+| Suppliers | External | Automation for communication and product delivery |
+
+
