@@ -209,3 +209,118 @@ An additional requirement (outside of the core strategies) will be these three a
 - In-line 3D printing facility can significantly reduce design prototype development time.
 - Moving into modular components development can reduce quote times for sales staff and they can themselves demonstrate various design options using the integrated manufacturing – sales section of the website. 
 - Employees need training and competence to new technologies and capacity building
+
+
+
+### Managing Director
+
+**Office and home**
+
+  - Windows 10 based Desktop Computers = 2
+  - Business laptop = 1
+
+### ICT Section
+
+**Manager + ICT Support Technician**
+
+  - Windows 10 Pro based Desktop Computers = 2
+  - MS Office and Adobe Suit Applications
+  - Maintenance Applications
+  - Business laptops = 2
+
+### Finance
+
+**Chief Finance Officer + 2 Accounts Officers**
+
+Windows 10 based Desktop Computers = 2
+Business laptop = 1
+
+Administration
+
+**Manager + 3 Office Assistants**
+
+- Windows 10 based Desktop Computers = 3
+- Business laptop = 1
+
+### Manufacturing
+
+#### Head of Manufacturing
+
+- Windows 10 based Desktop Computer = 1
+- Business laptop = 1
+- AutoCAD software installed
+
+#### 4 Sheet metal workers
+
+- Windows 10 based Desktop Computers = 1
+- AutoCAD software installed
+
+#### 8 Welders + 4 Fitters
+
+- Windows 10 based Desktop Computers = 1 in main hall
+- AutoCAD software installed
+
+### Human Resources
+
+#### Manager + 2 Office Assistants
+
+- Windows 10 based Desktop Computers = 3
+- Business laptops = 3
+
+### Sales and Marketing
+
+#### Three Offices having 3 Account Managers
+
+Windows 10 based Desktop Computers = 3
+
+#### 4 Sales Consultants (Sydney)
+
+Windows 10 based Desktop Computers = 1
+Business laptop = 4
+
+#### 3 Sales Consultants (Melbourne)
+
+Windows 10 based Desktop Computers = 1
+Business laptop = 2
+
+#### 6 Sales Consultants (Brisbane)
+
+Windows 10 based Desktop Computers = 2
+Business laptop = 3
+
+#### 3 Designer / Estimators – one at each Sales Office
+
+Business laptops = 3
+Adobe Suite Applications installed AutoCAD installed
+SalesTRAC Software installed
+
+### Additional ICT Hardware
+
+- 5 all-in-one Printers
+- 1 large multipurpose printer 
+- 6 Projection systems (1x3 for sales offices, 2 for head office, 1 for manufacturing unit)
+ 
+- 3 Printers located at Sales Offices
+- 1 Printer located at Administration Section
+- 1 Printer located at Finance Section
+- 1 large multipurpose printer located in main hall of Manufacturing Section
+
+Internet Access
+
+- ISP Telstra
+- Each Office / location has its own internet access Wi-Fi access is available
+
+Network
+
+- Standard Modem-based Network
+- Each section is connected within, but no centralized servers or one access point for all network
+
+Access Policies
+
+- Internet Access Policy
+- Based on Privacy Act 1968
+
+No Antivirus or Security Software installed
+
+- Business laptops are two to three years old with modest specifications except for Managing Director and Human Resources where laptops are replaced every two years and specifications are high-end
+- Desktop computers are three years old and hardware is updated as needed

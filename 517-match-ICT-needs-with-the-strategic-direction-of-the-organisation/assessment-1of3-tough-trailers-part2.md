@@ -258,9 +258,34 @@ Other references:
 
 ### Current ICT System
 
-Thoroughly review the document **Existing ICT Resources – Tough Trailers**.
+Tough Trailers has four locations (Newcastle, Sydney, Melbourne, Brisbane) each with standard Windows Based LAN.
 
-Using this information, and the information in the Tough Trailers Scenario, write a summary** of the current Tough trailer’s ICT systems and business practices under the heading **Current ICT Systems** in your report. *(Approximately 150 words)* 
+There is no centralized server, they are managed independently and upgraded as needed.
+
+All office staff have access to desktop or laptop computer running Windows 10
+
+None of the desktops, laptops or networks are running virus projection and there is no network firewall or security policy and most machines are mid-range and a few years old.
+
+The manufacturing department only uses shared computing resources. 1 PC for head of manufacturing and 2 PCs for 16 workers (welders and fitters)
+
+**Custom software**
+
+- SalesTRAC for Sales department
+- AutoCAD for Designers, Estimaters and manufacturing (Fitters/Welders)
+
+**Custom hardware**
+
+- General purpose printers at each location
+- Departmental printers for sales, admin and Finance
+- Large multipurpose printer for Manufacturing
+- The managing director and head of HR are high end hardware
+
+**Weakness in Current ICT System:**
+
+> - Insecure
+> - Costly to maintain
+> - Does not support scalability if the workforce grows.
+> - Decentralized and so not easily managed from central location.
 
 ### Appraisal of current gap analysis technique
 
