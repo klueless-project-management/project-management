@@ -54,7 +54,7 @@ Extra
 |**Stakeholder** |**Role**|**Sign off**|
 | :- | :- | :- |
 |Bob Sedgewick | Managing Director | &#9744; |
-|David Cruwys| ROI Project Manager |  &#9744; |
+|David Cruwys| ROI Project Manager |  &#9745; |
 |Terrence Stewart | ROI Development Manager | &#9744; |
 |James Mansour | Chief Finance Officer | &#9744; |
 |Jenny Smith | Office Manager | &#9744; |
@@ -287,11 +287,11 @@ The blue-color staff (manufacturing) only use shared computing resources. 1 PC f
 > - Does not support scalability if the workforce grows.
 > - Decentralized and so not easily managed from central location.
 
-### Appraisal of current gap analysis technique
+## Appraisal of current gap analysis technique
 
-### SWOT Analysi
+### SWOT Analysis
 
-### Business weaknesses or inadequacie
+### Business weaknesses or inadequacies
 
 ### Impact on Tough Trailers business
 
