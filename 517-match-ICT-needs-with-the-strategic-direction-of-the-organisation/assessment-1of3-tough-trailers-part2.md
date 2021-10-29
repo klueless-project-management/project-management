@@ -262,11 +262,11 @@ Tough Trailers has four locations (Newcastle, Sydney, Melbourne, Brisbane) each 
 
 There is no centralized server, they are managed independently and upgraded as needed.
 
-All office staff have access to desktop or laptop computer running Windows 10
+All white-color staff (office/sales) have access to desktop or laptop computer running Windows 10
 
 None of the desktops, laptops or networks are running virus projection and there is no network firewall or security policy and most machines are mid-range and a few years old.
 
-The manufacturing department only uses shared computing resources. 1 PC for head of manufacturing and 2 PCs for 16 workers (welders and fitters)
+The blue-color staff (manufacturing) only use shared computing resources. 1 PC for head of manufacturing and 2 PCs for 16 workers (welders and fitters)
 
 **Custom software**
 
