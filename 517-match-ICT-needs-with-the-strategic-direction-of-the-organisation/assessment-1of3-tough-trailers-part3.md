@@ -76,7 +76,7 @@ Extra
   - 6.2. [Current Business Requirement](#current-business-requirement)
   - 6.3. [Current ICT System](#current-ict-system)
   - 6.4. [Appraisal of current gap analysis technique](#appraisal-of-current-gap-analysis-technique)
-  - 6.5. [SWOT Analysi](#swot-analysi)
+  - 6.5. [SWOT Analysis](#swot-analysis)
   - 6.6. [Business weaknesses or inadequacie](#business-weaknesses-or-inadequacie)
   - 6.7. [Impact on Tough Trailers business](#impact-on-tough-trailers-business)
 7. [Conclusion](#conclusion)
@@ -290,6 +290,19 @@ The blue-color staff (manufacturing) only use shared computing resources. 1 PC f
 ## Appraisal of current gap analysis technique
 
 ### SWOT Analysis
+
+Your SWOT Analysis however, should focus on ICT requirements and
+consider internal and external factors for all four components of SWOT.
+You will need to consider stakeholders,
+their requirements and the business requirements. 
+
+| |**Internal**|**External**|
+| :- | :- | :- |
+|**Strengths**| - Strong core business, quality products, high professional standards, efficient workforce.<br>- Good turnover and year on year growth in sales | - Strong brand, loyal customers, good partners. <br> - Have a wide range of products and customisations |
+|**Weaknesses**| - IT Systems do not scale<br>- Insecure IT Systems (Malicious/Data Theft)<br>- Not centrally managed<br>- Physical computers (no virtualisation)<br> - Design not exportable to Marketing/Catalogues <br> - Design not integrated to 3D or Prefab production<br> - No software integrations sales -> orders -> build -> delivery pipeline.<br> - Lack of in house expertise with modular manufacturing<br> - Company and Department Training via Online Tools| - No Digital Training Repositories for White or Blue Collar <br>- Insecure IT Systems (Penetration)<br> - Substandard information brochures<br> - Lack of online Catalogue, <br> - Online Design/Customization Tools<br> - SAAS Support/Ticketing/Help System|
+|**Opportunities**| - Add to our engineering excellence with new (or trained existing) staff in modular and 3D manufacturing techniques.<br> - Invest in new production tooling.<br> - Move toward Just In Time manufacturing techniques<br> - Move to Virtualized Computing Environment (Cloud or OnPrem) | - Find local manufacturing facility with 3D/Modular production line to partner with or acquire.<br> - Develop a Franchise Model<br> - Develop an Agency Model<br> - Develop an Affiliate Model and work with influencers|
+|**Threats**| - Finding Skilled Workers<br> - Communication Systems<br> - Moral and Training | - Strong price oriented online competitors (especially via Amazon)<br> - Currency fluctuation/s mean we should not hold too much stock (JIT Manufacturing schedule may be solution)<br> - Legislative changes need to be transferred to staff |
+
 
 ### Business weaknesses or inadequacies
 

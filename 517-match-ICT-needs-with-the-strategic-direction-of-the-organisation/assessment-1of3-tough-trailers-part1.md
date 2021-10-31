@@ -73,7 +73,7 @@ Extra
   - 6.2. [Current Business Requirement](#current-business-requirement)
   - 6.3. [Current ICT System](#current-ict-system)
   - 6.4. [Appraisal of current gap analysis technique](#appraisal-of-current-gap-analysis-technique)
-  - 6.5. [SWOT Analysi](#swot-analysi)
+  - 6.5. [SWOT Analysis](#swot-analysis)
   - 6.6. [Business weaknesses or inadequacie](#business-weaknesses-or-inadequacie)
   - 6.7. [Impact on Tough Trailers business](#impact-on-tough-trailers-business)
 7. [Conclusion](#conclusion)
