@@ -326,12 +326,16 @@ Little presence in the online space.
 No Vertical Integration
 
 - Lack of centralised ITC infrustructure across manufacturing, sales, office (HR, Training, Ops)
-- Lack of SASS or OnPrem systems that can talk to each other. 
+  - Systems are Siloed.
+  - Operations cannot see SalesTRAC
+  - Sales People cannot see or use AutoCAD.
+- Lack of SASS or On Premise systems that can talk to each other. 
   - CRM (Accounts, Help Desk)
   - Sales, Marketing (eCommerce, SMS/Email Marketing, Online Portal)
   - CAD/CAM (Computer Aided Design/Manufacturing)
 
 ### Impact on Tough Trailers business
 
+- Poor coordination: Current systems do not allow in time responses by the Estimator to a potential customer.  This can result in probable loss of business to competitors.
 
 ## Conclusion
