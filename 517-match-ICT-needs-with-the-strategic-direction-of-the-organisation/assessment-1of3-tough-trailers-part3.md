@@ -59,7 +59,7 @@ Extra
 |James Mansour | Chief Finance Officer | &#9744; |
 |Jenny Smith | Office Manager | &#9744; |
 |Wolfgang Wiss | Head of Manufacturing | &#9744; |
-|Ellen Chu | HR Manager | &#9744; |
+|Celia Norton | HR Manager | &#9744; |
 |Ellen Chu | IT Manager | &#9744; |
 |Angelo Cassati | Sales & Mktg Manager | &#9744; |
 
@@ -303,8 +303,33 @@ their requirements and the business requirements.
 |**Opportunities**| - Add to our engineering excellence with new (or trained existing) staff in modular and 3D manufacturing techniques.<br> - Invest in new production tooling.<br> - Move toward Just In Time manufacturing techniques<br> - Move to Virtualized Computing Environment (Cloud or OnPrem) | - Find local manufacturing facility with 3D/Modular production line to partner with or acquire.<br> - Develop a Franchise Model<br> - Develop an Agency Model<br> - Develop an Affiliate Model and work with influencers|
 |**Threats**| - Finding Skilled Workers<br> - Communication Systems<br> - Moral and Training | - Strong price oriented online competitors (especially via Amazon)<br> - Currency fluctuation/s mean we should not hold too much stock (JIT Manufacturing schedule may be solution)<br> - Legislative changes need to be transferred to staff |
 
-
 ### Business weaknesses or inadequacies
+
+The core manufacturing business revolves around standard build templates and when a customization is needed, the designers, fitters and welder draw on past experience to deliver a bespoke solution each time.
+
+- Manufacturing could see greatly increased effectiveness by taking on 3D and Modular manufacturing techniques.
+- Existing staff are not skilled in new production line processes
+- Custom designs have a long build and deliver schedule
+
+The sales and marketing side of the business uses expensive and somewhat outdated practices.
+
+- Showrooms are a major expense and only service local regions
+- Catalogues only have standard products (not customisations)
+- Custom designs require access to in-person designer
+
+Little presence in the online space.
+
+- Missing opportunities for a large number of interstate, regional and online savvy customers
+- New designs and customizations cannot be displayed via online portal
+- No access to bloggers or influencers (they tend to write or share about online systems)
+
+No Vertical Integration
+
+- Lack of centralised ITC infrustructure across manufacturing, sales, office (HR, Training, Ops)
+- Lack of SASS or OnPrem systems that can talk to each other. 
+  - CRM (Accounts, Help Desk)
+  - Sales, Marketing (eCommerce, SMS/Email Marketing, Online Portal)
+  - CAD/CAM (Computer Aided Design/Manufacturing)
 
 ### Impact on Tough Trailers business
 

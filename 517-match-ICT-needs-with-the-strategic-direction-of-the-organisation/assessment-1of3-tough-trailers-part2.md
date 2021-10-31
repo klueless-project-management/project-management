@@ -59,7 +59,7 @@ Extra
 |James Mansour | Chief Finance Officer | &#9744; |
 |Jenny Smith | Office Manager | &#9744; |
 |Wolfgang Wiss | Head of Manufacturing | &#9744; |
-|Ellen Chu | HR Manager | &#9744; |
+|Celia Norton | HR Manager | &#9744; |
 |Ellen Chu | IT Manager | &#9744; |
 |Angelo Cassati | Sales & Mktg Manager | &#9744; |
 
