@@ -389,7 +389,7 @@ Summarise the components of the company’s Strategic Directions relevant to the
 Summarise the current ICT systems. Include a diagram of the current network.
 – Use the information determined in Part 2 Step 2.6 a)
 
-1. **Information gathering methodology**
+1. **Information gathering methodology**dd
    1. **Stakeholders**
 
 Provide a list of the stakeholders for the project. 

@@ -1,5 +1,3 @@
-rename this file to: ROI_Data_Analysis_Report_YourName.docx
-
 # Gather data to identify business requirements - Part 1
 
 **Student details**

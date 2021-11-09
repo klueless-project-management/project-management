@@ -1,6 +1,4 @@
-rename this file to: ROI_Data_Analysis_Report_YourName.docx
-
-# Gather data to identify business requirements - Part 1
+# Gather data to identify business requirements - Part 2
 
 **Student details**
 
@@ -121,8 +119,6 @@ Kind regards,
 
 Include your all your research information sources in the References box below using APA referencing style. Include at least two (2) references for each chosen server.
 
-Use the following table to document your answer. *(Approx. 200 words)*
-
 | Server Options |
 | :- |
 | **Lenovo - ThinkSystem SR665 - $6,879.41** |
@@ -130,7 +126,6 @@ Use the following table to document your answer. *(Approx. 200 words)*
 | **Dell - PowerEdge R250 - $10,646.50** |
 | The [PowerEdge R250](https://www.dell.com/en-au/work/shop/cty/pdp/spd/poweredge-r250/asper250_vi_vp), powered by the Intel® Xeon® E-2300 processors, is a rack server with an ideal balance of adaptability and affordability designed to address your evolving compute demands. Supports up to 32GB DIMMS at 3200 MT/s DIMM speed, up to 128GB Address substantial throughput improvements with PCIe Gen 4 support Ideal for file/print, mail/messaging, point of sale, web hosting and collaboration Offers enhanced thermal efficiency Provides improved security and faster boot time with UEFI Secure Bootd |
 
-Use the following table to document your answer. *(Approx. 200 words)*
 
 **Virtualisation Software**
 
@@ -157,23 +152,25 @@ If we need to host any new server applications, this becomes really simple as we
 Cons: Because it is not Microsoft, we will have more work to virtualize our existing Microsoft Infrastructure
 
 
-### Step 2.8 –  Analyse finanical information  
+### Step 2.8 –  Analyse Financial Information  
 
-@Nicolas: I don't understand how to do this? I remember you talking about it, but I cannot find the reverence information?
+\$30,000 invested at 3% per annum
 
-1) Using a financial function calculate the payback period, in years, for a new \$30,000 server.
-2) This payback period is to be based on savings of $10,000 per annum. 
+Interest Earned on $30,000 would be:
 
-Make sure you provide your formulae, data substitution in the formulae, along with your final calculated result.
+P = 30000.
+r = 5/100 = 0.05
+n = 12 periods per year
+t = 3 years
 
-Explain what this payback period result means to the company.
+A = 30,000 (1 + 0.03 / 12) (12 * 3) = $2,821.54
 
+Value at year 3 (\$32,821.54)
 
-1) Using a financial function calculate the future value for a 5 year term deposit of $30,000. Assume an interest rate of 3% compounded annually. 
+Revenue (as a cost reduction) is \$10,000 per annum for 1x$30,000 Server
 
-Make sure you provide your formulae, data substitution in the formulae, along with your final result.
+The server would pay for itself in 3year, 4 months.
 
-Explain which would be a better investment for the company, a new server costing $30,000 or this term deposit.
+From this period onwards, there will be an extra $10,000 per annum in cost reductions, clear.
 
-Use the following table to document your answer. *(Approx. 50 words)*
-
+The ROI on the investment is 33.3% per annum vs 3% offered by the bank.
