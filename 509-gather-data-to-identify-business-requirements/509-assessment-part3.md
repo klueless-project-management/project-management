@@ -67,8 +67,6 @@ MS Server 2008r2, MS Server 2012, MS Exchange, SAP, HRMS
 |**Current network diagram**|
 | ![](./images/network.png) |
 
-Summarise the current ICT systems. Include a diagram of the current network.
-– Use the information determined in Part 2 Step 2.6 a)
 
 ### Information gathering methodology
 
@@ -105,7 +103,7 @@ Analyse the group and individual responses, along with other information sources
 
 List and describe these business requirements in order of priority.
 
-### Conclusion**
+### Conclusion
 
 #### Bibliography
 

@@ -81,7 +81,6 @@ Kind regards,
 
 ### Step 2.6 –  Current system  
 
-
 |**Hardware** |
 | :- |
 | 3 x Dell PowerEdge R210 II |
