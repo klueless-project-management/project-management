@@ -1,4 +1,4 @@
-# Develop the business case - Part 5
+# Prepare the project plan - Part 5
 
 **Student details**
 
