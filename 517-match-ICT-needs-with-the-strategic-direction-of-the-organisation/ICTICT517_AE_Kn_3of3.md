@@ -22,15 +22,10 @@ ICT50419 - Diploma of Information Technology (1)
 
 
 
-Document title: ICTICT517\_AE\_Kn\_3of3	Page  PAGE  \\* Arabic  \\* MERGEFORMAT 2 of  NUMPAGES  \\* Arabic  \\* MERGEFORMAT 14
-
-Resource ID:    TBS\_19\_004\_ICTICT517\_AE\_Kn\_3of3                                                                          STUDENT NAME: 
 
 Version:	20191028
 
 Date created:	05/09/2019
-
-Date modified:	 DATE  \@ "dd/MM/yyyy"  \\* MERGEFORMAT 08/11/2019
 
 For queries, please contact:
 
@@ -70,84 +65,84 @@ Go-Air management board has decided to carry out a major review of the business 
 ### **Questions**
 1. As a senior ICT manager outline what would be your first step in this scenario? (Hint: Think about gaining better understanding of the existing strategic plan and current business practices). 50-75 words
 
-||
-| :- |
 
 
-1. In the current strategic plan review, you have determined that there needs to be a significant investment in ICT systems. The introduction of a customer loyalty program is one area that would have impact on ICT systems and consequently the Go-Air business. 
+
+
+2. In the current strategic plan review, you have determined that there needs to be a significant investment in ICT systems. The introduction of a customer loyalty program is one area that would have impact on ICT systems and consequently the Go-Air business. 
    Describe how this change might affect Go-Air business?    50-75 words
 
-||
-| :- |
-1. Based on your answer in question 2 above, describe your advice to the Go-Air management regarding changes to ICT systems to accommodate a customer loyalty program?     50-75 words
-
-||
-| :- |
 
 
-1. Outline your justification to Go-Air management for an increase in ICT related costs associated with the introduction of a customer loyalty program? (Hint: Think of ICT related cost as an investment and include some intangible benefits in your answer) 75-150 words
-
-||
-| :- |
-1. Based on the information provided in the Go-Air scenario, describe what other advice you have for the Go-Air management for the 2019-2023 Strategic Plan regarding ICT systems? Please provide at least two ICT related examples in your answer.     50-75 words
-
-||
-| :- |
+3. Based on your answer in question 2 above, describe your advice to the Go-Air management regarding changes to ICT systems to accommodate a customer loyalty program?     50-75 words
 
 
-1. Implementing a customer loyalty program will mean significant changes to current ICT systems. Outline an action plan to implement this change. Describe what you expect will happen after this change has been implemented?        150-200 words
 
-||
-| :- |
-1. Implementing the customer loyalty program will involve some difficulties for both ICT systems and Go-Air business as a whole. Describe 2 possible problems (1 ICT related and 1 business related) that could be associated with this change. Include an explanation as to why you believe these may be possible problems?      50-75 words
 
-||
-| :- |
+
+4. Outline your justification to Go-Air management for an increase in ICT related costs associated with the introduction of a customer loyalty program? (Hint: Think of ICT related cost as an investment and include some intangible benefits in your answer) 75-150 words
+
+
+
+5. Based on the information provided in the Go-Air scenario, describe what other advice you have for the Go-Air management for the 2019-2023 Strategic Plan regarding ICT systems? Please provide at least two ICT related examples in your answer.     50-75 words
+
+
+
+
+
+6. Implementing a customer loyalty program will mean significant changes to current ICT systems. Outline an action plan to implement this change. Describe what you expect will happen after this change has been implemented?        150-200 words
+
+
+
+7. Implementing the customer loyalty program will involve some difficulties for both ICT systems and Go-Air business as a whole. Describe 2 possible problems (1 ICT related and 1 business related) that could be associated with this change. Include an explanation as to why you believe these may be possible problems?      50-75 words
+
+
+
 
 ## **Part 2: Short answer questions**
 Read the following question carefully and enter your answer in the box below the question.
 
 1. What would be the primary objective of an organisation’s strategic plan? Include in your answer a brief description of each of the components of a strategic plan.     75-150 words
 
-||
-| :- |
-1. Explain how are the ICT needs of an organisation are incorporated into its strategic plan. (Hint: Think from the perspective of the significance of ICT in today’s business environment).     
+
+
+2. Explain how are the ICT needs of an organisation are incorporated into its strategic plan. (Hint: Think from the perspective of the significance of ICT in today’s business environment).     
    75-150 words
 
-||
-| :- |
 
 
-1. Gaps between the existing and required ICT systems are a reality that can have adverse effects on business operations. This is an example of why gap analysis is so important. What are the most commonly used gap analysis techniques?  Identify and briefly describe 2 techniques (One being SWOT).    250 words.
-
-||
-| :- |
 
 
-1. In order to answer the following question you will need to find the most recent TAFE NSW Annual Report. To do this go to [www.tafensw.edu.au](http://www.tafensw.edu.au) and search for ‘annual report’. This Annual Report will include details of TAFE NSW’s Strategic Plan and recent performance.
+3. Gaps between the existing and required ICT systems are a reality that can have adverse effects on business operations. This is an example of why gap analysis is so important. What are the most commonly used gap analysis techniques?  Identify and briefly describe 2 techniques (One being SWOT).    250 words.
+
+
+
+
+
+4. In order to answer the following question you will need to find the most recent TAFE NSW Annual Report. To do this go to [www.tafensw.edu.au](http://www.tafensw.edu.au) and search for ‘annual report’. This Annual Report will include details of TAFE NSW’s Strategic Plan and recent performance.
 
 Briefly describe what is the current strategic directions for TAFE NSW?  In your opinion, are the objectives and strategic directions of TAFE NSW aligned to each other? Briefly describe why you believe this. (Please note: Objectives relate to the current state of affairs whereas strategic directions link the current state to the future or desired state).  75-150 words
 
-||
-| :- |
 
 
-1. Suppose you have identified a few gaps between the objectives and strategic directions of an organisation. Addressing these gaps will require some changes or improvements to the current ICT systems.  Briefly describe the effects of such changes on an organisation and how these effects can be kept to a minimum without compromising business operations.    (Hint: Consider how the employees will react to proposed changes and the strategies that can be considered to address any probable adverse reactions). 100-200 words
-
-||
-| :- |
 
 
-1. You need to prepare a report for management and present it to the board. This report will include information about a project proposal to implement a significant change in the organisation’s ICT systems. How is such a professionally written report structured?  Identify and briefly describe the main components of the report.     100-200 words.
-
-||
-| :- |
+5. Suppose you have identified a few gaps between the objectives and strategic directions of an organisation. Addressing these gaps will require some changes or improvements to the current ICT systems.  Briefly describe the effects of such changes on an organisation and how these effects can be kept to a minimum without compromising business operations.    (Hint: Consider how the employees will react to proposed changes and the strategies that can be considered to address any probable adverse reactions). 100-200 words
 
 
-1. In your role as an ICT manager you have been asked to identify and evaluate external ICT systems and products that are suitable for your organisation. As part of this review you will also need to re-evaluate internal ICT systems and product for their continuing suitability. Explain what methods you would use to complete this task.     200 words.
 
-||
-| :- |
+
+
+6. You need to prepare a report for management and present it to the board. This report will include information about a project proposal to implement a significant change in the organisation’s ICT systems. How is such a professionally written report structured?  Identify and briefly describe the main components of the report.     100-200 words.
+
+
+
+
+
+7. In your role as an ICT manager you have been asked to identify and evaluate external ICT systems and products that are suitable for your organisation. As part of this review you will also need to re-evaluate internal ICT systems and product for their continuing suitability. Explain what methods you would use to complete this task.     200 words.
+
+
+
 
 
 
