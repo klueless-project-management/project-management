@@ -1,4 +1,4 @@
-﻿![NSW Government: TAFE NSW](Aspose.Words.899644ac-6479-479e-8c64-42b15a4ccea0.001.png) 
+﻿![NSW Government: TAFE NSW](logo.png) 
 # Student Declaration
 ## **Criteria**
 ### **Qualification/Course code, name and release number**

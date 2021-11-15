@@ -107,8 +107,6 @@ List and describe these business requirements in order of priority.
 
 #### Bibliography
 
-Use APA referencing style.
-
 **Documentation review results**
 
 | **Author** |**Document Title** |**Information** |

@@ -114,10 +114,6 @@ Kind regards,
 
 *ROI Management would like to compare investing the \$30,000 in a new server with investing the $30,000 in a term deposit. This term deposit would be for 5 years with an interest rates of 3% compound.*
 
-1) Include two (2) different servers in your results, describing the general features and capabilities suited to the project. Explain how the general features and capabilities each server will meet the business requirement.
-
-Include your all your research information sources in the References box below using APA referencing style. Include at least two (2) references for each chosen server.
-
 | Server Options |
 | :- |
 | **Lenovo - ThinkSystem SR665 - $6,879.41** |
@@ -130,16 +126,16 @@ Include your all your research information sources in the References box below u
 
 **Microsoft Hyper-V** is available as part of Microsoft server 2020
 
-Hyper-V is allows you to run multiple virtual machines on top of Microsoft Server. Each machine has its own isolated space, which means we can run more than one virtual machine on the same hardware at the same time
+[Hyper-V](https://docs.microsoft.com/en-us/windows-server/virtualization/hyper-v/hyper-v-technology-overview) is allows you to run multiple virtual machines on top of Microsoft Server. Each machine has its own isolated space, which means we can run more than one virtual machine on the same hardware at the same time
 
 - Establish or expand a private cloud environment on demand
 - More effective hardware use. We can consolidate our servers and workloads onto fewer, more powerful physical computers to use less power and physical space.
 - Provide virtual desktop infrastructure (VDI) so that staff have a consistent desktop experience, this will provide business agility, data security and simplify regulatory compliance and manage desktop operating systems and applications.
 - Being a Microsoft product, this solution integrates well with existing Microsoft software such as Office, Exchange etc.
 
-** VMWare - vSphere 7 **
+**VMWare - vSphere 7**
 
-Power our computing environment for modern applications using any combination of virtual machines, containers and Kubernetes with VMware vSphere.
+[vSphere](https://www.vmware.com/au/products/vsphere.html) Power our computing environment for modern applications using any combination of virtual machines, containers and Kubernetes with VMware vSphere.
 
 As with Hyper-V, we would get
 

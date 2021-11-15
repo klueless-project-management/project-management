@@ -1,4 +1,4 @@
-﻿`	`![NSW Government: TAFE NSW](Aspose.Words.e150baca-b7ed-4866-8934-0a1649fcfcd2.001.png) 
+﻿![NSW Government: TAFE NSW](logo.png) 
 # Project Assessment 1
 ## **Criteria**
 ### **Unit code, name and release number**
