@@ -1,4 +1,5 @@
-﻿`	`![NSW Government: TAFE NSW](Aspose.Words.a2e4d111-057e-486c-8268-b50920114eb4.001.png) 
+﻿![NSW Government: TAFE NSW](logo.png) 
+
 # Knowledge Assessment
 ## **Criteria**
 ### **Unit code, name and release number**
