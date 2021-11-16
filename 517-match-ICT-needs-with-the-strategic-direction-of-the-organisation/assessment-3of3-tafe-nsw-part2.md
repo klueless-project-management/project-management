@@ -11,30 +11,9 @@ David Cruwys, 27nd Oct, 2021
 ## Scenario Based Questions
 
 
-### Go-Air scenario
-Go-Air is a small no frills airline with a fleet of 22 aircraft's.  It started in 2007 as a low-cost budget carrier and had been the top airline in its category.  The strategic plan 2014-2018 struggled to meet its objectives due to increased competition, lack of a customer loyalty program (that other low-cost carriers offer), increasing frequency of flight delays and customer dissatisfaction.  
+### TAFE NSW
 
-Go-Air management board has decided to carry out a major review of the business strategy for the next 5-year strategic plan (2019-2023).  As a senior ICT manager you have been asked to provide advice in preparing the next strategic plan as it relates to current and future ICT systems.
-
-#### Summary
-
-- Started 2007
-- Low Cost budget carrier
-- Top airline in category
-- Strategic plan 2014-2018
-  - lackluster performance
-  - struggling to meet objectives
-- Challenges
-  - increased competition
-  - lack of loyalty program
-  - flight delays
-  - unhappy customers
-
-#### Need
- 
- - Review business strategy
-   - Next 5 years, 2019-2023
- - My advice from an ICT perspective
+[TAFE-NSW-Annual-Report-2019-20.pdf](https://www.tafensw.edu.au/documents/60140/283797/TAFE-NSW-Annual-Report-2019-20.pdf)
 
 ### **Questions**
 
