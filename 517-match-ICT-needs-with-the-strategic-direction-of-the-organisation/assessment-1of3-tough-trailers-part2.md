@@ -289,11 +289,10 @@ The blue-color staff (manufacturing) only use shared computing resources. 1 PC f
 
 ### Appraisal of current gap analysis technique
 
-### SWOT Analysi
+### Business weaknesses or inadequacies
 
-### Business weaknesses or inadequacie
+See: [Part 3](assessment-1of3-tough-trailers-part3.md)
 
 ### Impact on Tough Trailers business
 
-
-## Conclusion
+See: [Part 4](assessment-1of3-tough-trailers-part4.md)

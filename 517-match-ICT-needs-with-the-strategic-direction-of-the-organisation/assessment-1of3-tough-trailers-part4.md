@@ -1,4 +1,4 @@
-# Tough Trailers - Impact Statement
+# Tough Trailers - Strategic Plan
 
 **Student details**
 
@@ -289,12 +289,11 @@ The blue-color staff (manufacturing) only use shared computing resources. 1 PC f
 
 ## Appraisal of current gap analysis technique
 
-### SWOT Analysis
+### SWOT  Analysis
 
 Your SWOT Analysis however, should focus on ICT requirements and
 consider internal and external factors for all four components of SWOT.
-You will need to consider stakeholders,
-their requirements and the business requirements. 
+You will need to consider stakeholders, their requirements and the business requirements. 
 
 | |**Internal**|**External**|
 | :- | :- | :- |
@@ -325,7 +324,7 @@ Little presence in the online space.
 
 No Vertical Integration
 
-- Lack of centralised ITC infrustructure across manufacturing, sales, office (HR, Training, Ops)
+- Isolated LANs - A lack of centralised ITC infrastructure across manufacturing, sales, office (HR, Training, Ops)
   - Systems are Siloed.
   - Operations cannot see SalesTRAC
   - Sales People cannot see or use AutoCAD.
@@ -333,9 +332,15 @@ No Vertical Integration
   - CRM (Accounts, Help Desk)
   - Sales, Marketing (eCommerce, SMS/Email Marketing, Online Portal)
   - CAD/CAM (Computer Aided Design/Manufacturing)
+- Support
+  - Hard to do remote support
+  - Hard to upgrade the entire company
+  - Security concerns
 
 ### Impact on Tough Trailers business
 
 - Poor coordination: Current systems do not allow in time responses by the Estimator to a potential customer.  This can result in probable loss of business to competitors.
+- No online designs: Hard to market
+- IT infrastructure: Prone to internal and external malicious entities, data theft (clients, financials, designs)
+- Scalability: Lack of virtualization makes it hard to scale the digital workforce (Accounts, Sales, Marketing)
 
-## Conclusion
