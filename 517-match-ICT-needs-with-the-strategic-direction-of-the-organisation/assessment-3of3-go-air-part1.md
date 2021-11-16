@@ -36,7 +36,7 @@ Go-Air management board has decided to carry out a major review of the business 
    - Next 5 years, 2019-2023
  - My advice from an ICT perspective
 
-### **Questions**
+### Questions
 1. As a senior ICT manager outline what would be your first step in this scenario?
 
 > Hint: Think about gaining better understanding of the existing strategic plan and current business practices). 50-75 words

@@ -22,7 +22,6 @@ ICT50419 - Diploma of Information Technology (1)
 
 
 
-
 Version:	20191028
 
 Date created:	05/09/2019
@@ -145,31 +144,3 @@ Briefly describe what is the current strategic directions for TAFE NSW?  In your
 
 
 
-
-## **Assessment Feedback**
-*NOTE: This section **must** have the assessor signature and student signature to complete the feedback.*
-### **Assessment outcome**
-☐ Satisfactory
-
-☐ Unsatisfactory
-### **Assessor Feedback**
-☐ Was the assessment event successfully completed?
-
-☐ If no, was the resubmission/re-assessment successfully completed?
-
-☐ Was reasonable adjustment in place for this assessment event?
-*If yes, ensure it is detailed on the assessment document.*
-
-Comments:
-
-### **Assessor name, signature and date:**
-
-
-### **Student acknowledgement of assessment outcome**
-Would you like to make any comments about this assessment?
-
-### **Student name, signature and date**
-
-
-***NOTE: Make sure you have written your name at the bottom of each page of your submission before attaching the cover sheet and submitting to your assessor for marking.***
-###
