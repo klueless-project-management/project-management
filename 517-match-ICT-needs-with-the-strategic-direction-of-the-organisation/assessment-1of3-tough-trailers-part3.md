@@ -1,4 +1,4 @@
-# Tough Trailers - Strategic Plan - Part 3
+# Tough Trailers - Strategic Plan - Part 1, 2 & 3
 
 **Student details**
 
