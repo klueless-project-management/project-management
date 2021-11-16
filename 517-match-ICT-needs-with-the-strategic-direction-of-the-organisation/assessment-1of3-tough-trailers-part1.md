@@ -85,20 +85,35 @@ Extra
   
 ### Background information
 
+See: [Part 2](assessment-1of3-tough-trailers-part2.md)
+
 ### Current Strategic Plan
+
+See: [Part 2](assessment-1of3-tough-trailers-part2.md)
 
 ### Current Business Requirement
 
+See: [Part 2](assessment-1of3-tough-trailers-part2.md)
+
 ### Current ICT System
+
+See: [Part 2](assessment-1of3-tough-trailers-part2.md)
 
 ### Appraisal of current gap analysis technique
 
-### SWOT Analysi
+See: [Part 2](assessment-1of3-tough-trailers-part2.md)
 
-### Business weaknesses or inadequacie
+### SWOT Analysis
+
+See: [Part 2](assessment-1of3-tough-trailers-part2.md)
+
+### Business weaknesses or inadequacies
+
+See: [Part 3](assessment-1of3-tough-trailers-part3.md)
 
 ### Impact on Tough Trailers business
 
+See: [Part 4](assessment-1of3-tough-trailers-part4.md)
 
 ## Conclusion
 
