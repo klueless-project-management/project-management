@@ -157,8 +157,7 @@ The addition of VPN's would allow staff to work remotely on any device whilst ha
 
 ### Options comparison
 
-
-####Cloud Applications
+#### Cloud Applications
 
 **Pros:** 
 
@@ -224,3 +223,5 @@ Some tools / applications are going to be a lot better for the team and for coll
 There will be an initial loss of productivity as new systems are implemented and old systems are deprecated.
 
 ### Action Plan
+
+See: [Part4](./assessment-2of3-tough-trailers-project2-part4.md)
