@@ -224,4 +224,42 @@ There will be an initial loss of productivity as new systems are implemented and
 
 ### Action Plan
 
-See: [Part4](./assessment-2of3-tough-trailers-project2-part4.md)
+
+### Timeline
+
+>> Provide a rough estimation of the duration of the activity. 
+
+**Strategic Objective**
+
+Upgrading the existing ICT infrastructure for improved efficiency and consistent business practices across all sites
+
+Per seat costs marked with `pa` are expressed as per-annum amounts and are based on 30 staff when dealing with office staff and 16 when dealing with factory workers
+
+|**Activity**|**Description / Standard**|**Costs (Approx.)**|**Timeline (Approx.)**|
+| :- |:-|:-|:-|
+|1. Asset Repurpose Audit | Audit our current ITC assets and record future status of (`Repurpose`, `Sell`, `Dispose` | | 1 day |
+|2. HR - Contractor | Find a contractor who specializes in virtualisation with cloud integration | 600/day x 20 days<br/>$12,000|1 Month|
+|3. Procurement | Purchase 4 Servers| 4x\$5,000, $20000  | 3 days |
+|3. Procurement | Purchase 4 sets of the following for new Networks (Firewall with VPN, Wifi Router and Repeaters, Edge Routers, Cabling, Patch Panel, Modem, Switch, Cabling) | 4x\$5,000, $20000  | 12 days |
+|4. Backup| Create backup of existing data on each computer in each section. <br>Data security must be ensured to industry standards and best practices.| No additional cost | 1 week |
+|5. Wiring | Wiring, Ducting, minor fitout | No additional cost |4 days|
+|6. Cloud Apps| Windows Server | 4 x \$1200 <br/>$6750 total| 1 day |
+|6. Cloud Apps| Windows Licences - 45 seats| 45 x \$150 <br/>$6750 total| 1 day |
+|6. Cloud Apps| Office 360 - 30 seats| 30 x \$99 <br/>$3000 pa| 1 day |
+|6. Cloud Apps| Sales Force | 13 x \$300 <br/>$3900 pa| 1 days |
+|6. Cloud Apps| Adobe Creative Cloud | 3 x \$528 <br/>$1584 pa| 1 days |
+|6. Cloud Apps| AutoDesk AutoCAD  | 4 x \$1575 <br/>$6300 pa| 1 days |
+|7. App Training| General staff training for Office 360, Sales Force, Windows | $1200 | 2 days|
+|7. App Training| Designers on new creative cloud | $1200 | 2 days|
+|7. App Training| Sales team on sales force | $1200 | 2 days|
+|7. App Training| Finance team on Zero | $600 | 1 day|
+|8. Data Import| Import Data into appropriate cloud applications where needed | No additional cost | 1 day|
+
+|Category|Amount|
+|:-|:-|
+|Contractor | \$12,000 |
+|Equipment Purchase |\$40000|
+|Cloud Applications (per/annum)| \$28284 |
+| Training | \$4200 |
+| **Total** | **\$84484** |
+
