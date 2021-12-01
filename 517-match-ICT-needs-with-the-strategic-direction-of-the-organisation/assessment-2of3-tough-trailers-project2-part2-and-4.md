@@ -227,7 +227,7 @@ There will be an initial loss of productivity as new systems are implemented and
 
 ### Timeline
 
->> Provide a rough estimation of the duration of the activity. 
+> Provide a rough estimation of the duration of the activity. 
 
 **Strategic Objective**
 
