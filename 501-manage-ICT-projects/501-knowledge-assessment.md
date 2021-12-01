@@ -21,9 +21,9 @@ David Cruwys, 15th Nov, 2021
 
 **Consultation**
 
-- Brainstorming is where you get a range of domain experts or end users in a room to come up with ideas that pull from the expertise of people with different points of view.
-- Check sheet (tally sheet) provides a structured way to collect data about a potential issues, this information a can be tallied and helps determine if a feature needs to be addressed.
-- Interviews are used to elicit information from stakeholders directly. Interviewing experienced project participants or domain experts can help in identifying requirements, risks, constraints, acceptance criteria, legal issues, quality needs and expectations.
+- **Brainstorming** is where you get a range of domain experts or end users in a room to come up with ideas that pull from the expertise of people with different points of view.
+- **Check sheet** (tally sheet) provides a structured way to collect data about a potential issues, this information a can be tallied and helps determine if a feature needs to be addressed.
+- **Interviews** are used to elicit information from stakeholders directly. Interviewing experienced project participants or domain experts can help in identifying requirements, risks, constraints, acceptance criteria, legal issues, quality needs and expectations.
 
 
 **Communication**
