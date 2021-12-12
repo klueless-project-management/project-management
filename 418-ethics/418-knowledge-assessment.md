@@ -178,50 +178,57 @@ For each of the following, and discuss how they relate to working in an ICT envi
 
 List and outline the relevant federal and state/territory legislation and guidelines in Australia (acts and regulations) relating to other forms of intellectual property, and discuss how they relate to working in an ICT environment
 
-  A. Patents
+A. Patents
 
-  IP legislation changes are part of the Patents Act of 1990 and were amended via [IP Laws Amendment Bill 2014](http://www.aph.gov.au/Parliamentary_Business/Bills_Legislation/Bills_Search_Results/Result?bId=r5192)
-  In NSW you can apply for a patent via [Service NSW - Apply for Patent](https://www.service.nsw.gov.au/transaction/apply-patent)
-  A type of patent that relates to ITC is the [Innovation Patent](https://www.ipaustralia.gov.au/patents/understanding-patents/types-patents)
+IP legislation changes are part of the Patents Act of 1990 and were amended via [IP Laws Amendment Bill 2014](http://www.aph.gov.au/Parliamentary_Business/Bills_Legislation/Bills_Search_Results/Result?bId=r5192)
 
-  B. Trade Marks
+In NSW you can apply for a patent via [Service NSW - Apply for Patent](https://www.service.nsw.gov.au/transaction/apply-patent)
 
-  [IP Australia](https://www.ipaustralia.gov.au/trade-marks)
-  [US Trademarks](https://www.uspto.gov/trademarks/search)
+A type of patent that relates to ITC is the [Innovation Patent](https://www.ipaustralia.gov.au/patents/understanding-patents/types-patents)
 
-  A trademark is an easily recognizable symbol, phrase, or word that denotes a specific product. It legally differentiates a product or service from all others of its kind and recognizes the source company's ownership of the brand.
-  It legally differentiates a product or service from all others of its kind and recognizes the source company's ownership of the brand.
+B. Trade Marks
 
-  Apple has an extensive list of trademarks, here are a few listing Trademark and the Generic Term
+[IP Australia](https://www.ipaustralia.gov.au/trade-marks)
+[US Trademarks](https://www.uspto.gov/trademarks/search)
 
-  |Trademark | Generic Term |
-  | - | - |
-  | 3D Touch® | interface |
-  | AirDrop® | software feature |
-  | AirMac® | wireless hardware/software solution |
-  | AirPlay® | software feature |
-  | AirPods® | wireless headphones |
-  | AirPods Pro® | wireless headphones |
-  | AirPort® | wireless hardware/software solution |
-  | AirPort Express® | wireless hardware/software solution |
+A trademark is an easily recognizable symbol, phrase, or word that denotes a specific product. It legally differentiates a product or service from all others of its kind and recognizes the source company's ownership of the brand.
 
-  C. Designs
+It legally differentiates a product or service from all others of its kind and recognizes the source company's ownership of the brand.
+
+Apple has an extensive list of trademarks, here are a few listing Trademark and the Generic Term
+
+|Trademark | Generic Term |
+| - | - |
+| 3D Touch® | interface |
+| AirDrop® | software feature |
+| AirMac® | wireless hardware/software solution |
+| AirPlay® | software feature |
+| AirPods® | wireless headphones |
+| AirPods Pro® | wireless headphones |
+| AirPort® | wireless hardware/software solution |
+| AirPort Express® | wireless hardware/software solution |
+
+C. Designs
 
 
-  Design registration, protects the appearance of an article and can be an important part in an IP strategy for protecting technical innovation. They can provide significant protection in situations where patent protection is unavailable or not justified.
-  Designs can be registered in Australia and Registered designs protect the appearance (shape, configuration, pattern, ornamentation) of a product. 
+Design registration, protects the appearance of an article and can be an important part in an IP strategy for protecting technical innovation. They can provide significant protection in situations where patent protection is unavailable or not justified.
 
-  D. Circuit Layouts
+Designs can be registered in Australia and Registered designs protect the appearance (shape, configuration, pattern, ornamentation) of a product. 
 
-  The Circuit Layouts Act 1989 - Provides for the protection of certain layouts for integrated circuits.
-  Circuit layouts rights protect the layout plans or designs of electronic components for integrated circuits, computer chips, or semi-codnductors used in:
-    - household items (e.g. digital watches, television sets and washing machines)
-    - medical devices (e.g. heart pacemakers)
-    - anything else with electronic components.
+D. Circuit Layouts
 
-  E. Trade secrets
+The Circuit Layouts Act 1989 - Provides for the protection of certain layouts for integrated circuits.
+Circuit layouts rights protect the layout plans or designs of electronic components for integrated circuits, computer chips, or semi-codnductors used in:
 
-  Australia has no common law or statutory cause of action directed specifically to the protection of trade secrets. Instead, Australia complies with its obligations under article 39 of the 1995 Trade-Related Aspects of Intellectual Property Rights Agreement (TRIPS) by giving trade secrets legal protection through the equitable doctrine of "breach of confidence" and, where an appropriate clause exists, breach of contract.
-  A trade secret can be any confidential information of value. Unlike other IP rights, trade secrets are protected by keeping them a secret, and are not registered with IP offices.
-  From an ICT perspective, Trade secret protection is enforced via contract and confidentiality agreements.
+  - household items (e.g. digital watches, television sets and washing machines)
+  - medical devices (e.g. heart pacemakers)
+  - anything else with electronic components.
+
+E. Trade secrets
+
+Australia has no common law or statutory cause of action directed specifically to the protection of trade secrets. Instead, Australia complies with its obligations under article 39 of the 1995 Trade-Related Aspects of Intellectual Property Rights Agreement (TRIPS) by giving trade secrets legal protection through the equitable doctrine of "breach of confidence" and, where an appropriate clause exists, breach of contract.
+
+A trade secret can be any confidential information of value. Unlike other IP rights, trade secrets are protected by keeping them a secret, and are not registered with IP offices.
+
+From an ICT perspective, Trade secret protection is enforced via contract and confidentiality agreements.
 
