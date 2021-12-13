@@ -1,12 +1,8 @@
 # Project Team - Red Opal/Wiz Biz
 
-Select three suitable team members for the IT development project team 
-(refer to Appendix 1 for the developer personas), justifying your selections.
+Select three suitable team members for the IT development project team justifying your selections.
+Allocate the project roles listed in the Developer team job descriptions and responsibilities based on the requirements of the recommended project solution
 
-Allocate the project roles listed in the Developer team job descriptions 
-(ROI_Developer_team_job_descriptions.pdf) 
-and responsibilities based on the requirements of the recommended project solution
- (as identified in the project plan in Assessment 1 Part 5.5) and the team member’s strengths. 
 You may create a table/matrix for this information.
 
 
