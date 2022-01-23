@@ -57,6 +57,8 @@ For each of the following, create a separate word-processed document:
 ![](./images/conversation-lisa-kudru.png)
 
 
-> Write an email to Alison Garmen, the IT Manager from WizBiz, to invite her to be part of your professional network and discuss how she could be of help with supporting the team. Use the [ROI email template](https://share.tafensw.edu.au/share/items/73f2bb48-c457-4fe9-96cf-618ee5f5f2bc/0/?attachment.uuid=347d5a5d-e8a0-4085-9966-52c261b042de) (ROI_Email_template.docx).
+6. Write an email to Alison Garmen, the IT Manager from WizBiz, to invite her to be part of your professional network and discuss how she could be of help with supporting the team.
+
+> Use the [ROI email template](https://share.tafensw.edu.au/share/items/73f2bb48-c457-4fe9-96cf-618ee5f5f2bc/0/?attachment.uuid=347d5a5d-e8a0-4085-9966-52c261b042de) (ROI_Email_template.docx).
 
 ![](./images/email-alison-garmon.png)
