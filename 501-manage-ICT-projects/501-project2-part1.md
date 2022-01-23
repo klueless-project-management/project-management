@@ -29,20 +29,22 @@ For each of the following, create a separate word-processed document:
 
 1. Create a logically-sequenced team document for the following, using appropriate language and grammar:
 
+2. Prepare a statement of team values 
+
 > Prepare a statement of team values and expected behaviour that are in line with the organisational values.
 > Note that this will be part of what will used to monitor the team members’ performance in the project.
 
-**see**: [Team Values](./501-project2-part1-A-team-values.md)
+**answer - see**: [Team Values](./501-project2-part1-A-team-values.md)
 
-2. Select three suitable team members for the IT development project team (refer to Appendix 1 for the developer personas), justifying your selections.
+3. Select three suitable team members for the IT development project team (refer to Appendix 1 for the developer personas), justifying your selections.
 
-> Allocate the project roles listed in the Developer team job descriptions (ROI_Developer_team_job_descriptions.pdf) and responsibilities based on the requirements of the recommended project solution (as identified in the project plan in Assessment 1 Part 5.5) and the team member’s strengths. You may create a table/matrix for this information.
+**answer see**: [Project Team](./501-project2-part1-B-project-team.md)
 
-**see**: [Project Team](./501-project2-part1-B-project-team.md)
+4. Allocate the project roles listed in the Developer team job descriptions (ROI_Developer_team_job_descriptions.pdf) and responsibilities based on the requirements of the recommended project solution (as identified in the project plan in Assessment 1 Part 5.5) and the team member’s strengths. You may create a table/matrix for this information.
 
+**answer see**: [Project Team](./501-project2-part1-B-project-team.md) 
 
-
-3. Some team members may need training or support, which will be determined in the team meeting. So that you can assist them, you need to build your networks of key people and communities with expert skills and knowledge.
+5. Some team members may need training or support, which will be determined in the team meeting. So that you can assist them, you need to build your networks of key people and communities with expert skills and knowledge.
 
 > Include details of at least two networks that could be utilised for staff training and upskilling. These may include meetup groups, LinkedIn, or other sources of expertise. Provide screenshots and/or emails (both sent and replied) of your interactions with these networks.
 
