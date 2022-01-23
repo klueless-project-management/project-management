@@ -8,7 +8,6 @@ Student:  880616253 / David Cruwys
 
 David Cruwys, 15th Nov, 2021
 
-
 ## Scenario
 
 You are currently employed as a project manager with Red Opal Innovations (ROI) (ROI_Scenario.pdf). You have been assigned the task of managing a project for a new company WizBiz.
