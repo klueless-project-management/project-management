@@ -10,5 +10,5 @@ David Cruwys, 15th Nov, 2021
 
 ### Part 2: Consult with your team
 
-> THIS was done in class
+> Done in class
 

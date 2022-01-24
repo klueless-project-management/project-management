@@ -10,5 +10,5 @@ David Cruwys, 15th Nov, 2021
 
 ### Part 4: Manage your team
 
-> THIS was done in class
+> Done in class
 

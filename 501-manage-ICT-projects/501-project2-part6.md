@@ -12,9 +12,9 @@ David Cruwys, 15th Nov, 2021
 
 > Prepare a project handover report, which includes:
 
-#### Initial Support requirements
+#### Initial support requirements
 
-- System logs will be watched by XXX and Lisa McFeist/Ben Dover (Developers) will produce hotfixes for any issues that come up
+- System logs will be watched by Lisa McFeist/Ben Dover (Developers) will produce hotfixes for any issues that come up
 - Andy Anderson (Software Tester) will be available to our internal users for guidance on how to use the system
 
 #### Ongoing maintenance requirements.
