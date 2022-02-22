@@ -1,66 +1,6 @@
-﻿`	`![NSW Government: TAFE NSW](Aspose.Words.00d9d7c6-494a-421f-b020-c8b772ff4251.001.png) 
-# **Project Assessment: Update, implement and monitor policies and procedures**
-## **Criteria**
-### **Unit code, name and release number**
-ICTICT418 - Contribute to copyright, ethics and privacy in an ICT environment (1)
-### **Qualification/Course code, name and release number**
-ICT40518 - Certificate IV in Programming (1)
-##
-## **Student details**
-### **Student number**
-
-### **Student name**
-
-## **Assessment Declaration**
-- This assessment is my original work and no part of it has been copied from any other source except where due acknowledgement is made.
-- No part of this assessment has been written for me by any other person except where such collaboration has been authorised by the assessor concerned.
-- I understand that plagiarism is the presentation of the work, idea or creation of another person as though it is your own. Plagiarism occurs when the origin of the material used is not appropriately cited. No part of this assessment is plagiarised.
-### **Student signature and Date**
+﻿![](./../report-header.png)
 
 
-Document title: ICTICT418\_AE\_Pro\_2of2		Page 15 of 15
-
-Resource ID: TBS\_18\_028\_ICTICT418\_AE\_Pro\_2of2	STUDENT NAME: 
-
-Version:	1.0
-
-Date created:	7 December 2018
-
-Date modified:	13 August 2020
-
-For queries, please contact:
-
-Technology and Business Services SkillsPoint
-
-Ultimo
-
-© 2018 TAFE NSW, Sydney
-RTO Provider Number 90003 | CRICOS Provider Code: 00591E
-
-This assessment can be found in the [Learning Bank](https://share.tafensw.edu.au/share/access/searching.do?doc=%3Cxml%2F%3E&in=P7ac4831b-430a-4b8d-8b56-f7b32ed5b9cf&q=&type=standard&sort=rank&dr=AFTER)
-
-The contents in this document is copyright © TAFE NSW 2018, and should not be reproduced without the permission of the TAFE NSW. Information contained in this document is correct at time of printing: 13 August 2020. For current information please refer to our website or your teacher as appropriate.
-
-## **Assessment instructions**
-Table 1 Assessment instructions
-
-|**Assessment details**|**Instructions**|
-| :- | :- |
-|**Assessment overview**|The objective of this assessment is to assess your knowledge and performance to update, implement and monitor policies and procedures related to copyright, ethics and privacy.|
-|**Assessment Event number**|2 of 2|
-|**Instructions for this  assessment**|<p>This is a project-based assessment and will be assessing you on your knowledge and performance of the unit.</p><p>This assessment is in three parts:</p><p>1. 1. Update policies and procedures </p><p>2. 2. Implement policies and procedures </p><p>3. 3. Monitor policies and procedures.</p><p>This assessment is supported by the following:</p><p>- Appendix 1 – Assessment Checklist</p><p>- Appendix 2 – Observation Checklist 1</p><p>- Appendix 3 – Observation Checklist 2</p><p>- Assessment Feedback.</p><p>**You must ensure that you have completed Part 1 before attempting Part 2.**</p><p>**Check the Assessment and Observation checklists to ensure that you’ve covered all the required tasks.**</p>|
-|**Submission instructions** |<p>On completion of this assessment, you are required to upload it to the Learning Management System or hand it to your assessor for marking.  </p><p>Ensure you have written your name at the bottom of each page of your assessment.</p><p>Submit the following documents for each part:</p><p>- Part 1</p><p>&emsp;- Policies and procedures report</p><p>- Part 2</p><p>&emsp;- You will be observed by the assessor</p><p>- Part 3</p><p>&emsp;- Email to client</p><p>It is important that you keep a copy of all electronic and hardcopy assessments submitted to TAFE and complete the assessment declaration when submitting the assessment.</p>|
-|**What do I need to do to achieve a satisfactory result?**|To achieve a satisfactory result for this assessment, all questions must be answered correctly and all items in the Assessment checklist must be marked Satisfactory.|
-|**Assessment conditions**|<p>Assessment conditions for Parts 2 will replicate the workplace, including noise levels, production flow, interruptions and time variances. </p><p>Assessment will be undertaken in normal classroom conditions, which is assumed to be noisy and similar to workplace conditions. This may include phones ringing, people talking and other interruptions.</p>|
-|**What do I need to provide?**|<p>- USB drive or other storage method to save work to, with at least 500KB free space.</p><p>- Personal computer with internet access.</p>|
-|**What will the assessor provide?**|<p>- Access to the Learning Management System</p><p>- Scenario documents as outlined in assessment:</p><p>&emsp;- [*DataTrust report template*](https://share.tafensw.edu.au/share/integ/gen/4e2424f3-024d-4bf1-b865-206ea679190e/0/?attachment.uuid=97126431-fc49-4605-8cce-3c5dc36ecb99) (DT\_Report.dotx)</p><p>&emsp;- [*Video and audio upload instructions*](https://share.tafensw.edu.au/share/file/4c5821c2-c192-4c45-96c5-8a0299b195fd/1/Video%20upload%20instructions_2017.pdf) (Video upload instructions\_2017.pdf)</p><p>&emsp;- [*DataTrust PowerPoint template*](https://share.tafensw.edu.au/share/integ/gen/4e2424f3-024d-4bf1-b865-206ea679190e/0/?attachment.uuid=7cc3a2a4-d8d0-44f8-acde-2590be004652) (DT\_Powerpoint.potx)</p><p>&emsp;- [*DataTrust* *Privacy Policy*](https://share.tafensw.edu.au/share/integ/gen/4e2424f3-024d-4bf1-b865-206ea679190e/0/?attachment.uuid=ed60ff9d-7d97-4ddf-ac86-c6b2bf5b569d) (Privacy Policy.pdf)</p><p>&emsp;- [*Email template*](https://share.tafensw.edu.au/share/integ/gen/4e2424f3-024d-4bf1-b865-206ea679190e/0/?attachment.uuid=43ae944e-a12f-42bb-8925-f33e381cbfb6) (DT\_Email.dotx).</p>|
-|**Due date and time allowed**|<p>Due Date: **Check on the Moodle** </p><p>Indicative time to complete assessment:</p><p>- Three hours.</p>|
-|**Assessment location**|<p>Parts 2 will be completed in class, or, for online students, via an online meeting with the assessor.</p><p>All other parts may be completed outside of the classroom.</p>|
-|**Supervision**|Parts 1 and 3.1 of this assessment are an unsupervised, take-home assessment. Your assessor may ask for additional evidence to verify the authenticity of your submission and confirm that the assessment task was completed by you.|
-|**Assessment feedback, review or appeals**|Appeals are addressed in accordance with [Every Student’s Guide to Assessment](https://www.tafensw.edu.au/documents/60140/76288/Every+Students+Guide+to+Assessment+in+TAFE+NSW.pdf/cc2b5417-89a6-08f7-9a67-a0c2ff1e26ee).|
-
-## **Specific task instructions**
-In your role as IT Trainee at [*DataTrust](https://share.tafensw.edu.au/share/file/22c51ecc-efca-455e-a7f2-18847749f30c/1/dataTrust.zip/dataTrust/index.html)*,* you’ve completed some preliminary research on copyright, privacy and ethics. Now you’ve been asked to make some suggestions for additions to the policies, as well as how they’ll be implemented and monitored.
 ## **Part 1: Update policies and procedures**
 Use the [*DataTrust report template*](https://share.tafensw.edu.au/share/integ/gen/4e2424f3-024d-4bf1-b865-206ea679190e/0/?attachment.uuid=97126431-fc49-4605-8cce-3c5dc36ecb99) (DT\_Report.dotx) to write the following policies and procedures (minimum 50 maximum 200 words each).
 1.
