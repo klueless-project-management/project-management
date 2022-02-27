@@ -148,13 +148,32 @@ Tricia sees this as a breach of privacy and is very upset that the DataTrust Pri
 
 You’ve been asked to follow up with Tricia, so you’ll need to review the [*DataTrust* *Privacy Policy*](https://share.tafensw.edu.au/share/integ/gen/4e2424f3-024d-4bf1-b865-206ea679190e/0/?attachment.uuid=ed60ff9d-7d97-4ddf-ac86-c6b2bf5b569d) (Privacy Policy.pdf).
 
-1.
 1. Write an email to Tricia, using the [*email template*](https://share.tafensw.edu.au/share/integ/gen/4e2424f3-024d-4bf1-b865-206ea679190e/0/?attachment.uuid=43ae944e-a12f-42bb-8925-f33e381cbfb6) (DT\_Email.dotx), as follows (minimum 75 and maximum 200 words):
-1.
-1. 1. Thank Tricia for her feedback, explaining how it will be used to assist the organisation
-1. 1. Outline DataTrust’s requirements that should have been followed, according to the Privacy Policy, to ensure good customer service.
-1.
-1.
+
+From: David Cruwys, 
+Sent: Monday, 01 Feb 2022 10:44 AM
+To: Tricia Portman
+
+Subject: Disclosing Personal Information without appropriate checks
+
+Dear Tricia,
+
+I'm sorry to hear about your experience with our Accounts Representative 'Brian Cotswald'.
+
+I have checked our privacy policy and our procedure manual around identity checks and will follow up with both Brian and the entire Accounts Team with training around this particular scenario.
+
+Thank you for notifying DataTrust about this issue.
+
+Kind regards
+David Cruwys
+
+m: 0409 000 000
+david.cruwys@dmail.com
+127 Spring Road, North Tulitza 9460
+p | 09 6651 8725
+e | DataTrust@dmail.com
+
+
 ## **Appendix 1: Assessment Checklist**
 The following checklist will be used by your assessor to mark your performance against the assessment criteria of your submitted project. Use this checklist to understand what skills and/or knowledge you need to demonstrate in your submission. All the criteria described in the Assessment Checklist must be met. The assessor may ask questions while the submission is taking place or if appropriate directly after the task has been submitted.
 
