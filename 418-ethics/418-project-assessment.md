@@ -148,7 +148,7 @@ Tricia sees this as a breach of privacy and is very upset that the DataTrust Pri
 
 You’ve been asked to follow up with Tricia, so you’ll need to review the [*DataTrust* *Privacy Policy*](https://share.tafensw.edu.au/share/integ/gen/4e2424f3-024d-4bf1-b865-206ea679190e/0/?attachment.uuid=ed60ff9d-7d97-4ddf-ac86-c6b2bf5b569d) (Privacy Policy.pdf).
 
-1. Write an email to Tricia, using the [*email template*](https://share.tafensw.edu.au/share/integ/gen/4e2424f3-024d-4bf1-b865-206ea679190e/0/?attachment.uuid=43ae944e-a12f-42bb-8925-f33e381cbfb6) (DT\_Email.dotx), as follows (minimum 75 and maximum 200 words):
+Write an email to Tricia, using the [*email template*](https://share.tafensw.edu.au/share/integ/gen/4e2424f3-024d-4bf1-b865-206ea679190e/0/?attachment.uuid=43ae944e-a12f-42bb-8925-f33e381cbfb6) (DT\_Email.dotx), as follows (minimum 75 and maximum 200 words):
 
 From: David Cruwys, 
 Sent: Monday, 01 Feb 2022 10:44 AM
@@ -167,11 +167,11 @@ Thank you for notifying DataTrust about this issue.
 Kind regards
 David Cruwys
 
-m: 0409 000 000
-david.cruwys@dmail.com
-127 Spring Road, North Tulitza 9460
-p | 09 6651 8725
-e | DataTrust@dmail.com
+- m: 0409 000 000
+- david.cruwys@dmail.com
+- 127 Spring Road, North Tulitza 9460
+- p | 09 6651 8725
+- e | DataTrust@dmail.com
 
 
 ## **Appendix 1: Assessment Checklist**
